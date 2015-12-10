@@ -6,6 +6,9 @@ import csv
 import json
 import wikipedia
 import re
+import logging
+
+logging.captureWarnings(True)
 
 ################################################################################
 #                         Constant Definitions                                 #
@@ -29,14 +32,20 @@ finalizeMap = {
 #                         Function Definitions                                 #
 ################################################################################
 
-def saveDictionary(dictionaryToSave):
+def saveDictionary(dictionaryToSave, meta):
+    dictionaryToSave = {'meta': meta, 'content': dictionaryToSave}
     with open('dictionary','w+') as contents:
         contents.write(json.dumps(dictionaryToSave, indent=2))
 
 def loadDictionary():
     with open('dictionary','r') as contents:
         dictionary = json.loads(contents.read())
-    return dictionary
+    return dictionary['content']
+
+def loadDictionaryMeta():
+    with open('dictionary','r') as contents:
+        dictionary = json.loads(contents.read())
+    return dictionary['meta']
 
 def addWord(firstWord, secondWord):
     firstWord = firstWord.lower().replace("\n", '').replace('.', '')
@@ -81,7 +90,15 @@ def getFileContents(filename):
         return ""
 
 def getNextWordSuggestions(word):
-    return dictionary[word]
+    suggestions = []
+    if word in dictionary:
+        suggestions = dictionary[word]
+    else:
+        while suggestions == []:
+            randChoice = random.choice(dictionary.keys())
+            if randChoice in dictionary:
+                suggestions = dictionary[randChoice]
+    return suggestions
 
 def chooseNextWord(word):
     choices = getNextWordSuggestions(word)
@@ -92,7 +109,7 @@ def chooseNextWord(word):
 
     for choice in choices:
         totalWeight += int(choices[choice])
-        for i in range(0, choices[choice]):
+        for i in range(0, (choices[choice] ** 2)):
             weightedArray.append(choice)
     return random.choice(weightedArray)
 
@@ -101,7 +118,9 @@ def iterateInput(input):
     words = input.split(" ")
     for i in range(0, (len(words)-1)):
         word = words[i]
-        nextWord = words[i+1]
+        word = word.replace(' ', '')
+        word = word.lower()
+        nextWord = words[i+1].lower()
 
         word = ''.join([i if ord(i) < 128 else '' for i in word])
         nextWord = ''.join([i if ord(i) < 128 else '' for i in nextWord])
@@ -110,12 +129,12 @@ def iterateInput(input):
             punctuation = getPunctuation(word)
             word = removePunctuation(word)
             addWord(word, punctuation)
+            if not punctuation.lower() == '<<period>>':
+                addWord(word, nextWord)
+                addWord(punctuation, nextWord)
+        else:
+            addWord(word.lower(), nextWord.lower())
 
-        if hasPunctuation(nextWord):
-            punctuation = getPunctuation(nextWord)
-            nextWord = removePunctuation(nextWord)
-
-        addWord(word.lower(), nextWord.lower())
 
 def finalize(sentence):
     sentence = sentence.capitalize()
@@ -126,6 +145,7 @@ def finalize(sentence):
 
 def makeSentence(word):
     word = word.lower()
+    parts = []
     def makeSentenceHelper(word, sentenceParts):
         if isFullStop(word):
             sentenceParts.append(word)
@@ -141,6 +161,7 @@ def makeSentence(word):
     try:
         parts = makeSentenceHelper(word, [])
     except KeyError:
+        print parts
         parts = makeSentenceHelper(word, [])
 
     sentence = ' '.join(parts)
@@ -151,20 +172,26 @@ def makeSentence(word):
     return sentence
 
 def crawlAndLearn(topic):
-    search = wikipedia.search(topic, results=5)
-    for page in search:
-        print "Learning about: " + page
-        try:
-            article = wikipedia.page(page)
-            content = re.sub(r'=+\sSee also\s=+.+$', ' ', article.content, flags=re.M | re.S)
-            content = re.sub(r'=+\s.+\s=+', ' ', content)
-            content = re.sub(r'\(.+\)', ' ', content, flags=re.M | re.S)
-            #print content
-            iterateInput(content)
-        except wikipedia.exceptions.DisambiguationError:
-            content = ""
-        except wikipedia.exceptions.PageError:
-            content = ""
+    if topic in meta['educatedOn']:
+        print "Already Learned: " + topic
+    else:
+        search = wikipedia.search(topic, results=5)
+        for page in search:
+            print "Learning about: " + page
+            try:
+                article = wikipedia.page(page)
+                content = re.sub(r'=+\sSee also\s=+.+$', ' ', article.content, flags=re.M | re.S)
+                content = re.sub(r'=+\s.+\s=+', ' ', content)
+                content = re.sub(r'\(.+\)', ' ', content, flags=re.M | re.S)
+                #print content
+                iterateInput(content)
+            except wikipedia.exceptions.DisambiguationError:
+                content = ""
+            except wikipedia.exceptions.PageError:
+                content = ""
+        if not 'educatedOn' in meta:
+            meta['educatedOn'] = []
+        meta['educatedOn'].append(topic)
 
 
 
@@ -184,8 +211,9 @@ def learnAbout(topics):
 ################################################################################
 #                         Run The Program                                      #
 ################################################################################
-# dictionary = loadDictionary()
-dictionary = {}
+dictionary = loadDictionary()
+meta = loadDictionaryMeta()
+# dictionary = {}
 
 # testString = getFileContents('input.txt')
 # iterateInput(testString)
@@ -194,8 +222,8 @@ dictionary = {}
 # chooseNextWord('the')
 # print chooseNextWord('has')
 # print makeSentence('an')
-learnAbout('Minnesota')
+learnAbout(['robots', 'dinosaurs', 'communism'])
 print makeSentence(random.choice(dictionary.keys()))
 
 
-saveDictionary(dictionary)
+saveDictionary(dictionary, meta)
