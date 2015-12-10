@@ -35,15 +35,18 @@ flags = {
     '-e': {'configVar': 'entropy', 'type': 'num'},
     '-r': {'configVar': 'readMoreLimit', 'type': 'num'},
     '-d': {'configVar': 'dictionaryFile', 'type': 'string'},
-    '-s': {'configVar': 'saveDictionary', 'type': 'unary'},
-    '-n': {'configVar': 'numSentences', 'type': 'num'}
+    '-nosave': {'configVar': 'saveDictionary', 'type': 'unary'},
+    '-n': {'configVar': 'numSentences', 'type': 'num'},
+    '-delete': {'configVar': 'deleteDictionary', 'type': 'unary'}
     }
+
+questionWords = ['who', 'what', 'where', 'when', 'why', 'how']
 
 def isnum(input): return input.isdigit()
 def isString(input): return True
 types = {'num': isnum, 'string': isString}
 
-config = {'entropy': 1, 'readMoreLimit': 1, 'searchTerms': [], 'dictionaryFile': 'dictionary', 'saveDictionary': False, 'numSentences': 1}
+config = {'entropy': 1, 'readMoreLimit': 1, 'searchTerms': [], 'dictionaryFile': 'dictionary', 'saveDictionary': True, 'deleteDictionary': False, 'numSentences': 1}
 
 ################################################################################
 #                         Function Definitions                                 #
@@ -55,6 +58,9 @@ def saveDictionary(dictionaryToSave, meta, name):
     dictionaryToSave = {'content': dictionaryToSave, 'meta': meta}
     with open(name,'w+') as contents:
         contents.write(json.dumps(dictionaryToSave, indent=2))
+
+def deleteDictionary(name):
+    os.remove(name)
 
 def loadFileContents(name):
     if os.path.isfile(name):
@@ -104,6 +110,9 @@ def getPunctuation(word):
 
 def removePunctuation(word):
     return word[:-1]
+
+def isQuestion(word):
+    return word in questionWords
 
 def getFileContents(filename):
     if not filename == '':
@@ -187,6 +196,8 @@ def makeSentence(word):
     except KeyError:
         print parts
         parts = makeSentenceHelper(word, [])
+    if isQuestion(parts[0]):
+        parts[len(parts) - 1] = '<<question>>'
 
     sentence = ' '.join(parts)
 
@@ -241,7 +252,7 @@ def parseArguments(argv):
         while(i < len(argv)):
             if argv[i] in flags:
                 if flags[argv[i]]['type'] == 'unary':
-                    config[flags[argv[i]]['configVar']] = True
+                    config[flags[argv[i]]['configVar']] = not config[flags[argv[i]]['configVar']]
                 else:
                     if i+1 < len(argv):
                         if matchesType(argv[i+1], flags[argv[i]]['type']):
@@ -269,14 +280,20 @@ def generateSentences():
 
 
 
+
 ################################################################################
 #                         Run The Program                                      #
 ################################################################################
 parseArguments(sys.argv)
 
+if (config['deleteDictionary']):
+    deleteDictionary(config['dictionaryFile'])
+
 (dictionary, meta) = loadDictionary(config['dictionaryFile'])
 if configDiffersFromMeta(config, meta):
     (dictionary, meta) = newDictionary()
+
+meta['config'] = config
 
 # testString = getFileContents('input.txt')
 # iterateInput(testString)
