@@ -7,6 +7,7 @@ import json
 import wikipedia
 import re
 import logging
+import os.path
 
 logging.captureWarnings(True)
 
@@ -33,18 +34,24 @@ finalizeMap = {
 ################################################################################
 
 def saveDictionary(dictionaryToSave, meta):
-    dictionaryToSave = {'meta': meta, 'content': dictionaryToSave}
+    dictionaryToSave = {'content': dictionaryToSave, 'meta': meta}
     with open('dictionary','w+') as contents:
         contents.write(json.dumps(dictionaryToSave, indent=2))
 
+def loadFileContents():
+    if os.path.isfile('dictionary'):
+        with open('dictionary','r') as contents:
+            dictionary = json.loads(contents.read())
+        return dictionary
+    else:
+        return {'content': {}, 'meta': {}}
+
 def loadDictionary():
-    with open('dictionary','r') as contents:
-        dictionary = json.loads(contents.read())
+    dictionary = loadFileContents()
     return dictionary['content']
 
 def loadDictionaryMeta():
-    with open('dictionary','r') as contents:
-        dictionary = json.loads(contents.read())
+    dictionary = loadFileContents()
     return dictionary['meta']
 
 def addWord(firstWord, secondWord):
@@ -52,6 +59,8 @@ def addWord(firstWord, secondWord):
     secondWord = secondWord.lower().replace("\n", '').replace('.', '')
     firstWord.replace('"', ' ')
     secondWord.replace('"', ' ')
+    firstWord = ''.join(c for c in firstWord if c.isalpha() or c == "<" or c == ">" or c == "-")
+    secondWord = ''.join(c for c in secondWord if c.isalpha() or c == "<" or c == ">" or c == "-")
 
     if firstWord != "" and secondWord != "":
         if firstWord in dictionary:
@@ -172,10 +181,14 @@ def makeSentence(word):
     return sentence
 
 def crawlAndLearn(topic):
+
+    if not 'educatedOn' in meta:
+        meta['educatedOn'] = []
+
     if topic in meta['educatedOn']:
         print "Already Learned: " + topic
     else:
-        search = wikipedia.search(topic, results=5)
+        search = wikipedia.search(topic, results=1)
         for page in search:
             print "Learning about: " + page
             try:
@@ -222,8 +235,7 @@ meta = loadDictionaryMeta()
 # chooseNextWord('the')
 # print chooseNextWord('has')
 # print makeSentence('an')
-learnAbout(['robots', 'dinosaurs', 'communism'])
-print makeSentence(random.choice(dictionary.keys()))
-
-
+learnAbout(['halo combat evolved', 'halo 2', 'halo 3', 'halo 4', 'halo 5', 'master chief', 'cortana', 'xbox'])
 saveDictionary(dictionary, meta)
+
+print makeSentence(random.choice(dictionary.keys()))
