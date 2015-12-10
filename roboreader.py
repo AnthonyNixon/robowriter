@@ -8,6 +8,7 @@ import wikipedia
 import re
 import logging
 import os.path
+import sys
 
 logging.captureWarnings(True)
 
@@ -28,39 +29,53 @@ finalizeMap = {
     '<<COMMA>>': ',',
     '<<COLON>>': ':'
     }
+allowedChars = ['<', '>', '-', '/']
+
+flags = {
+    '-e': {'configVar': 'entropy', 'type': 'num'},
+    '-r': {'configVar': 'readMoreLimit', 'type': 'num'},
+    '-d': {'configVar': 'dictionaryFile', 'type': 'string'},
+    '-s': {'configVar': 'saveDictionary', 'type': 'unary'},
+    '-n': {'configVar': 'numSentences', 'type': 'num'}
+    }
+
+def isnum(input): return input.isdigit()
+def isString(input): return True
+types = {'num': isnum, 'string': isString}
+
+config = {'entropy': 1, 'readMoreLimit': 1, 'searchTerms': [], 'dictionaryFile': 'dictionary', 'saveDictionary': False, 'numSentences': 1}
 
 ################################################################################
 #                         Function Definitions                                 #
 ################################################################################
+def newDictionary():
+    return ({}, {})
 
-def saveDictionary(dictionaryToSave, meta):
+def saveDictionary(dictionaryToSave, meta, name):
     dictionaryToSave = {'content': dictionaryToSave, 'meta': meta}
-    with open('dictionary','w+') as contents:
+    with open(name,'w+') as contents:
         contents.write(json.dumps(dictionaryToSave, indent=2))
 
-def loadFileContents():
-    if os.path.isfile('dictionary'):
-        with open('dictionary','r') as contents:
+def loadFileContents(name):
+    if os.path.isfile(name):
+        with open(name,'r') as contents:
             dictionary = json.loads(contents.read())
         return dictionary
     else:
-        return {'content': {}, 'meta': {}}
+        return {'content': {}, 'meta': {'config': config}}
 
-def loadDictionary():
-    dictionary = loadFileContents()
-    return dictionary['content']
+def loadDictionary(name):
+    dictionary = loadFileContents(name)
+    return (dictionary['content'], dictionary['meta'])
 
-def loadDictionaryMeta():
-    dictionary = loadFileContents()
-    return dictionary['meta']
+def getRandomDictionaryWord():
+    return random.choice(dictionary.keys())
 
 def addWord(firstWord, secondWord):
     firstWord = firstWord.lower().replace("\n", '').replace('.', '')
     secondWord = secondWord.lower().replace("\n", '').replace('.', '')
-    firstWord.replace('"', ' ')
-    secondWord.replace('"', ' ')
-    firstWord = ''.join(c for c in firstWord if c.isalpha() or c == "<" or c == ">" or c == "-")
-    secondWord = ''.join(c for c in secondWord if c.isalpha() or c == "<" or c == ">" or c == "-")
+    firstWord = ''.join(c for c in firstWord if c.isalnum() or c in allowedChars)
+    secondWord = ''.join(c for c in secondWord if c.isalnum() or c in allowedChars)
 
     if firstWord != "" and secondWord != "":
         if firstWord in dictionary:
@@ -118,7 +133,7 @@ def chooseNextWord(word):
 
     for choice in choices:
         totalWeight += int(choices[choice])
-        for i in range(0, (choices[choice] ** 2)):
+        for i in range(0, (choices[choice] ** config['entropy'])):
             weightedArray.append(choice)
     return random.choice(weightedArray)
 
@@ -188,7 +203,7 @@ def crawlAndLearn(topic):
     if topic in meta['educatedOn']:
         print "Already Learned: " + topic
     else:
-        search = wikipedia.search(topic, results=1)
+        search = wikipedia.search(topic, results=config['readMoreLimit'])
         for page in search:
             print "Learning about: " + page
             try:
@@ -216,26 +231,60 @@ def learnAbout(topics):
         for topic in topics:
             crawlAndLearn(topic)
 
+def matchesType(value, type):
+    # return value.isdigit()
+    return types[type](value)
 
+def parseArguments(argv):
+    if len(argv) > 1:
+        i = 1
+        while(i < len(argv)):
+            if argv[i] in flags:
+                if flags[argv[i]]['type'] == 'unary':
+                    config[flags[argv[i]]['configVar']] = True
+                else:
+                    if i+1 < len(argv):
+                        if matchesType(argv[i+1], flags[argv[i]]['type']):
+                            if flags[argv[i]]['type'] == 'num':
+                                config[flags[argv[i]]['configVar']] = int(argv[i+1])
+                            else:
+                                config[flags[argv[i]]['configVar']] = argv[i+1]
+                            i += 1
+                        else:
+                            print "ERROR: Value entered for flag '" + argv[i] + "' is expected to be type '" + flags[argv[i]]['type'] + "'"
+                    else:
+                        print "ERROR: value not found for flag '" + argv[i] + "'. Defaulting to " + str(config[flags[argv[i]]['configVar']])
+            else:
+                config['searchTerms'].append(argv[i])
+            i += 1
 
+def configDiffersFromMeta(config, meta):
+    return config['readMoreLimit'] != meta['config']['readMoreLimit']
+
+def generateSentences():
+    for i in range(0, config['numSentences']):
+        print
+        print makeSentence(getRandomDictionaryWord())
+        print
 
 
 
 ################################################################################
 #                         Run The Program                                      #
 ################################################################################
-dictionary = loadDictionary()
-meta = loadDictionaryMeta()
-# dictionary = {}
+parseArguments(sys.argv)
+
+(dictionary, meta) = loadDictionary(config['dictionaryFile'])
+if configDiffersFromMeta(config, meta):
+    (dictionary, meta) = newDictionary()
 
 # testString = getFileContents('input.txt')
 # iterateInput(testString)
 
-# chooseNextWord('united')
-# chooseNextWord('the')
-# print chooseNextWord('has')
-# print makeSentence('an')
-learnAbout(['halo combat evolved', 'halo 2', 'halo 3', 'halo 4', 'halo 5', 'master chief', 'cortana', 'xbox'])
-saveDictionary(dictionary, meta)
 
-print makeSentence(random.choice(dictionary.keys()))
+learnAbout(config['searchTerms'])
+
+if config['saveDictionary']:
+    saveDictionary(dictionary, meta, config['dictionaryFile'])
+
+generateSentences()
