@@ -9,35 +9,24 @@
       "classes": 1, 
       "victims": 1
     }, 
-    "evidence": {
-      "<<comma>>": 2, 
-      "survives": 1, 
-      "sometimes": 1, 
-      "of": 1
-    }, 
-    "proletariat": {
-      "<<period>>": 1
+    "commensal": {
+      "relationship": 1
     }, 
     "similarity": {
       "among": 1
     }, 
-    "hooked": {
-      "her": 1
+    "excepting": {
+      "the": 1
     }, 
     "ceramic": {
       "<<comma>>": 1, 
       "glass": 1
     }, 
-    "thomas": {
-      "publisher": 1
+    "despise": {
+      "whom": 1
     }, 
-    "selection": {
-      "<<comma>>": 2, 
-      "as": 2
-    }, 
-    "lamps": {
-      "<<comma>>": 1, 
-      "gems": 1
+    "chariot": {
+      "is": 1
     }, 
     "asian": {
       "leopard": 1
@@ -45,16 +34,11 @@
     "controversial": {
       "viewpoint": 1
     }, 
-    "crete": {
-      "after": 1
+    "aristocrat": {
+      "for": 1
     }, 
-    "follow": {
-      "the": 1
-    }, 
-    "only": {
-      "occasional": 1, 
-      "a": 1, 
-      "when": 1
+    "gossip": {
+      "and": 1
     }, 
     "religious": {
       "beliefs": 1
@@ -72,8 +56,8 @@
     "simon": {
       "scarrow": 1
     }, 
-    "commensal": {
-      "relationship": 1
+    "proletariat": {
+      "<<period>>": 1
     }, 
     "hunting": {
       "the": 1
@@ -95,9 +79,6 @@
     }, 
     "excluded": {
       "from": 1
-    }, 
-    "64": {
-      "<<period>>": 1
     }, 
     "include": {
       "their": 1
@@ -125,9 +106,8 @@
     "fall": {
       "in": 1
     }, 
-    "implausible": {
-      "<<comma>>": 1, 
-      "because": 1
+    "weaponized": {
+      "military": 1
     }, 
     "1995": {
       "<<period>>": 1
@@ -151,12 +131,11 @@
     "gun": {
       "and": 1
     }, 
-    "handsome": {
-      "<<comma>>": 1, 
-      "and": 1
-    }, 
     "grandfather": {
       "who": 1
+    }, 
+    "random": {
+      "subatomic": 1
     }, 
     "p": {
       "<<period>>": 3
@@ -170,6 +149,9 @@
     }, 
     "small": {
       "size": 1
+    }, 
+    "provided": {
+      "thirty": 1
     }, 
     "sacrificial": {
       "in": 1
@@ -186,8 +168,8 @@
     "eloped": {
       "to": 1
     }, 
-    "aristocrat": {
-      "for": 1
+    "crete": {
+      "after": 1
     }, 
     "second": {
       "world": 1, 
@@ -196,8 +178,8 @@
     "displays": {
       "several": 1
     }, 
-    "gossip": {
-      "and": 1
+    "follow": {
+      "the": 1
     }, 
     "further": {
       "<<comma>>": 1, 
@@ -222,17 +204,13 @@
     }, 
     "what": {
       "did": 1, 
-      "was": 1, 
       "hooked": 1, 
+      "was": 1, 
       "they": 1, 
       "he": 1
     }, 
     "errors": {
       "<<period>>": 1
-    }, 
-    "power": {
-      "<<comma>>": 1, 
-      "and": 1
     }, 
     "paintings": {
       "and": 1, 
@@ -270,13 +248,17 @@
       "the": 1, 
       "one": 1
     }, 
+    "entanglement": {
+      "of": 1
+    }, 
     "new": {
       "zealand": 1, 
       "play": 1, 
       "equilibriums": 1
     }, 
-    "piezoelectric": {
-      "tuning": 1
+    "ground": {
+      "combat": 1, 
+      "fighting": 2
     }, 
     "public": {
       "<<colon>>": 1, 
@@ -292,6 +274,9 @@
     }, 
     "christian": {
       "viewpoint": 1
+    }, 
+    "behavior": {
+      "of": 1
     }, 
     "prescriptions": {
       "placed": 1
@@ -320,8 +305,8 @@
     "objects": {
       "<<period>>": 1
     }, 
-    "possibility": {
-      "of": 1
+    "free": {
+      "the": 1
     }, 
     "others": {
       "argue": 1, 
@@ -346,8 +331,8 @@
     "arena": {
       "<<period>>": 1, 
       "as": 1, 
-      "floor": 1, 
-      "were": 1
+      "were": 1, 
+      "floor": 1
     }, 
     "publisher": {
       "<<period>>": 1
@@ -378,9 +363,6 @@
       "and": 1, 
       "states": 1
     }, 
-    "later": {
-      "imperial": 1
-    }, 
     "trial": {
       "i": 1
     }, 
@@ -389,9 +371,9 @@
     }, 
     "social": {
       "evolutionist": 1, 
-      "nature": 1, 
+      "darwinism": 3, 
       "structure": 1, 
-      "darwinism": 3
+      "nature": 1
     }, 
     "action": {
       "of": 1
@@ -415,9 +397,8 @@
       "with": 1, 
       "of": 1
     }, 
-    "although": {
-      "this": 1, 
-      "they": 1
+    "1935": {
+      "<<period>>": 1
     }, 
     "elaborated": {
       "by": 1
@@ -442,17 +423,14 @@
     "pliny": {
       "the": 1
     }, 
-    "ninth": {
-      "book": 1
+    "actions": {
+      "used": 1
     }, 
     "total": {
       "war": 1
     }, 
     "establish": {
       "dominance": 2
-    }, 
-    "once": {
-      "when": 1
     }, 
     "undergone": {
       "major": 1
@@ -469,24 +447,14 @@
     "army": {
       "battlefields": 1
     }, 
-    "mortality": {
-      "<<period>>": 1
+    "century": {
+      "army": 1, 
+      "bc": 1
     }, 
     "two": {
       "wall": 1, 
       "main": 1, 
       "human": 1
-    }, 
-    "by": {
-      "a": 1, 
-      "simon": 1, 
-      "people": 1, 
-      "an": 1, 
-      "high-caste": 1, 
-      "location": 1, 
-      "austrian": 1, 
-      "the": 2, 
-      "extreme": 1
     }, 
     "ferrets": {
       "or": 1
@@ -518,10 +486,6 @@
     "tolerated": {
       "by": 1
     }, 
-    "yes": {
-      "<<comma>>": 1, 
-      "further": 1
-    }, 
     "populations": {
       "<<period>>": 1
     }, 
@@ -534,19 +498,6 @@
     "portraiture": {
       "of": 1, 
       "in": 1
-    }, 
-    "it": {
-      "on": 1, 
-      "they": 1, 
-      "illustrates": 1, 
-      "advances": 1, 
-      "is": 4, 
-      "encompasses": 1, 
-      "serves": 1, 
-      "<<exclamation>>": 1, 
-      "allows": 1, 
-      "somewhat": 1, 
-      "was": 1
     }, 
     "glass": {
       "or": 1
@@ -579,6 +530,9 @@
     "circumstances": {
       "<<period>>": 1
     }, 
+    "150": {
+      "<<period>>": 1
+    }, 
     "1990": {
       "<<period>>": 1
     }, 
@@ -604,12 +558,6 @@
     }, 
     "originally": {
       "developed": 1
-    }, 
-    "when": {
-      "a": 1, 
-      "the": 2, 
-      "they": 1, 
-      "in": 1
     }, 
     "flu": {
       "virus": 1
@@ -644,58 +592,8 @@
       "<<comma>>": 1, 
       "servius": 1
     }, 
-    "of": {
-      "all": 2, 
-      "human": 1, 
-      "office": 1, 
-      "similarity": 1, 
-      "diana": 1, 
-      "over": 1, 
-      "vermin": 1, 
-      "mine": 1, 
-      "light": 1, 
-      "an": 1, 
-      "quantum": 2, 
-      "nero": 1, 
-      "crete": 1, 
-      "armed": 1, 
-      "gladiator": 1, 
-      "techniques": 1, 
-      "nemesis": 1, 
-      "surviving": 1, 
-      "clandestine": 1, 
-      "deaths": 1, 
-      "artificial": 1, 
-      "imperial": 1, 
-      "being": 1, 
-      "cats": 1, 
-      "new": 1, 
-      "war": 2, 
-      "higher": 1, 
-      "play": 1, 
-      "his": 1, 
-      "combat": 1, 
-      "qubits": 1, 
-      "mammals": 1, 
-      "paraguays": 1, 
-      "kitty": 1, 
-      "it": 1, 
-      "early": 1, 
-      "opposing": 1, 
-      "balancing": 1, 
-      "ethics": 1, 
-      "gladiatorial": 2, 
-      "these": 1, 
-      "macro": 1, 
-      "vibrating": 1, 
-      "specific": 1, 
-      "carriage": 1, 
-      "wildcats": 2, 
-      "west": 1, 
-      "making": 1, 
-      "the": 27, 
-      "gladiators": 5, 
-      "having": 1
+    "universe": {
+      "in": 1
     }, 
     "making": {
       "a": 1
@@ -709,22 +607,17 @@
       "is": 1, 
       "in": 1
     }, 
-    "imperial": {
-      "justice": 1, 
-      "era": 1, 
-      "power": 1
-    }, 
     "dedicated": {
       "to": 1
     }, 
-    "citizens": {
-      "of": 1
+    "violence": {
+      "and": 1, 
+      "<<period>>": 1, 
+      "is": 3, 
+      "can": 1
     }, 
-    "dangerously": {
-      "sexual": 1
-    }, 
-    "perversity": {
-      "of": 1
+    "triple": {
+      "alliance": 1
     }, 
     "process": {
       "<<comma>>": 1, 
@@ -742,6 +635,10 @@
     }, 
     "phrase": {
       "cat": 1
+    }, 
+    "wildcats": {
+      "and": 1, 
+      "may": 1
     }, 
     "clothing": {
       "<<comma>>": 1, 
@@ -787,8 +684,8 @@
     "species": {
       "such": 1
     }, 
-    "astronomers": {
-      "observing": 1
+    "1": {
+      "eg": 1
     }, 
     "how": {
       "cats": 1
@@ -800,8 +697,8 @@
     "galleria": {
       "borghese": 1
     }, 
-    "ancestor": {
-      "are": 1
+    "zone": {
+      "safety": 1
     }, 
     "intelligent": {
       "individuals": 1
@@ -809,24 +706,18 @@
     "dominance": {
       "over": 2
     }, 
-    "<<colon>>": {
-      "a": 1, 
-      "clinch": 2, 
-      "us": 1, 
-      "meantime": 1, 
-      "the": 2, 
-      "prevention": 1
+    "<<exclamation>>": {
+      "they": 1
+    }, 
+    "alternative": {
+      "idea": 1
     }, 
     "tried": {
       "to": 1
     }, 
-    "may": {
-      "be": 2, 
-      "indeed": 1, 
-      "also": 1, 
-      "have": 3, 
-      "not": 2, 
-      "or": 2
+    "mess": {
+      "<<comma>>": 1, 
+      "helmet-scarred": 1
     }, 
     "2011-03-23": {
       "<<period>>": 1
@@ -840,8 +731,8 @@
     "variant": {
       "on": 1
     }, 
-    "containing": {
-      "life-like": 1
+    "damaged": {
+      "by": 1
     }, 
     "unforgivably": {
       "public": 1
@@ -856,8 +747,8 @@
     "trickling": {
       "from": 1
     }, 
-    "floor": {
-      "or": 1
+    "value": {
+      "of": 1
     }, 
     "such": {
       "as": 2, 
@@ -883,7 +774,7 @@
     "a": {
       "senators": 1, 
       "process": 2, 
-      "flu": 1, 
+      "self-propelled": 1, 
       "universal": 1, 
       "random": 1, 
       "potent": 1, 
@@ -893,11 +784,9 @@
       "controversial": 1, 
       "proper": 1, 
       "subspecies": 1, 
-      "rumor": 1, 
       "technology": 1, 
       "gladiator": 2, 
       "piezoelectric": 1, 
-      "pseudo-schrdingers": 1, 
       "paradox": 1, 
       "bacterium": 1, 
       "ruthless": 1, 
@@ -909,7 +798,6 @@
       "location": 2, 
       "ground": 1, 
       "type": 1, 
-      "succession": 1, 
       "function": 1, 
       "picture": 1, 
       "good": 1, 
@@ -917,24 +805,30 @@
       "superposition": 1, 
       "combat": 1, 
       "means": 1, 
+      "freedman": 1, 
       "ranged": 2, 
       "variant": 1, 
       "gladiatorial": 1, 
       "mutualistic": 1, 
+      "purposeful": 2, 
       "tidal": 1, 
       "class": 2, 
-      "freedman": 1, 
+      "rumor": 1, 
       "billion": 2, 
       "great": 1, 
-      "purposeful": 2, 
-      "self-propelled": 1, 
+      "2009": 1, 
+      "tumult": 1, 
+      "flu": 1, 
       "cat": 1, 
       "thought": 1, 
       "place": 1, 
-      "tumult": 1, 
+      "social": 1, 
       "fresh": 1, 
-      "2009": 1, 
-      "social": 1
+      "succession": 1, 
+      "pseudo-schrdingers": 1
+    }, 
+    "changes": {
+      "during": 1
     }, 
     "equilibriums": {
       "are": 1
@@ -989,11 +883,8 @@
       "<<comma>>": 1, 
       "states": 1
     }, 
-    "first": {
-      "observers": 1, 
-      "makes": 1, 
-      "observer": 1, 
-      "act": 1
+    "solidly": {
+      "plebeian": 1
     }, 
     "gladiators": {
       "and": 1, 
@@ -1001,16 +892,19 @@
       "would": 1, 
       "<<comma>>": 1, 
       "could": 1, 
-      "were": 1, 
+      "in": 2, 
       "as": 1, 
       "moll": 1, 
-      "in": 2, 
+      "were": 1, 
       "along": 1, 
       "has": 1, 
       "tomb": 1
     }, 
     "travel": {
       "guide": 1
+    }, 
+    "restricted": {
+      "to": 1
     }, 
     "operations": {
       "<<period>>": 1
@@ -1041,11 +935,13 @@
     "produced": {
       "depicting": 1
     }, 
-    "weaponized": {
-      "military": 1
+    "implausible": {
+      "<<comma>>": 1, 
+      "because": 1
     }, 
-    "own": {
-      "wishful": 1
+    "alliance": {
+      "<<comma>>": 1, 
+      "which": 1
     }, 
     "through": {
       "a": 1, 
@@ -1054,15 +950,18 @@
       "1950": 1, 
       "violence": 1
     }, 
-    "same": {
-      "disparaging": 1, 
-      "account": 1
+    "eppia": {
+      "what": 1, 
+      "<<question>>": 1
     }, 
     "argued": {
       "that": 1
     }, 
     "austrian": {
       "physicist": 1
+    }, 
+    "wherein": {
+      "the": 1
     }, 
     "its": {
       "rules": 1, 
@@ -1073,17 +972,20 @@
     "tendency": {
       "towards": 1
     }, 
-    "1": {
-      "eg": 1
+    "astronomers": {
+      "observing": 1
     }, 
     "26": {
       "june": 1
     }, 
+    "heritage": {
+      "library": 1
+    }, 
     "thrilling": {
       "possibility": 1
     }, 
-    "surviving": {
-      "in": 1
+    "americana": {
+      "<<period>>": 1
     }, 
     "pests": {
       "<<period>>": 1
@@ -1093,6 +995,9 @@
     }, 
     "terriers": {
       "may": 1
+    }, 
+    "inferior": {
+      "race": 1
     }, 
     "encompasses": {
       "<<comma>>": 1, 
@@ -1110,8 +1015,8 @@
     "offers": {
       "little": 1
     }, 
-    "approve": {
-      "the": 1
+    "whole": {
+      "breed": 1
     }, 
     "covered": {
       "with": 1
@@ -1121,11 +1026,6 @@
     }, 
     "main": {
       "theories": 1
-    }, 
-    "into": {
-      "a": 1, 
-      "the": 1, 
-      "three": 2
     }, 
     "2013": {
       "war": 1
@@ -1143,9 +1043,9 @@
     "good": {
       "many": 1, 
       "as": 1, 
+      "if": 1, 
       "so": 1, 
-      "<<period>>": 1, 
-      "if": 1
+      "<<period>>": 1
     }, 
     "return": {
       "of": 1
@@ -1181,15 +1081,15 @@
       "glorify": 2, 
       "love": 1, 
       "may": 1, 
-      "approve": 1, 
-      "fall": 1, 
+      "adapted": 1, 
+      "were": 1, 
       "despise": 1, 
       "keep": 1, 
       "openly": 1, 
       "degrade": 1, 
-      "were": 1, 
+      "fall": 1, 
       "disgrace": 1, 
-      "adapted": 1, 
+      "approve": 1, 
       "are": 1
     }, 
     "not": {
@@ -1202,9 +1102,6 @@
       "carry": 1, 
       "wanted": 2, 
       "occur": 1
-    }, 
-    "survives": {
-      "for": 1
     }, 
     "now": {
       "<<comma>>": 1, 
@@ -1220,13 +1117,16 @@
       "for": 1
     }, 
     "articles": {
-      "in": 1, 
-      "view": 1
+      "view": 1, 
+      "in": 1
     }, 
     "term": {
       "as": 1, 
       "verschrnkung": 1, 
       "combat": 2
+    }, 
+    "ancestor": {
+      "are": 1
     }, 
     "always": {
       "trickling": 1
@@ -1280,8 +1180,11 @@
     "related": {
       "to": 3
     }, 
-    "carry": {
-      "out": 1
+    "comprises": {
+      "about": 1
+    }, 
+    "variety": {
+      "f": 1
     }, 
     "quantum": {
       "mechanics": 2, 
@@ -1319,12 +1222,16 @@
     "since": {
       "its": 1
     }, 
-    "excepting": {
-      "the": 1
+    "hooked": {
+      "her": 1
     }, 
-    "mess": {
-      "<<comma>>": 1, 
-      "helmet-scarred": 1
+    "may": {
+      "be": 2, 
+      "indeed": 1, 
+      "also": 1, 
+      "have": 3, 
+      "not": 2, 
+      "or": 2
     }, 
     "laid": {
       "on": 1
@@ -1363,25 +1270,23 @@
       "<<period>>": 1, 
       "deaths": 1
     }, 
-    "little": {
-      "support": 1, 
-      "cats": 1, 
-      "evidence": 1
+    "given": {
+      "about": 1
     }, 
-    "free": {
+    "possibility": {
+      "of": 1
+    }, 
+    "like": {
       "the": 1
     }, 
-    "management": {
-      "strategy": 1
+    "ancient": {
+      "egypt": 1
     }, 
     "struggle": {
       "of": 1
     }, 
     "besides": {
       "his": 1
-    }, 
-    "dud": {
-      "arm": 1
     }, 
     "put": {
       "up": 1
@@ -1459,22 +1364,25 @@
       "the": 1, 
       "in": 1
     }, 
-    "solidly": {
-      "plebeian": 1
+    "first": {
+      "observers": 1, 
+      "makes": 1, 
+      "observer": 1, 
+      "act": 1
     }, 
     "major": {
       "changes": 1
     }, 
-    "seduction": {
-      "in": 1
+    "breed": {
+      "seem": 1
     }, 
     "isbn": {
       "978-1-59114-498-4": 1, 
       "0-309-05378-1": 1, 
       "978-0-398-07719-8": 1
     }, 
-    "americana": {
-      "<<period>>": 1
+    "surviving": {
+      "in": 1
     }, 
     "number": {
       "of": 1
@@ -1493,23 +1401,20 @@
     "featured": {
       "in": 1
     }, 
-    "schrdingers": {
-      "cat": 2
-    }, 
-    "professionally": {
-      "dedicated": 1
+    "set": {
+      "of": 1
     }, 
     "another": {
       "extension": 1
     }, 
-    "comprises": {
-      "about": 1
+    "carry": {
+      "out": 1
     }, 
     "176": {
       "<<period>>": 1
     }, 
-    "fight": {
-      "for": 1
+    "custom": {
+      "of": 1
     }, 
     "quality": {
       "<<comma>>": 1, 
@@ -1523,39 +1428,97 @@
       "<<comma>>": 1, 
       "social": 1
     }, 
-    "given": {
-      "about": 1
+    "little": {
+      "support": 1, 
+      "cats": 1, 
+      "evidence": 1
     }, 
-    "ancient": {
-      "egypt": 1
+    "management": {
+      "strategy": 1
     }, 
-    "flock": {
-      "together": 1
+    "diploid": {
+      "organisms": 1
+    }, 
+    "their": {
+      "places": 1, 
+      "expectations": 1, 
+      "wild": 1, 
+      "way": 1, 
+      "small": 1, 
+      "ship": 1, 
+      "heroes": 1
+    }, 
+    "flourish": {
+      "<<period>>": 1
+    }, 
+    "seduction": {
+      "in": 1
+    }, 
+    "girls": {
+      "and": 1
+    }, 
+    "navsource": {
+      "naval": 1
+    }, 
+    "adopted": {
+      "him": 1
     }, 
     "lermontov": {
       "was": 1, 
       "remained": 1
     }, 
-    "flourish": {
-      "<<period>>": 1
-    }, 
-    "breed": {
-      "seem": 1
-    }, 
-    "girls": {
-      "and": 1
-    }, 
-    "adopted": {
-      "him": 1
-    }, 
-    "their": {
-      "places": 1, 
-      "expectations": 1, 
-      "small": 1, 
-      "way": 1, 
-      "wild": 1, 
-      "ship": 1, 
-      "heroes": 1
+    "of": {
+      "all": 2, 
+      "human": 1, 
+      "office": 1, 
+      "similarity": 1, 
+      "diana": 1, 
+      "over": 1, 
+      "vermin": 1, 
+      "mine": 1, 
+      "an": 1, 
+      "quantum": 2, 
+      "nero": 1, 
+      "crete": 1, 
+      "armed": 1, 
+      "gladiator": 1, 
+      "techniques": 1, 
+      "nemesis": 1, 
+      "surviving": 1, 
+      "clandestine": 1, 
+      "deaths": 1, 
+      "artificial": 1, 
+      "imperial": 1, 
+      "being": 1, 
+      "cats": 1, 
+      "west": 1, 
+      "new": 1, 
+      "war": 2, 
+      "higher": 1, 
+      "play": 1, 
+      "his": 1, 
+      "combat": 1, 
+      "qubits": 1, 
+      "mammals": 1, 
+      "paraguays": 1, 
+      "kitty": 1, 
+      "it": 1, 
+      "early": 1, 
+      "opposing": 1, 
+      "balancing": 1, 
+      "ethics": 1, 
+      "gladiatorial": 2, 
+      "these": 1, 
+      "light": 1, 
+      "vibrating": 1, 
+      "specific": 1, 
+      "carriage": 1, 
+      "wildcats": 2, 
+      "macro": 1, 
+      "making": 1, 
+      "the": 27, 
+      "gladiators": 5, 
+      "having": 1
     }, 
     "master": {
       "race": 1
@@ -1563,12 +1526,9 @@
     "too": {
       "little": 1
     }, 
-    "which": {
-      "may": 1, 
-      "was": 1, 
-      "she": 1, 
-      "took": 1, 
-      "can": 1
+    "cato": {
+      "<<comma>>": 1, 
+      "this": 1
     }, 
     "legally": {
       "inviolate": 1
@@ -1622,20 +1582,23 @@
     "villages": {
       "<<period>>": 1
     }, 
-    "armed": {
-      "conflict": 1
-    }, 
     "took": {
       "the": 1
     }, 
-    "potent": {
-      "and": 1
+    "shipbreakers": {
+      "in": 1
+    }, 
+    "1960s": {
+      "<<period>>": 1
     }, 
     "somewhat": {
       "differently": 1
     }, 
     "diminish": {
       "them": 1
+    }, 
+    "maintaining": {
+      "a": 1
     }, 
     "once-prevalent": {
       "notion": 1
@@ -1656,23 +1619,28 @@
     "14": {
       "june": 1
     }, 
-    "was": {
-      "a": 1, 
-      "delivered": 1, 
-      "necessary": 1, 
-      "greater": 1, 
-      "no": 1, 
-      "giving": 1, 
-      "transferred": 1, 
-      "gaius": 1, 
-      "unable": 1, 
-      "the": 1
+    "sections": {
+      "depending": 2
     }, 
     "transferred": {
       "to": 1
     }, 
-    "metabolism": {
-      "of": 1
+    "war": {
+      "and": 1, 
+      "<<period>>": 2, 
+      "zone": 1, 
+      "was": 1, 
+      "<<comma>>": 1, 
+      "of": 1, 
+      "is": 5, 
+      "general": 1, 
+      "as": 2, 
+      "in": 2, 
+      "resulted": 1, 
+      "with": 1
+    }, 
+    "bacterium": {
+      "and": 1
     }, 
     "classes": {
       "<<period>>": 1
@@ -1684,32 +1652,23 @@
     "purposeful": {
       "violent": 2
     }, 
+    "sister": {
+      "<<comma>>": 1, 
+      "her": 1
+    }, 
     "tertullian": {
       "used": 1
     }, 
-    "other": {
-      "kind": 1, 
-      "felids": 1, 
-      "non-combatant": 1, 
-      "weapons": 1, 
-      "way": 1, 
-      "species": 1
-    }, 
-    "are": {
-      "both": 1, 
-      "given": 1, 
-      "created": 1, 
-      "broad": 1, 
-      "in": 2, 
-      "not": 1, 
-      "perfectly": 1, 
-      "told": 1
+    "result": {
+      "of": 2, 
+      "in": 1
     }, 
     "behaviors": {
       "and": 1
     }, 
-    "fork": {
-      "has": 1
+    "function": {
+      "and": 1, 
+      "collapse": 1
     }, 
     "remained": {
       "the": 1, 
@@ -1720,20 +1679,21 @@
       "of": 1
     }, 
     "modern": {
-      "scholarship": 1, 
-      "history": 1
+      "history": 1, 
+      "scholarship": 1
     }, 
     "mine": {
       "<<comma>>": 1, 
       "of": 1
     }, 
+    "felids": {
+      "notably": 1
+    }, 
     "graffiti": {
       "in": 1
     }, 
-    "fighting": {
-      "is": 2, 
-      "stand-up": 2, 
-      "ground": 2
+    "analysis": {
+      "and": 1
     }, 
     "have": {
       "gone": 1, 
@@ -1794,26 +1754,25 @@
       "mortality": 1, 
       "level": 1
     }, 
-    "gladiator": {
-      "<<period>>": 1, 
-      "is": 1, 
-      "portraiture": 1, 
-      "types": 2, 
-      "in": 1, 
-      "mosaic": 1
+    "best": {
+      "evidence": 1
     }, 
-    "rodents": {
-      "<<comma>>": 1, 
-      "other": 1
+    "which": {
+      "may": 1, 
+      "was": 1, 
+      "she": 1, 
+      "can": 1, 
+      "took": 1
     }, 
-    "attempted": {
-      "to": 1
-    }, 
-    "prevalence": {
-      "and": 1
+    "mammals": {
+      "allows": 1
     }, 
     "encyclopedia": {
       "americana": 1
+    }, 
+    "props": {
+      "<<comma>>": 1, 
+      "equipment": 1
     }, 
     "play": {
       "<<comma>>": 1, 
@@ -1857,8 +1816,8 @@
     "charm": {
       "that": 1
     }, 
-    "custom": {
-      "of": 1
+    "satire": {
+      "but": 1
     }, 
     "gallery": {
       "of": 1
@@ -1881,8 +1840,8 @@
     "conquests": {
       "which": 1
     }, 
-    "popularity": {
-      "of": 1
+    "later": {
+      "imperial": 1
     }, 
     "flow": {
       "both": 1
@@ -1901,14 +1860,14 @@
     }, 
     "electrons": {
       "move": 1, 
-      "flowing": 1, 
-      "in": 1
+      "in": 1, 
+      "flowing": 1
     }, 
     "artistic": {
       "treat": 1
     }, 
-    "scholarship": {
-      "offers": 1
+    "justify": {
+      "the": 1
     }, 
     "amphitheatre": {
       "suggest": 1
@@ -1920,11 +1879,12 @@
       "<<comma>>": 1, 
       "held": 1
     }, 
-    "despise": {
-      "whom": 1
+    "thomas": {
+      "publisher": 1
     }, 
-    "chariot": {
-      "is": 1
+    "selection": {
+      "<<comma>>": 2, 
+      "as": 2
     }, 
     "show": {
       "at": 1
@@ -1933,7 +1893,7 @@
       "domestic": 1, 
       "held": 1, 
       "argued": 1, 
-      "love": 1, 
+      "followed": 1, 
       "gems": 1, 
       "also": 1, 
       "according": 1, 
@@ -1968,7 +1928,7 @@
       "social": 1, 
       "or": 8, 
       "among": 1, 
-      "followed": 1, 
+      "love": 1, 
       "wall": 1, 
       "names": 1, 
       "establish": 2, 
@@ -2021,8 +1981,8 @@
     "lewis": {
       "coser": 1
     }, 
-    "random": {
-      "subatomic": 1
+    "charles": {
+      "c": 1
     }, 
     "purely": {
       "legitimate": 1
@@ -2041,9 +2001,8 @@
     "pleased": {
       "when": 1
     }, 
-    "ground": {
-      "fighting": 2, 
-      "combat": 1
+    "piezoelectric": {
+      "tuning": 1
     }, 
     "nemesis": {
       "<<period>>": 1
@@ -2061,10 +2020,6 @@
       "being": 1, 
       "41": 1
     }, 
-    "held": {
-      "the": 1, 
-      "that": 1
-    }, 
     "theme": {
       "of": 1
     }, 
@@ -2074,12 +2029,6 @@
     }, 
     "black": {
       "sea": 1
-    }, 
-    "about": {
-      "to": 1, 
-      "250": 1, 
-      "how": 1, 
-      "10": 1
     }, 
     "indeed": {
       "be": 1
@@ -2095,8 +2044,8 @@
       "lamps": 1, 
       "were": 1
     }, 
-    "inferior": {
-      "race": 1
+    "mortality": {
+      "<<period>>": 1
     }, 
     "meant": {
       "to": 2
@@ -2108,10 +2057,10 @@
     "his": {
       "eyes": 1, 
       "observation": 1, 
-      "face": 1, 
+      "grandfather": 1, 
       "followers": 1, 
       "nose": 1, 
-      "grandfather": 1
+      "face": 1
     }, 
     "topple": {
       "capitalism": 1
@@ -2122,8 +2071,8 @@
     }, 
     "means": {
       "<<period>>": 1, 
-      "that": 1, 
-      "of": 1
+      "of": 1, 
+      "that": 1
     }, 
     "dependent": {
       "on": 1
@@ -2140,12 +2089,21 @@
     "legitimate": {
       "military": 1
     }, 
-    "assistants": {
-      "<<period>>": 1
+    "consecutive": {
+      "days": 1
+    }, 
+    "energy": {
+      "in": 1
     }, 
     "during": {
       "the": 1, 
       "domestication": 1
+    }, 
+    "he": {
+      "deserted": 1, 
+      "provided": 1, 
+      "saw": 1, 
+      "was": 1
     }, 
     "heritable": {
       "genetic": 1
@@ -2169,8 +2127,9 @@
       "<<comma>>": 1, 
       "argued": 1
     }, 
-    "glory": {
-      "of": 1
+    "places": {
+      "<<colon>>": 1, 
+      "meantime": 1
     }, 
     "artist": {
       "they": 1
@@ -2182,22 +2141,32 @@
     "communicates": {
       "his": 1
     }, 
-    "generally": {
-      "do": 1, 
-      "characterized": 1
-    }, 
     "purge": {
       "an": 1
     }, 
     "she": {
-      "seems": 1, 
-      "see": 1, 
       "was": 1, 
+      "see": 1, 
+      "seems": 1, 
       "remained": 1
     }, 
     "forces": {
       "<<comma>>": 1, 
       "rather": 1
+    }, 
+    "an": {
+      "observation": 1, 
+      "inborn": 1, 
+      "experiment": 2, 
+      "afterlife": 1, 
+      "equal": 1, 
+      "adoptive": 1, 
+      "absence": 1, 
+      "unpleasant": 1, 
+      "artistic": 1, 
+      "electromechanical": 1, 
+      "effort": 1, 
+      "inferior": 1
     }, 
     "where": {
       "we": 1, 
@@ -2213,21 +2182,15 @@
     "view": {
       "the": 1
     }, 
-    "felis": {
-      "catus": 1
-    }, 
-    "set": {
-      "of": 1
+    "schrdingers": {
+      "cat": 2
     }, 
     "art": {
-      "they": 1, 
-      "for": 1
+      "for": 1, 
+      "they": 1
     }, 
-    "human": {
-      "observers": 1, 
-      "diseases": 1, 
-      "inborn": 1, 
-      "nature": 1
+    "aspect": {
+      "of": 1
     }, 
     "observer": {
       "<<period>>": 1, 
@@ -2249,12 +2212,12 @@
       "as": 1, 
       "in": 1
     }, 
-    "we": {
-      "see": 1, 
-      "are": 1
+    "ends": {
+      "of": 1, 
+      "justify": 1
     }, 
-    "1960s": {
-      "<<period>>": 1
+    "potent": {
+      "and": 1
     }, 
     "1920": {
       "<<period>>": 1
@@ -2268,9 +2231,18 @@
       "<<comma>>": 1, 
       "and": 1
     }, 
-    "result": {
-      "of": 2, 
-      "in": 1
+    "prosper": {
+      "<<period>>": 1
+    }, 
+    "are": {
+      "both": 1, 
+      "given": 1, 
+      "created": 1, 
+      "broad": 1, 
+      "in": 2, 
+      "not": 1, 
+      "perfectly": 1, 
+      "told": 1
     }, 
     "sea": {
       "shipping": 1
@@ -2284,8 +2256,13 @@
     "arm": {
       "that": 1
     }, 
-    "best": {
-      "evidence": 1
+    "gladiator": {
+      "<<period>>": 1, 
+      "is": 1, 
+      "portraiture": 1, 
+      "types": 2, 
+      "in": 1, 
+      "mosaic": 1
     }, 
     "techniques": {
       "and": 1
@@ -2333,29 +2310,25 @@
     "pets": {
       "<<period>>": 1
     }, 
-    "props": {
-      "<<comma>>": 1, 
-      "equipment": 1
+    "between": {
+      "societies": 1
     }, 
-    "consecutive": {
-      "days": 1
+    "assistants": {
+      "<<period>>": 1
     }, 
     "celadus": {
       "the": 1, 
       "own": 1
     }, 
-    "house": {
-      "cats": 1
-    }, 
     "available": {
       "on": 1
     }, 
-    "gems": {
-      "and": 1
+    "fight": {
+      "for": 1
     }, 
-    "ends": {
-      "of": 1, 
-      "justify": 1
+    "we": {
+      "see": 1, 
+      "are": 1
     }, 
     "terms": {
       "of": 1
@@ -2375,12 +2348,12 @@
       "about": 1, 
       "sacrificial": 1, 
       "useful": 1, 
+      "covered": 1, 
       "originally": 1, 
-      "legally": 1, 
       "produced": 1, 
       "simply": 1, 
       "personally": 1, 
-      "covered": 1, 
+      "legally": 1, 
       "decorated": 1, 
       "domesticated": 1
     }, 
@@ -2390,8 +2363,8 @@
     "souvenir": {
       "ceramics": 1
     }, 
-    "spectacles": {
-      "could": 1
+    "retirement": {
+      "<<period>>": 1
     }, 
     "multimedia": {
       "technologies": 1
@@ -2405,12 +2378,6 @@
     "police": {
       "analysis": 1
     }, 
-    "disparaging": {
-      "term": 1
-    }, 
-    "proportionally": {
-      "speaking": 1
-    }, 
     "both": {
       "ways": 1, 
       "<<period>>": 1, 
@@ -2419,9 +2386,6 @@
     }, 
     "commands": {
       "and": 1
-    }, 
-    "transgression": {
-      "by": 1
     }, 
     "country": {
       "<<comma>>": 1, 
@@ -2437,8 +2401,9 @@
     "against": {
       "a": 1
     }, 
-    "beliefs": {
-      "of": 1
+    "called": {
+      "the": 1, 
+      "peace": 1
     }, 
     "roman": {
       "world": 1, 
@@ -2451,67 +2416,67 @@
     "argue": {
       "that": 1
     }, 
-    "adapted": {
-      "to": 1
+    "approve": {
+      "the": 1
     }, 
     "and": {
       "all": 1, 
-      "violence": 1, 
-      "they": 1, 
+      "although": 1, 
       "jewellery": 1, 
       "civil": 1, 
       "characteristics": 1, 
-      "a": 3, 
       "thus": 1, 
-      "non": 1, 
+      "prosper": 1, 
       "dead": 1, 
       "an": 2, 
       "planning": 1, 
       "dangerously": 1, 
+      "ancestral": 1, 
       "empire": 1, 
-      "cato": 1, 
+      "fight": 1, 
       "its": 2, 
       "relatively": 1, 
       "gradually": 1, 
       "her": 1, 
+      "their": 1, 
       "sociologist": 1, 
       "satire": 1, 
       "expressed": 1, 
-      "fight": 1, 
-      "their": 1, 
+      "cato": 1, 
+      "hierarchy": 1, 
       "other": 1, 
       "assistants": 1, 
       "intelligent": 1, 
       "war": 1, 
       "then": 1, 
-      "prosper": 1, 
+      "non": 1, 
       "his": 1, 
-      "positioning": 2, 
       "rules": 1, 
       "domestic": 1, 
       "villages": 1, 
       "free": 1, 
       "every": 1, 
       "actions": 1, 
-      "although": 1, 
+      "they": 1, 
       "employed": 1, 
       "diminish": 1, 
       "statuary": 1, 
       "response": 1, 
       "maintaining": 1, 
       "societies": 1, 
-      "retribution": 1, 
+      "a": 3, 
       "made": 1, 
-      "bestiarii": 1, 
-      "hierarchy": 1, 
-      "ancestral": 1, 
+      "retribution": 1, 
+      "violence": 1, 
+      "positioning": 2, 
       "roughly": 1, 
       "good": 1, 
       "can": 1, 
       "behavior": 1, 
-      "country": 1, 
+      "bestiarii": 1, 
       "usually": 1, 
       "the": 5, 
+      "country": 1, 
       "exhibited": 2, 
       "social": 2
     }, 
@@ -2537,8 +2502,8 @@
       "graffiti": 1, 
       "paintings": 1
     }, 
-    "seems": {
-      "to": 1
+    "had": {
+      "adopted": 1
     }, 
     "2nd": {
       "through": 1, 
@@ -2550,11 +2515,15 @@
     "thraex": {
       "as": 1
     }, 
-    "<<exclamation>>": {
-      "they": 1
+    "life-like": {
+      "portraits": 1
     }, 
-    "associated": {
-      "with": 1
+    "simply": {
+      "tolerated": 1
+    }, 
+    "disgrace": {
+      "and": 1, 
+      "<<period>>": 1
     }, 
     "250": {
       "heritable": 1
@@ -2585,11 +2554,15 @@
     "west": {
       "bridge": 2
     }, 
-    "computing": {
-      "the": 1
+    "deaths": {
+      "down": 1, 
+      "<<comma>>": 1, 
+      "since": 1, 
+      "followed": 1, 
+      "in": 1
     }, 
-    "satire": {
-      "but": 1
+    "informed": {
+      "of": 1
     }, 
     "three": {
       "consecutive": 1, 
@@ -2617,8 +2590,8 @@
       "tests": 1, 
       "disorders": 1
     }, 
-    "spread": {
-      "that": 1
+    "war-related": {
+      "lists": 1
     }, 
     "cupids": {
       "as": 1
@@ -2642,10 +2615,6 @@
     "duties": {
       "in": 1
     }, 
-    "location": {
-      "cats": 1, 
-      "where": 2
-    }, 
     "combatants": {
       "<<colon>>": 2, 
       "clinch": 2
@@ -2653,8 +2622,8 @@
     "life": {
       "expectancy": 1
     }, 
-    "religiously": {
-      "excluded": 1
+    "describe": {
+      "celadus": 1
     }, 
     "plebeian": {
       "citizens": 1
@@ -2663,9 +2632,9 @@
       "of": 1
     }, 
     "gladiatorial": {
-      "show": 1, 
+      "shows": 1, 
       "combat": 1, 
-      "shows": 1
+      "show": 1
     }, 
     "observers": {
       "<<colon>>": 1, 
@@ -2709,10 +2678,6 @@
     "applied": {
       "to": 1
     }, 
-    "has": {
-      "been": 6, 
-      "no": 1
-    }, 
     "antium": {
       "and": 1, 
       "<<comma>>": 1, 
@@ -2731,32 +2696,18 @@
     "able-bodied": {
       "and": 1
     }, 
+    "tip": {
+      "of": 1
+    }, 
     "self-propelled": {
       "<<comma>>": 1, 
       "weaponized": 1
     }, 
-    "as": {
-      "a": 9, 
-      "pets": 1, 
-      "elaborated": 1, 
-      "far": 1, 
-      "cicero": 1, 
-      "well": 1, 
-      "possible": 1, 
-      "it": 1, 
-      "ferrets": 1, 
-      "pragmatism": 1, 
-      "opposed": 2, 
-      "animal": 1, 
-      "implausible": 1, 
-      "the": 6, 
-      "they": 2, 
-      "gladiators": 1, 
-      "to": 1, 
-      "warfare": 1
+    "britain": {
+      "shows": 1
     }, 
-    "value": {
-      "of": 1
+    "professionally": {
+      "dedicated": 1
     }, 
     "while": {
       "some": 1
@@ -2765,8 +2716,8 @@
       "<<comma>>": 2, 
       "establish": 2
     }, 
-    "behavior": {
-      "of": 1
+    "transgression": {
+      "by": 1
     }, 
     "many": {
       "distinctions": 1, 
@@ -2780,8 +2731,12 @@
       "relatives": 1, 
       "ancestor": 1
     }, 
-    "diverged": {
-      "from": 1
+    "moll": {
+      "<<question>>": 1, 
+      "her": 1
+    }, 
+    "possess": {
+      "38": 1
     }, 
     "guide": {
       "from": 1
@@ -2789,40 +2744,48 @@
     "loop": {
       "at": 1
     }, 
-    "periods": {
-      "provide": 1
+    "at": {
+      "wikiquote": 1, 
+      "antium": 1, 
+      "that": 1, 
+      "delos": 1, 
+      "wikimedia": 1, 
+      "wiktionary": 1, 
+      "wars": 1, 
+      "controlling": 1, 
+      "the": 1, 
+      "wikibooks": 1, 
+      "wikispecies": 1, 
+      "navsource": 1, 
+      "once": 1
     }, 
-    "century": {
-      "bc": 1, 
-      "army": 1
-    }, 
-    "linked": {
-      "to": 2
+    "prevalence": {
+      "and": 1
     }, 
     "characteristics": {
       "of": 1
     }, 
     "is": {
       "a": 9, 
-      "the": 2, 
       "what": 1, 
       "good": 2, 
       "natural": 1, 
       "warfare": 1, 
       "that": 1, 
       "<<comma>>": 1, 
-      "informed": 1, 
-      "not": 4, 
-      "sometimes": 1, 
       "generally": 1, 
+      "sometimes": 1, 
+      "informed": 1, 
       "damaged": 1, 
       "also": 1, 
       "only": 1, 
       "does": 1, 
       "known": 1, 
+      "not": 4, 
       "seen": 1, 
       "entirely": 1, 
-      "usually": 1
+      "usually": 1, 
+      "the": 2
     }, 
     "squid": {
       "flow": 1
@@ -2832,8 +2795,21 @@
       "the": 1, 
       "with": 1
     }, 
-    "prosper": {
-      "<<period>>": 1
+    "it": {
+      "on": 1, 
+      "somewhat": 1, 
+      "illustrates": 1, 
+      "advances": 1, 
+      "is": 4, 
+      "encompasses": 1, 
+      "serves": 1, 
+      "<<exclamation>>": 1, 
+      "allows": 1, 
+      "they": 1, 
+      "was": 1
+    }, 
+    "alive": {
+      "and": 1
     }, 
     "equal": {
       "superposition": 1
@@ -2846,10 +2822,11 @@
       "them": 1, 
       "the": 1
     }, 
-    "triple": {
-      "alliance": 1
+    "dangerously": {
+      "sexual": 1
     }, 
     "in": {
+      "this": 1, 
       "art": 1, 
       "modern": 1, 
       "humans": 1, 
@@ -2861,7 +2838,6 @@
       "love": 1, 
       "cargo": 1, 
       "ancient": 1, 
-      "2003": 1, 
       "support": 1, 
       "cats": 1, 
       "split": 1, 
@@ -2872,7 +2848,7 @@
       "his": 1, 
       "terms": 1, 
       "combat": 1, 
-      "comparison": 1, 
+      "1990": 1, 
       "honour": 1, 
       "31000": 1, 
       "1935": 1, 
@@ -2881,12 +2857,12 @@
       "an": 1, 
       "him": 1, 
       "a": 1, 
-      "1990": 1, 
+      "comparison": 1, 
       "antium": 1, 
       "these": 1, 
       "1998": 1, 
       "theoretical": 1, 
-      "this": 1, 
+      "2003": 1, 
       "massive": 1, 
       "ensembl": 1, 
       "the": 18, 
@@ -2895,6 +2871,9 @@
     }, 
     "electromechanical": {
       "oscillator": 1
+    }, 
+    "victims": {
+      "of": 1
     }, 
     "technology": {
       "management": 1
@@ -2908,17 +2887,11 @@
     "greater": {
       "than": 1
     }, 
-    "gone": {
-      "so": 1
-    }, 
-    "damaged": {
-      "by": 1
+    "containing": {
+      "life-like": 1
     }, 
     "perhaps": {
       "exceptional": 1
-    }, 
-    "charles": {
-      "c": 1
     }, 
     "suggest": {
       "that": 2
@@ -2932,12 +2905,16 @@
     "s": {
       "<<period>>": 1
     }, 
-    "eppia": {
-      "what": 1, 
-      "<<question>>": 1
+    "same": {
+      "disparaging": 1, 
+      "account": 1
     }, 
-    "wherein": {
-      "the": 1
+    "linked": {
+      "to": 2
+    }, 
+    "make": {
+      "a": 1, 
+      "her": 1
     }, 
     "high-caste": {
       "spectators": 1
@@ -2949,12 +2926,9 @@
     "split": {
       "on": 1
     }, 
-    "devised": {
-      "by": 1
-    }, 
-    "no": {
-      "chicken": 1, 
-      "place": 1
+    "advances": {
+      "the": 1, 
+      "through": 1
     }, 
     "several": {
       "natural": 1, 
@@ -2997,9 +2971,6 @@
       "<<comma>>": 1, 
       "a": 1
     }, 
-    "island": {
-      "of": 1
-    }, 
     "leopard": {
       "cat": 1
     }, 
@@ -3013,13 +2984,13 @@
     "uses": {
       "the": 1
     }, 
-    "entanglement": {
-      "of": 1
-    }, 
-    "paradox": {
-      "<<comma>>": 1, 
-      "of": 1, 
-      "devised": 1
+    "<<colon>>": {
+      "a": 1, 
+      "clinch": 2, 
+      "us": 1, 
+      "meantime": 1, 
+      "the": 2, 
+      "prevention": 1
     }, 
     "on": {
       "again": 1, 
@@ -3042,8 +3013,8 @@
       "<<comma>>": 1, 
       "and": 1
     }, 
-    "early": {
-      "retirement": 1
+    "dark": {
+      "energy": 1
     }, 
     "lower": {
       "<<period>>": 1, 
@@ -3057,20 +3028,23 @@
       "<<comma>>": 1, 
       "although": 1
     }, 
+    "fully": {
+      "domesticated": 1
+    }, 
     "i": {
       "brought": 1, 
       "attempted": 1, 
       "was": 1, 
       "pleased": 1
     }, 
-    "changes": {
-      "during": 1
+    "adapted": {
+      "to": 1
     }, 
     "weapon": {
       "<<period>>": 2
     }, 
-    "bacterium": {
-      "and": 1
+    "floor": {
+      "or": 1
     }, 
     "well": {
       "as": 1
@@ -3078,8 +3052,10 @@
     "roughly": {
       "20000": 1
     }, 
-    "analysis": {
-      "and": 1
+    "fighting": {
+      "is": 2, 
+      "stand-up": 2, 
+      "ground": 2
     }, 
     "non": {
       "vibrating": 1
@@ -3097,9 +3073,9 @@
     "without": {
       "regard": 1
     }, 
-    "does": {
-      "not": 1, 
-      "the": 1
+    "around": {
+      "the": 1, 
+      "humans": 1
     }, 
     "very": {
       "little": 1
@@ -3125,14 +3101,15 @@
       "meantime": 1, 
       "theme": 1, 
       "black": 1, 
+      "first": 4, 
       "return": 1, 
       "means": 1, 
       "matches": 1, 
       "practice": 1, 
       "wave": 1, 
-      "cat": 3, 
-      "one": 1, 
+      "2nd": 2, 
       "term": 3, 
+      "metabolism": 1, 
       "artist": 1, 
       "schrdingers": 1, 
       "art": 1, 
@@ -3145,9 +3122,9 @@
       "copenhagen": 1, 
       "arenarii": 1, 
       "special": 1, 
-      "gladiator": 2, 
       "revolution": 1, 
       "populace": 1, 
+      "best": 1, 
       "experiment": 2, 
       "reconstruction": 1, 
       "issue": 1, 
@@ -3174,7 +3151,7 @@
       "solidly": 1, 
       "spear": 1, 
       "question": 1, 
-      "2nd": 2, 
+      "one": 1, 
       "elder": 1, 
       "thraex": 1, 
       "set": 1, 
@@ -3194,13 +3171,13 @@
       "distance": 2, 
       "glory": 1, 
       "value": 1, 
-      "metabolism": 1, 
+      "cat": 3, 
       "universe": 1, 
       "wild": 1, 
       "problem": 1, 
       "mongol": 1, 
       "loop": 1, 
-      "later": 1, 
+      "popularity": 1, 
       "squid": 1, 
       "deadliest": 1, 
       "general": 1, 
@@ -3219,21 +3196,20 @@
       "same": 2, 
       "other": 1, 
       "republic": 1, 
-      "best": 1, 
+      "gladiator": 2, 
       "galleria": 1, 
       "development": 1, 
       "superposition": 1, 
       "bignor": 1, 
       "perversity": 1, 
       "most": 1, 
-      "reward": 1, 
       "scenario": 1, 
       "grove": 1, 
-      "amphitheatre": 1, 
-      "popularity": 1, 
+      "gladiators": 2, 
+      "later": 1, 
       "thought": 2, 
-      "first": 4, 
-      "gladiators": 2
+      "reward": 1, 
+      "amphitheatre": 1
     }, 
     "reward": {
       "for": 1
@@ -3242,8 +3218,8 @@
       "<<comma>>": 1, 
       "defense": 1
     }, 
-    "justify": {
-      "the": 1
+    "scholarship": {
+      "offers": 1
     }, 
     "forum": {
       "for": 1
@@ -3259,11 +3235,12 @@
       "1": 1, 
       "0": 1, 
       "linked": 1, 
-      "called": 1, 
-      "disruptive": 1
+      "disruptive": 1, 
+      "called": 1
     }, 
-    "photo": {
-      "gallery": 1
+    "generally": {
+      "do": 1, 
+      "characterized": 1
     }, 
     "978-1-59114-498-4": {
       "<<period>>": 1
@@ -3274,8 +3251,8 @@
       "cats": 1, 
       "cat": 2
     }, 
-    "actions": {
-      "used": 1
+    "ninth": {
+      "book": 1
     }, 
     "violent": {
       "conflict": 2
@@ -3286,29 +3263,32 @@
     "kill": {
       "the": 2
     }, 
-    "aspect": {
-      "of": 1
+    "human": {
+      "observers": 1, 
+      "diseases": 1, 
+      "inborn": 1, 
+      "nature": 1
     }, 
-    "world": {
-      "<<comma>>": 1, 
-      "war": 1, 
-      "ceramics": 1
+    "using": {
+      "genetic": 1, 
+      "animals": 1
     }, 
     "useful": {
       "predators": 1
     }, 
-    "alternative": {
-      "idea": 1
+    "yes": {
+      "<<comma>>": 1, 
+      "further": 1
     }, 
     "6085": {
       "million": 1
     }, 
     "to": {
       "disgrace": 1, 
-      "human": 1, 
+      "have": 1, 
       "egypt": 1, 
       "purely": 1, 
-      "have": 1, 
+      "human": 1, 
       "steven": 1, 
       "follow": 1, 
       "everyday": 1, 
@@ -3317,7 +3297,7 @@
       "her": 1, 
       "suggest": 1, 
       "make": 1, 
-      "rome": 1, 
+      "maintain": 1, 
       "conduct": 1, 
       "dogs": 1, 
       "be": 3, 
@@ -3330,18 +3310,18 @@
       "drive": 2, 
       "cat": 3, 
       "purge": 1, 
-      "maintain": 1, 
+      "rome": 1, 
       "the": 4, 
       "hunting": 1
     }, 
-    "tamed": {
-      "cats": 1
+    "gems": {
+      "and": 1
     }, 
     "munus": {
       "<<period>>": 1
     }, 
-    "retirement": {
-      "<<period>>": 1
+    "spectacles": {
+      "could": 1
     }, 
     "bibliography": {
       "for": 1
@@ -3354,36 +3334,44 @@
     "thinking": {
       "<<period>>": 1
     }, 
-    "had": {
-      "adopted": 1
+    "seems": {
+      "to": 1
     }, 
     "relatives": {
       "through": 1
     }, 
     "sometimes": {
-      "described": 1, 
+      "necessary": 1, 
       "the": 1, 
-      "necessary": 1
+      "described": 1
+    }, 
+    "notably": {
+      "the": 1
     }, 
     "source": {
       "for": 1
     }, 
-    "war-related": {
-      "lists": 1
+    "spread": {
+      "that": 1
     }, 
     "deliberately": {
       "tamed": 1
     }, 
-    "maintaining": {
-      "a": 1
+    "location": {
+      "cats": 1, 
+      "where": 2
     }, 
-    "possess": {
-      "38": 1
+    "has": {
+      "been": 6, 
+      "no": 1
     }, 
     "pompeii": {
       "describe": 1
     }, 
-    "genome": {
+    "terentius": {
+      "who": 1
+    }, 
+    "book": {
       "in": 1
     }, 
     "tests": {
@@ -3392,11 +3380,12 @@
     "australia": {
       "cats": 1
     }, 
-    "victims": {
-      "of": 1
+    "photo": {
+      "gallery": 1
     }, 
-    "shipbreakers": {
-      "in": 1
+    "rodents": {
+      "<<comma>>": 1, 
+      "other": 1
     }, 
     "battlefields": {
       "<<colon>>": 1, 
@@ -3407,9 +3396,8 @@
       "of": 1, 
       "gladiator": 1
     }, 
-    "advances": {
-      "the": 1, 
-      "through": 1
+    "devised": {
+      "by": 1
     }, 
     "looks": {
       "at": 1
@@ -3417,11 +3405,14 @@
     "possible": {
       "from": 1
     }, 
-    "dark": {
-      "energy": 1
+    "early": {
+      "retirement": 1
     }, 
     "honoratus": {
       "uses": 1
+    }, 
+    "tameness": {
+      "<<period>>": 1
     }, 
     "978-0-398-07719-8": {
       "<<period>>": 1
@@ -3435,15 +3426,19 @@
     "press": {
       "<<period>>": 2
     }, 
-    "using": {
-      "genetic": 1, 
-      "animals": 1
+    "world": {
+      "<<comma>>": 1, 
+      "war": 1, 
+      "ceramics": 1
     }, 
     "rumor": {
       "spread": 1
     }, 
     "prominent": {
       "physicists": 1
+    }, 
+    "richard": {
+      "smalley": 1
     }, 
     "outright": {
       "incitement": 1
@@ -3455,8 +3450,8 @@
     "necessary": {
       "to": 2
     }, 
-    "like": {
-      "the": 1
+    "feral": {
+      "f": 1
     }, 
     "according": {
       "to": 1
@@ -3481,11 +3476,11 @@
       "<<comma>>": 1, 
       "an": 1
     }, 
-    "fully": {
-      "domesticated": 1
+    "fesco": {
+      "through": 1
     }, 
-    "simply": {
-      "tolerated": 1
+    "64": {
+      "<<period>>": 1
     }, 
     "reduced": {
       "its": 1
@@ -3526,8 +3521,9 @@
       "became": 1, 
       "scholars": 1
     }, 
-    "alive": {
-      "and": 1
+    "competition": {
+      "<<comma>>": 1, 
+      "conflict": 1
     }, 
     "ideals": {
       "it": 1
@@ -3567,8 +3563,8 @@
     "unfit": {
       "from": 1
     }, 
-    "terentius": {
-      "who": 1
+    "tracked": {
+      "<<period>>": 1
     }, 
     "for": {
       "felis": 1, 
@@ -3581,27 +3577,21 @@
       "three": 1, 
       "their": 1, 
       "twenty-first": 1, 
-      "gossip": 1, 
       "such": 1, 
+      "gossip": 1, 
       "the": 4, 
       "gladiators": 1, 
       "domestication": 1
     }, 
-    "broad": {
-      "archetypes": 1
-    }, 
-    "academies": {
-      "press": 1
-    }, 
-    "whole": {
-      "breed": 1
+    "armed": {
+      "conflict": 1
     }, 
     "adoptive": {
       "aristocrat": 1
     }, 
-    "wildcats": {
-      "and": 1, 
-      "may": 1
+    "does": {
+      "not": 1, 
+      "the": 1
     }, 
     "civilization": {
       "can": 1
@@ -3627,20 +3617,21 @@
       "established": 1, 
       "good": 1, 
       "simultaneously": 1, 
-      "exhibited": 1, 
+      "wheeled": 1, 
       "better": 1, 
       "placed": 1, 
       "diagnosed": 1, 
-      "found": 1, 
       "further": 2, 
-      "wheeled": 1, 
+      "found": 1, 
+      "exhibited": 1, 
       "trusted": 1
     }, 
     "particular": {
       "held": 1
     }, 
-    "energy": {
-      "in": 1
+    "power": {
+      "<<comma>>": 1, 
+      "and": 1
     }, 
     "bc": {
       "italian": 1
@@ -3652,14 +3643,16 @@
       "of": 1, 
       "in": 1
     }, 
-    "notably": {
-      "the": 1
+    "disparaging": {
+      "term": 1
     }, 
-    "diploid": {
-      "organisms": 1
+    "lamps": {
+      "<<comma>>": 1, 
+      "gems": 1
     }, 
-    "1935": {
-      "<<period>>": 1
+    "although": {
+      "this": 1, 
+      "they": 1
     }, 
     "invaluable": {
       "in": 1
@@ -3667,11 +3660,22 @@
     "tidal": {
       "wave": 1
     }, 
+    "diverged": {
+      "from": 1
+    }, 
     "refers": {
       "to": 1
     }, 
-    "between": {
-      "societies": 1
+    "by": {
+      "a": 1, 
+      "simon": 1, 
+      "people": 1, 
+      "an": 1, 
+      "high-caste": 1, 
+      "location": 1, 
+      "austrian": 1, 
+      "the": 2, 
+      "extreme": 1
     }, 
     "dead": {
       "<<comma>>": 1, 
@@ -3683,25 +3687,21 @@
     "comparison": {
       "to": 1
     }, 
-    "sister": {
-      "<<comma>>": 1, 
-      "her": 1
+    "about": {
+      "to": 1, 
+      "250": 1, 
+      "10": 1, 
+      "how": 1
     }, 
     "extension": {
       "<<comma>>": 1, 
       "prominent": 1
     }, 
-    "universe": {
-      "in": 1
+    "island": {
+      "of": 1
     }, 
-    "violence": {
-      "and": 1, 
-      "<<period>>": 1, 
-      "is": 3, 
-      "can": 1
-    }, 
-    "ecological": {
-      "circumstances": 1
+    "citizens": {
+      "of": 1
     }, 
     "shipping": {
       "company": 1
@@ -3722,28 +3722,31 @@
       "both": 1, 
       "tried": 1, 
       "commensal": 1, 
-      "needed": 2, 
+      "to": 3, 
       "may": 2, 
       "terriers": 1, 
-      "only": 1, 
-      "professionally": 1, 
-      "silver": 1, 
-      "tracked": 1, 
-      "to": 3, 
       "ecological": 1, 
+      "professionally": 1, 
+      "their": 1, 
+      "needed": 2, 
+      "only": 1, 
       "other": 1, 
       "kill": 2, 
       "fighting": 2, 
       "society": 1, 
-      "their": 1, 
-      "synthesis": 1
+      "synthesis": 1, 
+      "silver": 1, 
+      "tracked": 1
     }, 
     "youthful": {
       "charm": 1
     }, 
-    "alliance": {
-      "<<comma>>": 1, 
-      "which": 1
+    "mechanics": {
+      "applied": 1, 
+      "<<period>>": 1
+    }, 
+    "own": {
+      "wishful": 1
     }, 
     "pragmatism": {
       "<<comma>>": 1, 
@@ -3756,12 +3759,13 @@
     "civil": {
       "degradation": 1
     }, 
-    "informed": {
-      "of": 1
+    "dud": {
+      "arm": 1
     }, 
-    "around": {
+    "into": {
+      "a": 1, 
       "the": 1, 
-      "humans": 1
+      "three": 2
     }, 
     "statuary": {
       "offer": 1
@@ -3772,8 +3776,8 @@
     "steven": {
       "pinker": 1
     }, 
-    "decorated": {
-      "with": 1
+    "depicting": {
+      "named": 1
     }, 
     "prompted": {
       "hope": 1
@@ -3812,9 +3816,10 @@
       "and": 1, 
       "holds": 1
     }, 
-    "cato": {
-      "<<comma>>": 1, 
-      "this": 1
+    "imperial": {
+      "justice": 1, 
+      "era": 1, 
+      "power": 1
     }, 
     "start": {
       "<<comma>>": 1, 
@@ -3824,12 +3829,12 @@
       "often": 1, 
       "<<comma>>": 1, 
       "many": 1, 
-      "were": 2, 
+      "in": 5, 
       "generally": 1, 
       "as": 1, 
       "are": 1, 
       "have": 2, 
-      "in": 5, 
+      "were": 2, 
       "by": 1
     }, 
     "physicists": {
@@ -3840,8 +3845,8 @@
       "to": 1, 
       "<<period>>": 1
     }, 
-    "heritage": {
-      "library": 1
+    "house": {
+      "cats": 1
     }, 
     "resulted": {
       "in": 1
@@ -3849,36 +3854,29 @@
     "exceptional": {
       "examples": 1
     }, 
-    "rostrum": {
-      "<<comma>>": 1, 
-      "senate": 1
+    "was": {
+      "a": 1, 
+      "delivered": 1, 
+      "necessary": 1, 
+      "greater": 1, 
+      "no": 1, 
+      "giving": 1, 
+      "transferred": 1, 
+      "gaius": 1, 
+      "unable": 1, 
+      "the": 1
     }, 
-    "sections": {
-      "depending": 2
-    }, 
-    "war": {
-      "and": 1, 
-      "<<period>>": 2, 
-      "zone": 1, 
-      "<<comma>>": 1, 
-      "of": 1, 
-      "is": 5, 
-      "with": 1, 
-      "general": 1, 
-      "as": 2, 
-      "in": 2, 
-      "resulted": 1, 
-      "was": 1
+    "metabolism": {
+      "of": 1
     }, 
     "synthesis": {
       "<<period>>": 1
     }, 
-    "function": {
-      "and": 1, 
-      "collapse": 1
+    "fork": {
+      "has": 1
     }, 
-    "navsource": {
-      "naval": 1
+    "survives": {
+      "for": 1
     }, 
     "from": {
       "a": 3, 
@@ -3892,8 +3890,10 @@
       "the": 3, 
       "those": 1
     }, 
-    "felids": {
-      "notably": 1
+    "only": {
+      "occasional": 1, 
+      "a": 1, 
+      "when": 1
     }, 
     "north": {
       "african": 1
@@ -3904,8 +3904,8 @@
     "offer": {
       "evidence": 1
     }, 
-    "mammals": {
-      "allows": 1
+    "attempted": {
+      "to": 1
     }, 
     "regard": {
       "for": 1
@@ -3918,9 +3918,8 @@
     "brain": {
       "biodiversity": 1
     }, 
-    "competition": {
-      "<<comma>>": 1, 
-      "conflict": 1
+    "proportionally": {
+      "speaking": 1
     }, 
     "technologies": {
       "for": 1
@@ -3950,11 +3949,9 @@
     "aventine": {
       "<<colon>>": 1
     }, 
-    "he": {
-      "deserted": 1, 
-      "provided": 1, 
-      "saw": 1, 
-      "was": 1
+    "handsome": {
+      "<<comma>>": 1, 
+      "and": 1
     }, 
     "non-combatant": {
       "casualties": 1
@@ -3967,9 +3964,8 @@
       "<<comma>>": 1, 
       "us": 1
     }, 
-    "places": {
-      "<<colon>>": 1, 
-      "meantime": 1
+    "glory": {
+      "of": 1
     }, 
     "society": {
       "<<period>>": 1, 
@@ -4005,6 +4001,9 @@
     "agora": {
       "at": 1
     }, 
+    "tamed": {
+      "cats": 1
+    }, 
     "observation": {
       "on": 1, 
       "to": 1
@@ -4016,85 +4015,75 @@
       "images": 1, 
       "to": 1
     }, 
-    "called": {
-      "the": 1, 
-      "peace": 1
+    "beliefs": {
+      "of": 1
     }, 
     "pseudo-schrdingers": {
       "cat": 1
     }, 
-    "mechanics": {
-      "applied": 1, 
-      "<<period>>": 1
+    "felis": {
+      "catus": 1
     }, 
-    "150": {
-      "<<period>>": 1
+    "gone": {
+      "so": 1
     }, 
-    "life-like": {
-      "portraits": 1
+    "popularity": {
+      "of": 1
     }, 
-    "disgrace": {
-      "and": 1, 
-      "<<period>>": 1
+    "associated": {
+      "with": 1
     }, 
     "ad": {
       "have": 1
     }, 
-    "deaths": {
-      "down": 1, 
-      "<<comma>>": 1, 
-      "since": 1, 
-      "followed": 1, 
-      "in": 1
+    "computing": {
+      "the": 1
     }, 
     "universal": {
       "and": 1, 
       "morality": 1
     }, 
-    "describe": {
-      "celadus": 1
+    "religiously": {
+      "excluded": 1
     }, 
     "deadliest": {
       "war": 1
     }, 
-    "an": {
-      "unpleasant": 1, 
-      "observation": 1, 
-      "inborn": 1, 
-      "afterlife": 1, 
-      "equal": 1, 
-      "adoptive": 1, 
-      "absence": 1, 
-      "experiment": 2, 
-      "artistic": 1, 
-      "electromechanical": 1, 
-      "effort": 1, 
-      "inferior": 1
+    "evidence": {
+      "<<comma>>": 2, 
+      "survives": 1, 
+      "sometimes": 1, 
+      "of": 1
     }, 
     "images": {
       "of": 3
     }, 
-    "britain": {
-      "shows": 1
+    "as": {
+      "a": 9, 
+      "animal": 1, 
+      "elaborated": 1, 
+      "far": 1, 
+      "cicero": 1, 
+      "well": 1, 
+      "possible": 1, 
+      "it": 1, 
+      "ferrets": 1, 
+      "pragmatism": 1, 
+      "opposed": 2, 
+      "pets": 1, 
+      "implausible": 1, 
+      "the": 6, 
+      "they": 2, 
+      "gladiators": 1, 
+      "to": 1, 
+      "warfare": 1
     }, 
-    "moll": {
-      "<<question>>": 1, 
-      "her": 1
-    }, 
-    "at": {
-      "wikiquote": 1, 
-      "antium": 1, 
-      "that": 1, 
-      "delos": 1, 
-      "wikimedia": 1, 
-      "wiktionary": 1, 
-      "wars": 1, 
-      "controlling": 1, 
+    "held": {
       "the": 1, 
-      "wikibooks": 1, 
-      "wikispecies": 1, 
-      "navsource": 1, 
-      "once": 1
+      "that": 1
+    }, 
+    "periods": {
+      "provide": 1
     }, 
     "nero": {
       "was": 1
@@ -4105,11 +4094,11 @@
     }, 
     "domesticated": {
       "house": 1, 
-      "<<period>>": 1, 
-      "cat": 1
-    }, 
-    "tameness": {
+      "cat": 1, 
       "<<period>>": 1
+    }, 
+    "flock": {
+      "together": 1
     }, 
     "constructed": {
       "<<comma>>": 1, 
@@ -4121,21 +4110,27 @@
     "radically": {
       "different": 1
     }, 
-    "fesco": {
-      "through": 1
+    "paradox": {
+      "<<comma>>": 1, 
+      "of": 1, 
+      "devised": 1
     }, 
     "inborn": {
       "errors": 1, 
       "tendency": 1
     }, 
-    "variety": {
-      "f": 1
+    "no": {
+      "chicken": 1, 
+      "place": 1
     }, 
     "peace": {
       "<<period>>": 1
     }, 
-    "tip": {
-      "of": 1
+    "when": {
+      "a": 1, 
+      "the": 2, 
+      "they": 1, 
+      "in": 1
     }, 
     "41": {
       "million": 1
@@ -4144,15 +4139,19 @@
       "<<comma>>": 1, 
       "perhaps": 1
     }, 
-    "book": {
-      "in": 1
+    "other": {
+      "kind": 1, 
+      "felids": 1, 
+      "non-combatant": 1, 
+      "weapons": 1, 
+      "way": 1, 
+      "species": 1
     }, 
     "republic": {
       "and": 1
     }, 
-    "make": {
-      "a": 1, 
-      "her": 1
+    "genome": {
+      "in": 1
     }, 
     "better": {
       "at": 1
@@ -4176,8 +4175,8 @@
       "as": 1, 
       "state": 1
     }, 
-    "provided": {
-      "thirty": 1
+    "academies": {
+      "press": 1
     }, 
     "models": {
       "in": 1
@@ -4195,14 +4194,14 @@
       "1966": 1, 
       "2011": 1
     }, 
-    "feral": {
-      "f": 1
+    "perversity": {
+      "of": 1
     }, 
     "william": {
       "sumner": 1
     }, 
-    "zone": {
-      "safety": 1
+    "ecological": {
+      "circumstances": 1
     }, 
     "twenty-first": {
       "century": 1
@@ -4213,8 +4212,8 @@
     "discharge": {
       "always": 1
     }, 
-    "depicting": {
-      "named": 1
+    "decorated": {
+      "with": 1
     }, 
     "needed": {
       "<<period>>": 2
@@ -4222,8 +4221,9 @@
     "structure": {
       "or": 1
     }, 
-    "tracked": {
-      "<<period>>": 1
+    "rostrum": {
+      "<<comma>>": 1, 
+      "senate": 1
     }, 
     "billion": {
       "electrons": 1, 
@@ -4252,8 +4252,8 @@
     "bridge": {
       "at": 1
     }, 
-    "restricted": {
-      "to": 1
+    "broad": {
+      "archetypes": 1
     }, 
     "fresh": {
       "trial": 1
@@ -4269,13 +4269,13 @@
     "having": {
       "pictures": 1
     }, 
-    "richard": {
-      "smalley": 1
+    "once": {
+      "when": 1
     }
   }, 
   "meta": {
     "config": {
-      "numSentences": 10, 
+      "numSentences": 100, 
       "saveDictionary": true, 
       "dictionaryFile": "dictionary", 
       "readMoreLimit": 3, 
