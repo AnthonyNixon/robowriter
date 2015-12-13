@@ -1,13 +1,10 @@
 {
   "content": {
-    "six": {
-      "in": 1
-    }, 
     "partial": {
       "<<period>>": 1
     }, 
-    "decide": {
-      "to": 1
+    "help": {
+      "the": 1
     }, 
     "themed": {
       "sets": 1
@@ -78,9 +75,6 @@
       "gravitational": 1, 
       "sequels": 1
     }, 
-    "help": {
-      "the": 1
-    }, 
     "revived": {
       "series": 1
     }, 
@@ -99,9 +93,6 @@
     "had": {
       "crossovers": 1
     }, 
-    "developers": {
-      "and": 1
-    }, 
     "handheld": {
       "game": 1
     }, 
@@ -111,8 +102,8 @@
     "to": {
       "be": 1, 
       "help": 1, 
-      "date": 1, 
       "battle": 1, 
+      "date": 1, 
       "the": 1, 
       "or": 1
     }, 
@@ -120,26 +111,31 @@
       "non-video": 1, 
       "some": 1
     }, 
-    "whom": {
-      "the": 1
+    "parts": {
+      "of": 1
     }, 
     "excluded": {
       "even": 1
     }, 
-    "various": {
-      "developers": 1, 
-      "fights": 1
+    "whispermen": {
+      "<<comma>>": 1, 
+      "and": 1
     }, 
     "has": {
       "gone": 1
+    }, 
+    "superman": {
+      "and": 2, 
+      "<<comma>>": 1, 
+      "whom": 1
     }, 
     "k-9": {
       "and": 3, 
       "<<comma>>": 1, 
       "kamelion": 1
     }, 
-    "photographs": {
-      "are": 1
+    "versus": {
+      "aliens": 1
     }, 
     "extraterrestrials": {
       "that": 1
@@ -155,9 +151,6 @@
     }, 
     "horror": {
       "franchises": 1
-    }, 
-    "long-running": {
-      "bbc": 1
     }, 
     "predator": {
       "and": 1, 
@@ -228,13 +221,13 @@
       "of": 3, 
       "is": 1
     }, 
-    "leave": {
-      "earth": 1, 
-      "because": 1
+    "specific": {
+      "characters": 1
     }, 
-    "this": {
-      "is": 2, 
-      "was": 1
+    "these": {
+      "appearances": 1, 
+      "come": 1, 
+      "have": 1
     }, 
     "horrorclix": {
       "released": 1
@@ -275,6 +268,9 @@
     "significantly": {
       "from": 1
     }, 
+    "battle": {
+      "both": 1
+    }, 
     "phones": {
       "<<period>>": 1
     }, 
@@ -314,9 +310,6 @@
     "escape": {
       "its": 1
     }, 
-    "versus": {
-      "aliens": 1
-    }, 
     "our": {
       "modern": 1
     }, 
@@ -333,8 +326,9 @@
     "even": {
       "if": 1
     }, 
-    "specific": {
-      "characters": 1
+    "leave": {
+      "earth": 1, 
+      "because": 1
     }, 
     "appear": {
       "in": 2
@@ -348,21 +342,18 @@
     "movie": {
       "and": 1
     }, 
-    "nature": {
-      "differ": 1
+    "missing": {
+      "in": 1
     }, 
     "ice": {
       "age": 1
     }, 
-    "sets": {
-      "for": 1
-    }, 
     "written": {
       "by": 1
     }, 
-    "whispermen": {
-      "<<comma>>": 1, 
-      "and": 1
+    "various": {
+      "developers": 1, 
+      "fights": 1
     }, 
     "verbally": {
       "referred": 1
@@ -377,18 +368,12 @@
       "included": 1, 
       "a": 1
     }, 
-    "who": {
-      "<<comma>>": 1, 
-      "universe": 1, 
-      "itself": 1, 
-      "including": 1
-    }, 
     "sentient": {
       "such": 1, 
       "beings": 1
     }, 
-    "missing": {
-      "in": 1
+    "nature": {
+      "differ": 1
     }, 
     "real-world": {
       "humans": 1
@@ -396,29 +381,19 @@
     "franchises": {
       "<<period>>": 3
     }, 
-    "were": {
-      "based": 1, 
-      "with": 1
+    "differ": {
+      "significantly": 1
     }, 
-    "story": {
-      "takes": 1
+    "batman": {
+      "versus": 1, 
+      "becomes": 1, 
+      "have": 1
     }, 
     "fourteen": {
       "in": 1
     }, 
-    "torchwood": {
-      "<<comma>>": 2, 
-      "the": 2
-    }, 
-    "if": {
-      "their": 1, 
-      "seemingly": 1
-    }, 
-    "separate": {
-      "articles": 1
-    }, 
-    "trading": {
-      "card": 1
+    "following": {
+      "table": 1
     }, 
     "franchise": {
       "<<comma>>": 2, 
@@ -427,9 +402,11 @@
       "was": 1, 
       "<<period>>": 1
     }, 
-    "1982": {
-      "<<comma>>": 1, 
-      "based": 1
+    "from": {
+      "real-world": 1, 
+      "the": 1, 
+      "spin-off": 1, 
+      "doctor": 1
     }, 
     "come": {
       "from": 1
@@ -442,9 +419,6 @@
     }, 
     "tie-ins": {
       "to": 1
-    }, 
-    "science": {
-      "fiction": 2
     }, 
     "both": {
       "the": 1, 
@@ -464,9 +438,9 @@
       "platforms": 1, 
       "games": 1, 
       "the": 7, 
-      "creatures": 1, 
+      "superman": 1, 
       "themselves": 1, 
-      "superman": 1
+      "creatures": 1
     }, 
     "taking": {
       "place": 1
@@ -490,12 +464,12 @@
     }, 
     "games": {
       "<<comma>>": 1, 
-      "were": 1, 
+      "in": 2, 
       "vary": 1, 
       "one": 1, 
       "released": 1, 
       "are": 1, 
-      "in": 2, 
+      "were": 1, 
       "pit": 1
     }, 
     "published": {
@@ -513,17 +487,24 @@
     "composed": {
       "of": 1
     }, 
+    "cassandra": {
+      "obrien17": 1
+    }, 
+    "gone": {
+      "missing": 1
+    }, 
     "non-corporeal": {
       "great": 1
-    }, 
-    "bbc": {
-      "science": 1
     }, 
     "aliens": {
       "and": 2, 
       "vs": 1, 
       "from": 1, 
       "that": 1
+    }, 
+    "kamelion": {
+      "<<comma>>": 1, 
+      "kandy": 1
     }, 
     "superman/batman": {
       "vs": 1
@@ -533,10 +514,8 @@
       "tabletop": 1, 
       "another": 1
     }, 
-    "included": {
-      "<<comma>>": 1, 
-      "such": 1, 
-      "if": 1
+    "conflicts": {
+      "with": 1
     }, 
     "beings": {
       "may": 1
@@ -547,8 +526,8 @@
     "another": {
       "in": 1
     }, 
-    "such": {
-      "as": 3
+    "climbing": {
+      "crew": 1
     }, 
     "table": {
       "is": 1
@@ -556,21 +535,18 @@
     "comic": {
       "book": 1
     }, 
-    "fiction": {
-      "horror": 1, 
-      "television": 1
+    "mark": {
+      "schultz": 1
     }, 
     "sarah": {
       "jane": 2
     }, 
-    "differ": {
-      "significantly": 1
+    "story": {
+      "takes": 1
     }, 
-    "from": {
-      "real-world": 1, 
-      "the": 1, 
-      "spin-off": 1, 
-      "doctor": 1
+    "1982": {
+      "<<comma>>": 1, 
+      "based": 1
     }, 
     "takes": {
       "place": 1
@@ -584,8 +560,8 @@
     "there": {
       "have": 2
     }, 
-    "conflicts": {
-      "with": 1
+    "bbc": {
+      "science": 1
     }, 
     "non-organic": {
       "<<comma>>": 1, 
@@ -596,11 +572,12 @@
       "seventeen": 1, 
       "created": 1
     }, 
-    "mark": {
-      "schultz": 1
+    "fiction": {
+      "horror": 1, 
+      "television": 1
     }, 
-    "few": {
-      "cases": 1
+    "whom": {
+      "the": 1
     }, 
     "card": {
       "game": 2
@@ -615,6 +592,9 @@
     }, 
     "taken": {
       "from": 1
+    }, 
+    "subsequent": {
+      "games": 1
     }, 
     "themselves": {
       "and": 1
@@ -631,8 +611,8 @@
     "collectible": {
       "card": 1
     }, 
-    "fights": {
-      "for": 1
+    "modern": {
+      "time": 1
     }, 
     "through": {
       "a": 1
@@ -643,15 +623,23 @@
     "on": {
       "january": 1, 
       "the": 2, 
-      "that": 1, 
+      "earth": 1, 
       "february": 1, 
-      "earth": 1
+      "that": 1
     }, 
-    "becomes": {
-      "the": 1
+    "long-running": {
+      "bbc": 1
     }, 
     "company": {
       "<<period>>": 2
+    }, 
+    "universe": {
+      "of": 1, 
+      "<<period>>": 1, 
+      "in": 1
+    }, 
+    "al": {
+      "<<period>>": 1
     }, 
     "but": {
       "not": 1, 
@@ -725,13 +713,12 @@
     "platforms": {
       "including": 1
     }, 
-    "these": {
-      "appearances": 1, 
-      "come": 1, 
-      "have": 1
+    "this": {
+      "is": 2, 
+      "was": 1
     }, 
-    "dangerous": {
-      "conflicts": 1
+    "science": {
+      "fiction": 2
     }, 
     "humans": {
       "and": 1, 
@@ -748,6 +735,9 @@
     "planet": {
       "<<period>>": 1
     }, 
+    "information": {
+      "on": 1
+    }, 
     "while": {
       "both": 1
     }, 
@@ -762,39 +752,35 @@
       "franchises": 1, 
       "spin-off": 1
     }, 
-    "universe": {
-      "of": 1, 
-      "in": 1, 
-      "<<period>>": 1
+    "were": {
+      "with": 1, 
+      "based": 1
     }, 
-    "following": {
-      "table": 1
+    "torchwood": {
+      "<<comma>>": 2, 
+      "the": 2
     }, 
-    "battle": {
-      "both": 1
-    }, 
-    "other": {
-      "<<period>>": 1, 
-      "fictional": 1
+    "trading": {
+      "card": 1
     }, 
     "could": {
       "not": 2
     }, 
-    "tabletop": {
-      "miniatures": 1
+    "at": {
+      "the": 1
     }, 
     "and": {
-      "then": 1, 
+      "extraterrestrials": 1, 
       "aliens": 1, 
       "one": 1, 
       "alien": 1, 
       "in": 1, 
-      "its": 1, 
       "species": 1, 
+      "its": 1, 
       "other": 1, 
       "k-9": 2, 
       "photographs": 1, 
-      "extraterrestrials": 1, 
+      "then": 1, 
       "nature": 1, 
       "batman": 2, 
       "company": 2, 
@@ -807,11 +793,11 @@
       "could": 1, 
       "the": 5
     }, 
-    "gone": {
-      "missing": 1
+    "photographs": {
+      "are": 1
     }, 
-    "boekind": {
-      "<<period>>": 1
+    "dangerous": {
+      "conflicts": 1
     }, 
     "then": {
       "on": 1
@@ -823,11 +809,11 @@
       "composed": 1, 
       "sorted": 1
     }, 
-    "modern": {
-      "time": 1
+    "fights": {
+      "for": 1
     }, 
-    "al": {
-      "<<period>>": 1
+    "few": {
+      "cases": 1
     }, 
     "covers": {
       "alien": 1
@@ -839,17 +825,17 @@
       "<<period>>": 1
     }, 
     "as": {
-      "tie-ins": 1, 
-      "gangers": 1, 
       "lady": 1, 
+      "gangers": 1, 
       "k-9": 1, 
+      "tie-ins": 1, 
       "partial": 1
     }, 
     "vs": {
       "<<period>>": 6
     }, 
-    "at": {
-      "the": 1
+    "tabletop": {
+      "miniatures": 1
     }, 
     "have": {
       "dangerous": 1, 
@@ -869,8 +855,8 @@
     "horse": {
       "comics": 1
     }, 
-    "pit": {
-      "human": 1
+    "decide": {
+      "to": 1
     }, 
     "species": {
       "are": 1, 
@@ -880,10 +866,9 @@
       "alien": 1, 
       "and": 1
     }, 
-    "superman": {
-      "and": 2, 
-      "<<comma>>": 1, 
-      "whom": 1
+    "if": {
+      "their": 1, 
+      "seemingly": 1
     }, 
     "mountain": {
       "climbing": 1
@@ -898,15 +883,11 @@
     "variety": {
       "of": 1
     }, 
-    "media": {
-      "<<period>>": 1
+    "pit": {
+      "human": 1
     }, 
-    "that": {
-      "during": 1, 
-      "some": 1, 
-      "appear": 1, 
-      "film": 1, 
-      "are": 1
+    "six": {
+      "in": 1
     }, 
     "same": {
       "time": 1
@@ -920,8 +901,16 @@
     "also": {
       "included": 1
     }, 
-    "parts": {
-      "of": 1
+    "that": {
+      "during": 1, 
+      "some": 1, 
+      "appear": 1, 
+      "film": 1, 
+      "are": 1
+    }, 
+    "other": {
+      "<<period>>": 1, 
+      "fictional": 1
     }, 
     "superheroes": {
       "have": 1
@@ -930,10 +919,8 @@
       "alien": 1, 
       "superman": 1
     }, 
-    "batman": {
-      "versus": 1, 
-      "becomes": 1, 
-      "have": 1
+    "becomes": {
+      "the": 1
     }, 
     "intelligence": {
       "but": 1
@@ -942,8 +929,8 @@
       "far": 1, 
       "somewhere": 1
     }, 
-    "cassandra": {
-      "obrien17": 1
+    "developers": {
+      "and": 1
     }, 
     "survival": {
       "<<period>>": 1
@@ -955,11 +942,17 @@
     "<<colon>>": {
       "the": 1
     }, 
+    "time": {
+      "<<comma>>": 1, 
+      "<<period>>": 1, 
+      "a": 1, 
+      "they": 1
+    }, 
     "book": {
       "co-published": 1
     }, 
-    "information": {
-      "on": 1
+    "separate": {
+      "articles": 1
     }, 
     "may": {
       "be": 1
@@ -967,11 +960,14 @@
     "appearances": {
       "are": 1
     }, 
-    "time": {
+    "who": {
       "<<comma>>": 1, 
-      "<<period>>": 1, 
-      "a": 1, 
-      "they": 1
+      "universe": 1, 
+      "itself": 1, 
+      "including": 1
+    }, 
+    "boekind": {
+      "<<period>>": 1
     }, 
     "robots": {
       "are": 1
@@ -987,12 +983,13 @@
       "are": 1, 
       "against": 1
     }, 
-    "kamelion": {
+    "included": {
       "<<comma>>": 1, 
-      "kandy": 1
+      "such": 1, 
+      "if": 1
     }, 
-    "climbing": {
-      "crew": 1
+    "such": {
+      "as": 3
     }, 
     "revealed": {
       "that": 1
@@ -1004,9 +1001,9 @@
     "a": {
       "mountain": 1, 
       "chronological": 1, 
-      "show": 1, 
-      "sun": 1, 
       "variety": 1, 
+      "sun": 1, 
+      "show": 1, 
       "list": 2, 
       "predator": 1, 
       "fictional": 1, 
@@ -1022,9 +1019,9 @@
       "1997": 1, 
       "separate": 1, 
       "various": 1, 
-      "2006": 1, 
       "which": 2, 
       "our": 1, 
+      "2006": 1, 
       "the": 10, 
       "archive": 1
     }, 
@@ -1068,6 +1065,9 @@
     "their": {
       "appearance": 1
     }, 
+    "media": {
+      "<<period>>": 1
+    }, 
     "itself": {
       "<<colon>>": 1, 
       "the": 1
@@ -1081,8 +1081,8 @@
     "2007": {
       "<<period>>": 1
     }, 
-    "subsequent": {
-      "games": 1
+    "sets": {
+      "for": 1
     }, 
     "the": {
       "boekind": 1, 
@@ -1091,17 +1091,17 @@
       "aliens": 2, 
       "long-running": 1, 
       "alien": 5, 
-      "same": 1, 
+      "ice": 1, 
       "species": 1, 
       "creatures": 1, 
       "sarah": 2, 
       "story": 1, 
       "doctor": 1, 
       "three": 2, 
-      "ice": 1, 
+      "same": 1, 
       "only": 1, 
       "whispermen": 1, 
-      "stories": 2, 
+      "games": 3, 
       "monsters": 1, 
       "good": 1, 
       "franchises": 1, 
@@ -1117,7 +1117,7 @@
       "planet": 1, 
       "andes": 2, 
       "future": 1, 
-      "games": 3, 
+      "stories": 2, 
       "predators": 3, 
       "following": 1, 
       "page": 1, 
