@@ -37,7 +37,9 @@ flags = {
     '-d': {'configVar': 'dictionaryFile', 'type': 'string'},
     '-nosave': {'configVar': 'saveDictionary', 'type': 'unary'},
     '-n': {'configVar': 'numSentences', 'type': 'num'},
-    '-delete': {'configVar': 'deleteDictionary', 'type': 'unary'}
+    '-delete': {'configVar': 'deleteDictionary', 'type': 'unary'},
+    '-sync': {'configVar': 'syncMaster', 'type': 'unary'},
+    '-nomaster': {'configVar': 'useMaster', 'type': 'unary'}
     }
 
 questionWords = ['who', 'what', 'where', 'when', 'why', 'how']
@@ -46,7 +48,17 @@ def isnum(input): return input.isdigit()
 def isString(input): return True
 types = {'num': isnum, 'string': isString}
 
-config = {'entropy': 1, 'readMoreLimit': 1, 'searchTerms': [], 'dictionaryFile': 'dictionary', 'saveDictionary': True, 'deleteDictionary': False, 'numSentences': 1}
+config = {
+    'entropy': 1,
+    'readMoreLimit': 1,
+    'searchTerms': [],
+    'dictionaryFile': 'dictionary',
+    'saveDictionary': True,
+    'deleteDictionary': False,
+    'numSentences': 1,
+    'useMaster': True,
+    'syncMaster': False
+    }
 
 ################################################################################
 #                         Function Definitions                                 #
@@ -92,6 +104,17 @@ def addWord(firstWord, secondWord):
         else:
             dictionary[firstWord] = {}
             dictionary[firstWord][secondWord] = 1
+
+        if firstWord in master:
+            if secondWord in master[firstWord]:
+                master[firstWord][secondWord] += 1
+            else:
+                master[firstWord][secondWord] = 1
+        else:
+            master[firstWord] = {}
+            master[firstWord][secondWord] = 1
+
+
 
 def hasPunctuation(word):
     if word[-1:] in punctuationMap:
@@ -278,6 +301,27 @@ def generateSentences():
         print makeSentence(getRandomDictionaryWord())
         print
 
+def loadMasterFile():
+    if os.path.isfile('master-dictionary'):
+        with open('master-dictionary','r') as contents:
+            master = json.loads(contents.read())
+        return master
+    else:
+        return {}
+
+def loadMasterToDictionary(masterFile):
+    for word in masterFile:
+        for nextWord in masterFile[word]:
+            if word in dictionary:
+                dictionary[word][nextWord] = 1
+            else:
+                dictionary[word] = {}
+                dictionary[word][nextWord] = 1
+
+def saveMaster():
+    with open('master-dictionary','w+') as contents:
+        contents.write(json.dumps(master, indent=2))
+
 
 
 
@@ -296,6 +340,13 @@ if configDiffersFromMeta(config, meta):
 
 meta['config'] = config
 
+master = loadMasterFile()
+print "master: " + str(master)
+
+print "using master: " + str(config['useMaster'])
+if config['useMaster']:
+    loadMasterToDictionary(master)
+
 # testString = getFileContents('input.txt')
 # iterateInput(testString)
 
@@ -305,5 +356,7 @@ learnAbout(config['searchTerms'])
 if config['saveDictionary']:
     print "saving to " + config['dictionaryFile']
     saveDictionary(dictionary, meta, config['dictionaryFile'])
+
+saveMaster()
 
 generateSentences()
