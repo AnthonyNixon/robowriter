@@ -134,8 +134,8 @@
       "<<comma>>": 1, 
       "kamelion": 1
     }, 
-    "photographs": {
-      "are": 1
+    "versus": {
+      "aliens": 1
     }, 
     "extraterrestrials": {
       "that": 1
@@ -151,10 +151,6 @@
     }, 
     "horror": {
       "franchises": 1
-    }, 
-    "age": {
-      "<<comma>>": 1, 
-      "a": 1
     }, 
     "predator": {
       "and": 1, 
@@ -201,9 +197,6 @@
     }, 
     "lady": {
       "cassandra": 1
-    }, 
-    "becomes": {
-      "the": 1
     }, 
     "articles": {
       "<<period>>": 1
@@ -388,6 +381,11 @@
     "differ": {
       "significantly": 1
     }, 
+    "batman": {
+      "versus": 1, 
+      "becomes": 1, 
+      "have": 1
+    }, 
     "fourteen": {
       "in": 1
     }, 
@@ -411,6 +409,9 @@
       "the": 1, 
       "spin-off": 1, 
       "doctor": 1
+    }, 
+    "decide": {
+      "to": 1
     }, 
     "come": {
       "from": 1
@@ -505,10 +506,6 @@
       "vs": 1, 
       "from": 1, 
       "that": 1
-    }, 
-    "kamelion": {
-      "<<comma>>": 1, 
-      "kandy": 1
     }, 
     "superman/batman": {
       "vs": 1
@@ -733,6 +730,9 @@
     "planet": {
       "<<period>>": 1
     }, 
+    "information": {
+      "on": 1
+    }, 
     "while": {
       "both": 1
     }, 
@@ -757,9 +757,6 @@
     }, 
     "trading": {
       "card": 1
-    }, 
-    "mountain": {
-      "climbing": 1
     }, 
     "released": {
       "on": 1, 
@@ -797,8 +794,8 @@
       "could": 1, 
       "the": 5
     }, 
-    "versus": {
-      "aliens": 1
+    "photographs": {
+      "are": 1
     }, 
     "boekind": {
       "<<period>>": 1
@@ -865,8 +862,8 @@
     "horse": {
       "comics": 1
     }, 
-    "decide": {
-      "to": 1
+    "pit": {
+      "human": 1
     }, 
     "species": {
       "are": 1, 
@@ -880,11 +877,15 @@
       "their": 1, 
       "seemingly": 1
     }, 
-    "information": {
-      "on": 1
+    "mountain": {
+      "climbing": 1
     }, 
     "strength": {
       "<<period>>": 1
+    }, 
+    "date": {
+      "<<comma>>": 1, 
+      "there": 1
     }, 
     "variety": {
       "of": 1
@@ -925,10 +926,8 @@
       "alien": 1, 
       "superman": 1
     }, 
-    "batman": {
-      "versus": 1, 
-      "becomes": 1, 
-      "have": 1
+    "becomes": {
+      "the": 1
     }, 
     "intelligence": {
       "but": 1
@@ -988,9 +987,9 @@
       "are": 1, 
       "against": 1
     }, 
-    "date": {
+    "kamelion": {
       "<<comma>>": 1, 
-      "there": 1
+      "kandy": 1
     }, 
     "such": {
       "as": 3
@@ -1022,8 +1021,8 @@
       "1982": 1, 
       "1997": 1, 
       "separate": 1, 
-      "2006": 1, 
       "various": 1, 
+      "2006": 1, 
       "which": 2, 
       "our": 1, 
       "the": 10, 
@@ -1041,8 +1040,9 @@
     "mobile": {
       "phones": 1
     }, 
-    "pit": {
-      "human": 1
+    "age": {
+      "<<comma>>": 1, 
+      "a": 1
     }, 
     "doctor": {
       "who": 3
