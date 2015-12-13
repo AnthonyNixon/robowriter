@@ -302,8 +302,8 @@ def generateSentences():
         print
 
 def loadMasterFile():
-    if os.path.isfile('master-dictionary'):
-        with open('master-dictionary','r') as contents:
+    if os.path.isfile('robowriter-master-dictionary/master-dictionary'):
+        with open('robowriter-master-dictionary/master-dictionary','r') as contents:
             master = json.loads(contents.read())
         return master
     else:
@@ -319,9 +319,11 @@ def loadMasterToDictionary(masterFile):
                 dictionary[word][nextWord] = 1
 
 def saveMaster():
-    with open('master-dictionary','w+') as contents:
+    with open('robowriter-master-dictionary/master-dictionary','w+') as contents:
         contents.write(json.dumps(master, indent=2))
 
+def syncMaster():
+    
 
 
 
@@ -358,5 +360,6 @@ if config['saveDictionary']:
     saveDictionary(dictionary, meta, config['dictionaryFile'])
 
 saveMaster()
+if config['syncMaster']: syncMaster()
 
 generateSentences()
