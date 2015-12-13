@@ -55,9 +55,9 @@ def newDictionary():
     return ({}, {})
 
 def saveDictionary(dictionaryToSave, meta, name):
-    dictionaryToSave = {'content': dictionaryToSave, 'meta': meta}
+    content = {'content': dictionaryToSave, 'meta': meta}
     with open(name,'w+') as contents:
-        contents.write(json.dumps(dictionaryToSave, indent=2))
+        contents.write(json.dumps(content, indent=2))
 
 def deleteDictionary(name):
     os.remove(name)
@@ -207,14 +207,14 @@ def makeSentence(word):
     return sentence
 
 def crawlAndLearn(topic):
-
+    print 'topic: ' + str(topic)
     if not 'educatedOn' in meta:
         meta['educatedOn'] = []
 
     if topic in meta['educatedOn']:
         print "Already Learned: " + topic
     else:
-        search = wikipedia.search(topic, results=config['readMoreLimit'])
+        search = wikipedia.search(topic, results=int(config['readMoreLimit']))
         for page in search:
             print "Learning about: " + page
             try:
@@ -291,6 +291,7 @@ if (config['deleteDictionary']):
 
 (dictionary, meta) = loadDictionary(config['dictionaryFile'])
 if configDiffersFromMeta(config, meta):
+    print "Config changed. Making new dictionary."
     (dictionary, meta) = newDictionary()
 
 meta['config'] = config
@@ -302,6 +303,7 @@ meta['config'] = config
 learnAbout(config['searchTerms'])
 
 if config['saveDictionary']:
+    print "saving to " + config['dictionaryFile']
     saveDictionary(dictionary, meta, config['dictionaryFile'])
 
 generateSentences()
