@@ -9,6 +9,7 @@ import re
 import logging
 import os.path
 import sys
+import subprocess
 
 logging.captureWarnings(True)
 
@@ -323,7 +324,9 @@ def saveMaster():
         contents.write(json.dumps(master, indent=2))
 
 def syncMaster():
-    
+    bashCommand = "./robowriter-master-dictionary/sync.sh"
+    process = subprocess.Popen(bashCommand.split(), stdout=subprocess.PIPE)
+    output = process.communicate()[0]
 
 
 
