@@ -41,8 +41,11 @@ config = {
 }
 
 startingPosOptions = ['NN', 'NNS', 'NNP', 'EX', 'CD', 'DT', 'JJ', 'PRP',
-    'WDT', 'WP', 'WP$', 'WRB']
-ignorePos = ["``", ";", ":", "'", '"', "[", "]"]
+    'WDT', 'WP', 'WRB']
+ignorePos = ["``", ";", ":", "'", '"', "[", "]", '``']
+
+punctuations = ['.', ',', '!', '?']
+endPunctuations = ['.', '!', '?']
 
 
 
@@ -132,11 +135,35 @@ def weightedChoice(choices):
     return random.choice(weightedArray)
 
 
+def onlyHasPunctuations(posList):
+    for pos in posList:
+        if pos not in endPunctuations:
+            return False
+    return True
+
+
+
+def chooseReplacementPos(previousWord):
+    replacement = '.'
+    while replacement in endPunctuations:
+        replacement = random.choice(words[previousWord].keys())
+
+        if onlyHasPunctuations(words[previousWord].keys()):
+            return replacement
+    return replacement
+
+
+
 def getNextWord(previousWord, pos):
     if pos in words[previousWord]:
-        return weightedChoice(words[previousWord][pos])
+        nextWord = weightedChoice(words[previousWord][pos])
+        return (nextWord, pos)
     else:
-        return chooseRandomWordWithPos(pos)
+        if pos not in punctuations:
+            replacement = chooseReplacementPos(previousWord)
+            return (weightedChoice(words[previousWord][replacement]), replacement)
+        else:
+            return (pos, pos)
 
 
 def cleanSentence(sentence):
@@ -178,21 +205,33 @@ def isAcceptable(sentence):
     return True
 
 def makeSentence():
-    posOrder = generatePosOrder()
+    posOrder = []
+    currentPos = getStartingPos()
+    posOrder.append(currentPos)
 
     sentenceWords = []
 
-    prevWord = chooseRandomWordWithPos(posOrder[0])
+    prevWord = chooseRandomWordWithPos(currentPos)
     sentenceWords.append(prevWord)
 
-    for i in range(1, len(posOrder)):
-        sentenceWords.append(getNextWord(prevWord, posOrder[i]))
+    while currentPos not in endPunctuations:
+        currentPos = getNextPos(currentPos)
+
+        (nextWord, nextPos) = getNextWord(prevWord, currentPos)
+        if nextWord in words.keys():
+            sentenceWords.append(nextWord)
+            posOrder.append(nextPos)
+            prevWord = nextWord
+            currentPos = nextPos
 
     sentence = ' '.join(sentenceWords)
 
     sentence = cleanSentence(sentence)
 
     if isAcceptable(sentence):
+        for pos in posOrder:
+            print pos + " ",
+        print
         return sentence
     else:
         return makeSentence()
