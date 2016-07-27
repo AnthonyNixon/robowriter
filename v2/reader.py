@@ -50,7 +50,7 @@ config = {
     'syncMaster': False
 }
 
-restrictedWords = ['[', ']', '(', ')', '{', '}', "''"]
+restrictedWords = ['[', ']', '(', ')', '{', '}', "''", '-']
 
 
 

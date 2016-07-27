@@ -172,7 +172,7 @@ def isAcceptable(sentence):
 
     # Accept only sentences with non-repeating words
     for i in range(len(wordList)-1):
-        if word[i] in word[i+1] or word[i+1] in word[i]:
+        if wordList[i] in wordList[i+1] or wordList[i+1] in wordList[i]:
             return False
 
     return True
