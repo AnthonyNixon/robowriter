@@ -1,0 +1,26 @@
+{
+  "content": {
+    "test": {
+      "is": 2
+    }
+  },
+  "meta": {
+    "config": {
+      "syncMaster": false, 
+      "saveDictionary": true,
+      "numSentences": 1,
+      "entropy": 1,
+      "deleteDictionary": false,
+      "dictionaryFile": "dictionary",
+      "readMoreLimit": 1,
+      "useMaster": false,
+      "searchTerms": [
+        "aliens"
+      ]
+    },
+    "educatedOn": [
+      "aliens",
+      "=nomaster"
+    ]
+  }
+}

@@ -1,0 +1,11686 @@
+{
+  "partsOfSpeech": {
+    "PRP$": {
+      "VBG": 1, 
+      "NNS": 3, 
+      "JJ": 5, 
+      "NN": 12, 
+      "NNP": 1
+    }, 
+    "VBG": {
+      "RB": 2, 
+      "NN": 7, 
+      "VBN": 2, 
+      "CD": 3, 
+      "''": 1, 
+      "TO": 7, 
+      "JJ": 6, 
+      "IN": 12, 
+      "DT": 7, 
+      "NNS": 3, 
+      ",": 1, 
+      "NNP": 3
+    }, 
+    "VBD": {
+      "PRP$": 1, 
+      "VBG": 1, 
+      "RB": 6, 
+      "NN": 1, 
+      "VBN": 21, 
+      ",": 3, 
+      "TO": 3, 
+      "PRP": 2, 
+      "JJ": 10, 
+      "IN": 16, 
+      "DT": 30, 
+      "CD": 7, 
+      "NNS": 2, 
+      "NNP": 3
+    }, 
+    "``": {
+      "RB": 2, 
+      "NN": 1, 
+      "VBN": 1, 
+      "WDT": 1, 
+      "PRP": 1, 
+      "JJ": 4, 
+      "IN": 2, 
+      "VBZ": 2, 
+      "NNP": 6
+    }, 
+    "VBN": {
+      "PRP$": 1, 
+      "WRB": 1, 
+      "JJ": 4, 
+      "NN": 4, 
+      "CC": 4, 
+      "VBN": 2, 
+      ".": 4, 
+      "''": 1, 
+      "TO": 5, 
+      "PRP": 1, 
+      "RB": 9, 
+      "IN": 48, 
+      "VBG": 1, 
+      "DT": 4, 
+      "NNS": 4, 
+      "NNP": 4
+    }, 
+    "POS": {
+      "``": 1, 
+      "VBG": 1, 
+      "NN": 12, 
+      "CC": 1, 
+      ",": 1, 
+      ".": 1, 
+      "JJ": 7, 
+      "NNS": 2, 
+      "NNP": 4
+    }, 
+    "''": {
+      "``": 1, 
+      "VBG": 1, 
+      ",": 4, 
+      ".": 5, 
+      "''": 1, 
+      "IN": 2, 
+      "VBZ": 1, 
+      "DT": 1, 
+      "NNP": 5
+    }, 
+    "VBP": {
+      "PRP$": 1, 
+      "RB": 6, 
+      "JJR": 1, 
+      "VBN": 7, 
+      "TO": 2, 
+      "PRP": 1, 
+      "JJ": 5, 
+      "IN": 2, 
+      "DT": 4, 
+      ".": 1, 
+      "NNS": 1, 
+      "NNP": 1
+    }, 
+    "WDT": {
+      "JJ": 1, 
+      "NN": 1, 
+      "VBD": 3, 
+      "VBP": 6, 
+      "RB": 2, 
+      "VBZ": 7, 
+      "DT": 1
+    }, 
+    "JJ": {
+      "``": 1, 
+      "VBG": 2, 
+      "RB": 1, 
+      "NN": 107, 
+      "VBD": 1, 
+      "CC": 15, 
+      ",": 10, 
+      ".": 6, 
+      "TO": 8, 
+      "JJ": 21, 
+      "IN": 10, 
+      "CD": 4, 
+      "NNS": 53, 
+      "NNP": 21
+    }, 
+    "WP": {
+      "PRP": 2
+    }, 
+    "VBZ": {
+      "WRB": 1, 
+      "``": 2, 
+      ":": 1, 
+      "VBG": 3, 
+      "JJ": 7, 
+      "NN": 2, 
+      "RBR": 1, 
+      "VBN": 15, 
+      "TO": 3, 
+      "RB": 20, 
+      "IN": 6, 
+      "RP": 1, 
+      "DT": 18, 
+      "CD": 4, 
+      ",": 1, 
+      "JJR": 1, 
+      "NNP": 4
+    }, 
+    "DT": {
+      "MD": 1, 
+      "``": 1, 
+      "NNPS": 1, 
+      "VBG": 3, 
+      "RB": 3, 
+      "NN": 135, 
+      "VBD": 1, 
+      "CC": 1, 
+      "RBR": 3, 
+      "VBN": 2, 
+      "CD": 12, 
+      "JJ": 80, 
+      "IN": 4, 
+      "VBZ": 5, 
+      "NNS": 17, 
+      "JJR": 2, 
+      "NNP": 54
+    }, 
+    "RP": {
+      "IN": 2
+    }, 
+    "NN": {
+      "VBG": 7, 
+      "VBD": 33, 
+      "VBN": 6, 
+      ",": 47, 
+      "''": 7, 
+      "VBP": 5, 
+      "WDT": 6, 
+      "JJ": 3, 
+      "VBZ": 30, 
+      "DT": 4, 
+      "NN": 67, 
+      "POS": 9, 
+      ".": 45, 
+      "TO": 13, 
+      "RB": 4, 
+      ":": 9, 
+      "NNS": 15, 
+      "NNP": 14, 
+      "WRB": 3, 
+      "CC": 24, 
+      "CD": 3, 
+      "IN": 147, 
+      "MD": 3
+    }, 
+    ",": {
+      "WRB": 1, 
+      "MD": 1, 
+      "PRP$": 1, 
+      "VBG": 18, 
+      "RB": 6, 
+      "NN": 7, 
+      "VBD": 2, 
+      "CC": 20, 
+      "JJS": 1, 
+      "``": 4, 
+      "RBR": 1, 
+      "VBN": 3, 
+      "TO": 1, 
+      "WDT": 3, 
+      "PRP": 4, 
+      "JJ": 8, 
+      "IN": 24, 
+      "VBZ": 5, 
+      "DT": 28, 
+      "CD": 4, 
+      "NNP": 37
+    }, 
+    ".": {
+      "PRP$": 4, 
+      "WRB": 2, 
+      "JJ": 3, 
+      "NN": 5, 
+      "VBG": 1, 
+      "``": 1, 
+      "PRP": 14, 
+      "CD": 1, 
+      "''": 8, 
+      "VB": 1, 
+      "EX": 2, 
+      "RB": 4, 
+      "IN": 33, 
+      "VBZ": 1, 
+      "DT": 44, 
+      "NNS": 1, 
+      "NNP": 20
+    }, 
+    "TO": {
+      "VB": 21, 
+      "VBG": 1, 
+      "NN": 1, 
+      "CD": 1, 
+      "VBP": 1, 
+      "PRP": 1, 
+      "JJ": 1, 
+      "DT": 16, 
+      ":": 1, 
+      "NNP": 13
+    }, 
+    "PRP": {
+      "MD": 3, 
+      "RP": 1, 
+      "VBD": 17, 
+      ",": 1, 
+      ".": 1, 
+      "VBP": 5, 
+      "RB": 2, 
+      "IN": 1, 
+      "VBZ": 15, 
+      "DT": 1
+    }, 
+    "RB": {
+      "WRB": 2, 
+      "VB": 5, 
+      "VBG": 1, 
+      "JJ": 19, 
+      "NN": 1, 
+      "VBD": 4, 
+      "RBR": 1, 
+      "WP": 1, 
+      ",": 9, 
+      "CD": 1, 
+      "TO": 1, 
+      "VBP": 1, 
+      "VBN": 21, 
+      "PRP": 2, 
+      "RB": 4, 
+      "IN": 22, 
+      "VBZ": 3, 
+      "DT": 2, 
+      ".": 3, 
+      "NNP": 2
+    }, 
+    ":": {
+      "DT": 3, 
+      "CD": 6, 
+      "RB": 1, 
+      "NN": 2, 
+      "NNP": 10
+    }, 
+    "NNS": {
+      "MD": 3, 
+      ":": 1, 
+      "VBG": 3, 
+      "JJ": 1, 
+      "NN": 4, 
+      "VBD": 4, 
+      "CC": 10, 
+      ",": 24, 
+      "CD": 2, 
+      "''": 1, 
+      "TO": 5, 
+      "VBP": 9, 
+      "WDT": 6, 
+      "VBN": 4, 
+      "RB": 6, 
+      "IN": 45, 
+      "VBZ": 1, 
+      ".": 24, 
+      "NNS": 2, 
+      "NNP": 2
+    }, 
+    "NNP": {
+      "VBG": 1, 
+      "VBD": 31, 
+      "VBN": 1, 
+      ",": 57, 
+      "''": 3, 
+      "VBP": 2, 
+      "WDT": 2, 
+      "JJ": 1, 
+      "VBZ": 16, 
+      "DT": 2, 
+      "NN": 40, 
+      "POS": 17, 
+      ".": 50, 
+      "TO": 5, 
+      "PRP": 1, 
+      "RB": 3, 
+      ":": 8, 
+      "NNS": 8, 
+      "NNP": 172, 
+      "``": 2, 
+      "WRB": 1, 
+      "CC": 18, 
+      "CD": 41, 
+      "IN": 38, 
+      "MD": 1, 
+      "NNPS": 5
+    }, 
+    "VB": {
+      "MD": 1, 
+      "``": 1, 
+      "VBG": 1, 
+      "RB": 2, 
+      "NN": 4, 
+      "CC": 2, 
+      "RBR": 1, 
+      "VBN": 7, 
+      "POS": 1, 
+      "TO": 2, 
+      "JJ": 3, 
+      "IN": 8, 
+      "DT": 4, 
+      "NNS": 3, 
+      "NNP": 4
+    }, 
+    "WRB": {
+      "NN": 1, 
+      "RBS": 1, 
+      ",": 1, 
+      "VBN": 1, 
+      "PRP": 4, 
+      "JJ": 1, 
+      "DT": 1, 
+      "CD": 1
+    }, 
+    "CC": {
+      "MD": 3, 
+      "PRP$": 2, 
+      "VBG": 2, 
+      "RB": 8, 
+      "NN": 14, 
+      "VBD": 3, 
+      "JJS": 1, 
+      "VBN": 4, 
+      ",": 1, 
+      "VB": 1, 
+      "VBP": 1, 
+      "PRP": 1, 
+      "JJ": 17, 
+      "IN": 4, 
+      "VBZ": 3, 
+      "DT": 8, 
+      "CD": 4, 
+      "NNS": 7, 
+      "JJR": 2, 
+      "NNP": 17
+    }, 
+    "RBS": {
+      "NNP": 1
+    }, 
+    "RBR": {
+      "RB": 3, 
+      "JJ": 4, 
+      "IN": 1
+    }, 
+    "CD": {
+      "VB": 1, 
+      "VBG": 1, 
+      "NN": 25, 
+      "VBD": 5, 
+      "CC": 8, 
+      "POS": 3, 
+      "``": 1, 
+      ",": 16, 
+      ".": 18, 
+      "TO": 1, 
+      "PRP": 3, 
+      "JJ": 3, 
+      "IN": 13, 
+      ":": 2, 
+      "NNS": 20, 
+      "NNP": 19
+    }, 
+    "EX": {
+      "VBZ": 1, 
+      "VBP": 1
+    }, 
+    "IN": {
+      "''": 1, 
+      "``": 5, 
+      "VBG": 5, 
+      "RB": 8, 
+      "NN": 51, 
+      "RBR": 1, 
+      "WP": 1, 
+      "JJS": 1, 
+      "JJR": 1, 
+      "CD": 45, 
+      "VB": 1, 
+      "TO": 1, 
+      "WDT": 3, 
+      "PRP": 10, 
+      "JJ": 43, 
+      "IN": 12, 
+      "DT": 141, 
+      "PRP$": 12, 
+      "NNS": 14, 
+      ",": 3, 
+      "NNP": 97
+    }, 
+    "MD": {
+      "VB": 14, 
+      "RB": 2
+    }, 
+    "NNPS": {
+      ".": 2, 
+      "IN": 1, 
+      "NNP": 1, 
+      "VBD": 2
+    }, 
+    "JJS": {
+      "VBP": 1, 
+      "NNS": 1, 
+      "RB": 1
+    }, 
+    "JJR": {
+      "NNS": 1, 
+      "NN": 4, 
+      "JJ": 1, 
+      "IN": 1
+    }
+  }, 
+  "meta": {
+    "config": {
+      "saveDictionary": true, 
+      "dictionaryFile": "default", 
+      "readMoreLimit": 3, 
+      "searchTerms": [], 
+      "deleteDictionary": false, 
+      "syncMaster": false
+    }, 
+    "educatedOn": [
+      "HIV/AIDS in Nigeria", 
+      "Gezeli-ye Sofla", 
+      "C.A.I. Second", 
+      "Conatus (album)", 
+      "Macaronic language", 
+      "Sheldon White", 
+      "Bert Kuczynski", 
+      "Soyuz T-6", 
+      "Qiantan International Business Zone (Shanghai)", 
+      "USS Arizonan (ID-4542A)"
+    ]
+  }, 
+  "lookup": {
+    "PRP$": [
+      "its", 
+      "their", 
+      "her", 
+      "his"
+    ], 
+    "VBG": [
+      "living", 
+      "including", 
+      "emerging", 
+      "existing", 
+      "coordinating", 
+      "dealing", 
+      "leading", 
+      "resulting", 
+      "operating", 
+      "flying", 
+      "recording", 
+      "adding", 
+      "according", 
+      "reinventing", 
+      "elevating", 
+      "awaiting", 
+      "exciting", 
+      "having", 
+      "doing", 
+      "haunting", 
+      "receding", 
+      "thrumming", 
+      "shifting", 
+      "being", 
+      "dominating", 
+      "struggling", 
+      "using", 
+      "supplying", 
+      "ending", 
+      "meaning", 
+      "finishing", 
+      "following", 
+      "docking", 
+      "writing", 
+      "saying", 
+      "visiting", 
+      "\u201chitting", 
+      "getting", 
+      "organizing", 
+      "leaving", 
+      "lying", 
+      "developing"
+    ], 
+    "VBD": [
+      "was", 
+      "accounted", 
+      "devastated", 
+      "grew", 
+      "did", 
+      "used", 
+      "ceased", 
+      "were", 
+      "received", 
+      "started", 
+      "operated", 
+      "acquired", 
+      "carried", 
+      "stopped", 
+      "considered", 
+      "retired", 
+      "became", 
+      "noticed", 
+      "argued", 
+      "opined", 
+      "wrote", 
+      "commented", 
+      "adapted", 
+      "described", 
+      "had", 
+      "influenced", 
+      "played", 
+      "served", 
+      "left", 
+      "attended", 
+      "taught", 
+      "involved", 
+      "batted", 
+      "included", 
+      "docked", 
+      "performed", 
+      "launched", 
+      "completed", 
+      "transported", 
+      "afforded", 
+      "reoriented", 
+      "pointed", 
+      "placed", 
+      "remarked", 
+      "sounded", 
+      "said", 
+      "closed", 
+      "monitored", 
+      "filled", 
+      "tied", 
+      "pumped", 
+      "lowered", 
+      "returned", 
+      "called", 
+      "began"
+    ], 
+    "``": [
+      "``"
+    ], 
+    "VBN": [
+      "driven", 
+      "sustained", 
+      "transmitted", 
+      "democratized", 
+      "delivered", 
+      "limited", 
+      "overstretched", 
+      "recognized", 
+      "embraced", 
+      "been", 
+      "compared", 
+      "separated", 
+      "subdivided", 
+      "merged", 
+      "known", 
+      "located", 
+      "used", 
+      "branded", 
+      "ceased", 
+      "based", 
+      "scheduled", 
+      "established", 
+      "licensed", 
+      "rebranded", 
+      "received", 
+      "exploded", 
+      "supposed", 
+      "released", 
+      "produced", 
+      "lost", 
+      "realized", 
+      "refined", 
+      "tested", 
+      "praised", 
+      "blessed", 
+      "paired", 
+      "fixed", 
+      "written", 
+      "composed", 
+      "built", 
+      "given", 
+      "superseded", 
+      "made", 
+      "reconciled", 
+      "explained", 
+      "constructed", 
+      "related", 
+      "considered", 
+      "confused", 
+      "conserved", 
+      "spoken", 
+      "arisen", 
+      "inserted", 
+      "influenced", 
+      "feminine", 
+      "'", 
+      "coached", 
+      "drafted", 
+      "arrived", 
+      "completed", 
+      "quoted", 
+      "docked", 
+      "launched", 
+      "moved", 
+      "spent", 
+      "undocked", 
+      "developed", 
+      "owned", 
+      "drawn"
+    ], 
+    "POS": [
+      "'s", 
+      "'"
+    ], 
+    "''": [
+      "''", 
+      "'"
+    ], 
+    "VBP": [
+      "have", 
+      "are", 
+      "contribute", 
+      "carry", 
+      "choose", 
+      "approach", 
+      "masculine", 
+      "inherit", 
+      "arose", 
+      "don\u2019t", 
+      "enter", 
+      "separate"
+    ], 
+    "WDT": [
+      "that", 
+      "which", 
+      "whatever"
+    ], 
+    "JJ": [
+      "second-largest", 
+      "complex", 
+      "concentrated", 
+      "high-risk", 
+      "other", 
+      "generalized", 
+      "multiple", 
+      "sexual", 
+      "general", 
+      "young", 
+      "vulnerable", 
+      "many", 
+      "itinerant", 
+      "high", 
+      "clandestine", 
+      "heterosexual", 
+      "homosexual", 
+      "international", 
+      "irregular", 
+      "military", 
+      "weak", 
+      "pose", 
+      "logistical", 
+      "political", 
+      "due", 
+      "nigerian", 
+      "geopolitical", 
+      "federal", 
+      "local", 
+      "large", 
+      "private", 
+      "unregulated", 
+      "formal", 
+      "public", 
+      "human", 
+      "insufficient", 
+      "key", 
+      "technical", 
+      "complete", 
+      "concurrent", 
+      "visible", 
+      "high-burden", 
+      "yellow", 
+      "epidemic", 
+      "maternal", 
+      "neonatal", 
+      "pregnant", 
+      "traffic", 
+      "environmental", 
+      "major", 
+      "italian", 
+      "low", 
+      "old", 
+      "legal", 
+      "aerial", 
+      "main", 
+      "photographic", 
+      "s-76a", 
+      "helicopter", 
+      "2agusta-bell", 
+      "positive", 
+      "suffer", 
+      "unprofitable", 
+      "third", 
+      "american", 
+      "artist", 
+      "same", 
+      "ambient", 
+      "second", 
+      "various", 
+      "electronic", 
+      "organic", 
+      "familiar", 
+      "fresh", 
+      "next", 
+      "raw", 
+      "last", 
+      "refreshing", 
+      "bone-hard", 
+      "newfound", 
+      "previous", 
+      "[", 
+      "rare", 
+      "theirs", 
+      "such", 
+      "opera-trained", 
+      "akin", 
+      "neo-gothic", 
+      "sinister", 
+      "throatily", 
+      "majestic", 
+      "unmistakable", 
+      "powerful", 
+      "remarkable", 
+      "unique", 
+      "recognisable", 
+      "impassable", 
+      "emotional", 
+      "dramatic", 
+      "melodramatic", 
+      "self-imprisonment", 
+      "early", 
+      "cultural", 
+      "seminal", 
+      "derivative", 
+      "newtonian", 
+      "physical", 
+      "true", 
+      "obsolete", 
+      "subject", 
+      "scientific", 
+      "archaic", 
+      "modern", 
+      "numerous", 
+      "life-threatening", 
+      "spinozistic", 
+      "historical", 
+      "biological", 
+      "self-regulating", 
+      "self-maintaining", 
+      "social", 
+      "narrower", 
+      "religious", 
+      "bilingual", 
+      "talian", 
+      "venetian", 
+      "northern", 
+      "isolated", 
+      "southern", 
+      "characteristically", 
+      "urban", 
+      "german-russian", 
+      "macaronic", 
+      "mixed", 
+      "former", 
+      "russian", 
+      "linguistic", 
+      "syntactic", 
+      "german", 
+      "hard", 
+      "masculine", 
+      "uncommon", 
+      "corresponding", 
+      "interim", 
+      "franchise", 
+      "inaugural", 
+      "new", 
+      "first", 
+      "tight", 
+      "ancient", 
+      "manned", 
+      "soviet", 
+      "soyuz-t", 
+      "joint", 
+      "soviet-french", 
+      "cardiovascular", 
+      "onboard", 
+      "automatic", 
+      "aboard", 
+      "antibiotic", 
+      "french", 
+      "weekly", 
+      "small", 
+      "simple", 
+      "impressive", 
+      "reliable", 
+      "unmanned", 
+      "aft", 
+      "gravity-gradient", 
+      "\u201cvery", 
+      "\u201cit", 
+      "ready", 
+      "following", 
+      "intermediate", 
+      "little", 
+      "active", 
+      "metallic", 
+      "station\u2019s", 
+      "initial", 
+      "secondary", 
+      "close", 
+      "financial", 
+      "overall", 
+      "naval", 
+      "20th", 
+      "available"
+    ], 
+    "WP": [
+      "what"
+    ], 
+    "VBZ": [
+      "has", 
+      "is", 
+      "remains", 
+      "identifies", 
+      "operates", 
+      "comes", 
+      "runs", 
+      "leaves", 
+      "'s", 
+      "relies", 
+      "understands", 
+      "demonstrates", 
+      "[", 
+      "bursts", 
+      "gives", 
+      "shades", 
+      "maps", 
+      "tends", 
+      "fades", 
+      "appears", 
+      "makes", 
+      "does", 
+      "jingles"
+    ], 
+    "DT": [
+      "the", 
+      "some", 
+      "a", 
+      "no", 
+      "all", 
+      "this", 
+      "an", 
+      "that", 
+      "both", 
+      "any", 
+      "need", 
+      "another"
+    ], 
+    "RP": [
+      "across", 
+      "down"
+    ], 
+    "NN": [
+      "prevalence", 
+      "rate", 
+      "percent", 
+      "number", 
+      "epidemic", 
+      "region", 
+      "population", 
+      "risk", 
+      "spread", 
+      "prostitution", 
+      "trafficking", 
+      "blood", 
+      "screening", 
+      "period", 
+      "rule", 
+      "independence", 
+      "policy", 
+      "environment", 
+      "society", 
+      "era", 
+      "role", 
+      "advocacy", 
+      "lobbying", 
+      "size", 
+      "nation", 
+      "determination", 
+      "health", 
+      "care", 
+      "equity", 
+      "necessity", 
+      "state", 
+      "complexity", 
+      "planning", 
+      "sector", 
+      "connection", 
+      "system", 
+      "training", 
+      "resource", 
+      "development", 
+      "program", 
+      "implementation", 
+      "support", 
+      "staff", 
+      "provision", 
+      "responsibility", 
+      "government", 
+      "country", 
+      "healthcare", 
+      "delivery", 
+      "university", 
+      "teaching", 
+      "part", 
+      "data", 
+      "branch", 
+      "problem", 
+      "theme", 
+      "incidence", 
+      "fever", 
+      "town", 
+      "death", 
+      "span", 
+      "rise", 
+      "mortality", 
+      "vaccine", 
+      "existence", 
+      "percentage", 
+      "lifetime", 
+      "congestion", 
+      "pollution", 
+      "noise", 
+      "control", 
+      "journey", 
+      "village", 
+      "census", 
+      "county", 
+      "capital", 
+      "city", 
+      "airline", 
+      "parent", 
+      "company", 
+      "reason", 
+      "time", 
+      "cost", 
+      "subsidiary", 
+      "head", 
+      "office", 
+      "activity", 
+      "name", 
+      "mainline", 
+      "passenger", 
+      "air", 
+      "ambulance", 
+      "taxi/charter", 
+      "aircraft", 
+      "maintenance", 
+      "school", 
+      "work", 
+      "base", 
+      "film", 
+      "license", 
+      "transport", 
+      "website", 
+      "response", 
+      "year", 
+      "suicide", 
+      "plane", 
+      "moment", 
+      "investment", 
+      "dugaldo.it", 
+      "timetables.com", 
+      "studio", 
+      "album", 
+      "alienation", 
+      "isolation", 
+      "misery", 
+      "subtlety", 
+      "movie", 
+      "ethereal\u2014and", 
+      "result", 
+      "sound", 
+      "full-length", 
+      "production", 
+      "moody", 
+      "darkness", 
+      "style", 
+      "listener", 
+      "rough", 
+      "approach", 
+      "music", 
+      "essence", 
+      "aura", 
+      "mystery", 
+      "sense", 
+      "purpose", 
+      "s", 
+      "ome", 
+      "sort", 
+      "voice", 
+      "artist", 
+      "stage", 
+      "siren", 
+      "call", 
+      "land", 
+      "instrument", 
+      "rawness", 
+      "vulnerability", 
+      "h", 
+      "er", 
+      "]", 
+      "faraway", 
+      "horizon", 
+      "foreground", 
+      "remainder", 
+      "impression", 
+      "distance", 
+      "authority", 
+      "nothing", 
+      "power", 
+      "ambivalence", 
+      "register", 
+      "singing", 
+      "resolve", 
+      "psychology", 
+      "conatus", 
+      "definition", 
+      "principle", 
+      "concept", 
+      "culture", 
+      "domination", 
+      "advent", 
+      "inertia", 
+      "conservation", 
+      "momentum", 
+      "fact", 
+      "usage", 
+      "recendendi", 
+      "instance", 
+      "centrifugal", 
+      "force", 
+      "gravity", 
+      "centro", 
+      "today", 
+      "dealt", 
+      "science", 
+      "method", 
+      "biology", 
+      "chemistry", 
+      "neurology", 
+      "matter", 
+      "theurgy", 
+      "coherence", 
+      "living", 
+      "organism", 
+      "conception", 
+      "precursor", 
+      "autopoiesis", 
+      "theory", 
+      "phenomenon", 
+      "emergence", 
+      "simpler", 
+      "scope", 
+      "idea", 
+      "variety", 
+      "discography", 
+      "pop", 
+      "singer", 
+      "mixture", 
+      "context", 
+      "dialect", 
+      "lexicon", 
+      "grammar", 
+      "contribution", 
+      "macarr\u00f4nico", 
+      "code-switching", 
+      "speaker", 
+      "spite", 
+      "near-extinction", 
+      "paulistano", 
+      "pidgin", 
+      "language", 
+      "refer", 
+      "russophone", 
+      "substratum", 
+      "structure", 
+      "content", 
+      "%", 
+      "vocabulary", 
+      "situation", 
+      "case", 
+      "consonant", 
+      "gender", 
+      "noun", 
+      "feminine", 
+      "kakaja", 
+      "xoro\u0282aja", 
+      "die", 
+      "'surprise", 
+      "use", 
+      "auxiliary", 
+      "verbs", 
+      "im\u02b2et\u02b2", 
+      "b\u0268t\u02b2", 
+      "football", 
+      "cornerback", 
+      "manager", 
+      "season", 
+      "history", 
+      "team", 
+      "list", 
+      "pitcher", 
+      "end", 
+      "district", 
+      "male", 
+      "surname", 
+      "counterpart", 
+      "author", 
+      "spy", 
+      "record", 
+      "draft", 
+      "note", 
+      "elmira", 
+      "page", 
+      "www.baseball-almanac.com", 
+      "spaceflight", 
+      "orbit", 
+      "space", 
+      "station", 
+      "crew", 
+      "spacecraft", 
+      "launch", 
+      "day", 
+      "solo", 
+      "mission", 
+      "echography", 
+      "resident", 
+      "mass", 
+      "kg", 
+      "km", 
+      "inclination", 
+      "astronaut", 
+      "opportunity", 
+      "bag", 
+      "waste", 
+      "trash", 
+      "airlock", 
+      "diary", 
+      "resupply", 
+      "hand", 
+      "amateur", 
+      "radio", 
+      "satellite", 
+      "woman", 
+      "later", 
+      "stabilization", 
+      "attitude", 
+      "noisy", 
+      "\u201d", 
+      "barrel", 
+      "sledgehammer.\u201d", 
+      "unpacking", 
+      "we\u2019re", 
+      "hatch", 
+      "compartment", 
+      "fuel", 
+      "operation", 
+      "ship", 
+      "brass", 
+      "band.\u201d", 
+      "water", 
+      "aboard", 
+      "class", 
+      "south", 
+      "site", 
+      "business", 
+      "functionality", 
+      "identifier", 
+      "half", 
+      "century", 
+      "registry", 
+      "pleasure", 
+      "craft", 
+      "patrol", 
+      "service", 
+      "event", 
+      "conflict", 
+      "section"
+    ], 
+    ",": [
+      ","
+    ], 
+    ".": [
+      "."
+    ], 
+    "TO": [
+      "to"
+    ], 
+    "PRP": [
+      "it", 
+      "he", 
+      "she", 
+      "you", 
+      "him", 
+      "they", 
+      "we", 
+      "them", 
+      "i"
+    ], 
+    "RB": [
+      "widely", 
+      "primarily", 
+      "particularly", 
+      "sexually", 
+      "almost", 
+      "consequently", 
+      "not", 
+      "fully", 
+      "simultaneously", 
+      "largely", 
+      "importantly", 
+      "severely", 
+      "mostly", 
+      "so", 
+      "far", 
+      "n't", 
+      "then", 
+      "only", 
+      "offshore", 
+      "'completely", 
+      "often", 
+      "doubly", 
+      "eerie", 
+      "rather", 
+      "radically", 
+      "as", 
+      "well", 
+      "now", 
+      "enough", 
+      "otherworldly", 
+      "exactly", 
+      "unanimously", 
+      "unmistakably", 
+      "ever", 
+      "undeniably", 
+      "here", 
+      "still", 
+      "instantly", 
+      "biosphere", 
+      "there", 
+      "partly", 
+      "away", 
+      "along", 
+      "never", 
+      "directly", 
+      "logically", 
+      "merely", 
+      "however", 
+      "slowly", 
+      "previously", 
+      "thus", 
+      "spontaneously", 
+      "even", 
+      "definitely", 
+      "otherwise", 
+      "strongly", 
+      "significantly", 
+      "sometimes", 
+      "somewhat", 
+      "always", 
+      "usually", 
+      "also", 
+      "later", 
+      "manually", 
+      "once", 
+      "just", 
+      "successfully", 
+      "newly", 
+      "specifically", 
+      "privately"
+    ], 
+    ":": [
+      ":", 
+      "...", 
+      ";"
+    ], 
+    "NNS": [
+      "adults", 
+      "ages", 
+      "people", 
+      "varies", 
+      "states", 
+      "behaviors", 
+      "epidemics", 
+      "partnerships", 
+      "women", 
+      "men", 
+      "factors", 
+      "practices", 
+      "workers", 
+      "infections", 
+      "years", 
+      "challenges", 
+      "zones", 
+      "programs", 
+      "levels", 
+      "introduces", 
+      "interventions", 
+      "sectors", 
+      "areas", 
+      "services", 
+      "tiers", 
+      "providers", 
+      "affairs", 
+      "hospitals", 
+      "malaria", 
+      "births", 
+      "issues", 
+      "families", 
+      "districts", 
+      "flights", 
+      "slots", 
+      "operations", 
+      "helicopters", 
+      "passengers", 
+      "accidents", 
+      "themes", 
+      "shades", 
+      "trimmings", 
+      "abilities", 
+      "artists", 
+      "reviewers", 
+      "similarities", 
+      "releases", 
+      "vocals", 
+      "critics", 
+      "singers", 
+      "synths", 
+      "controlled", 
+      "stays", 
+      "lingers", 
+      "results", 
+      "dimensions", 
+      "songs", 
+      "credits", 
+      "philosophies", 
+      "metaphysics", 
+      "ethics", 
+      "cultures", 
+      "physics", 
+      "bodies", 
+      "philosophers", 
+      "concepts", 
+      "topics", 
+      "matters", 
+      "scientists", 
+      "terms", 
+      "structures", 
+      "functions", 
+      "odds", 
+      "theories", 
+      "systems", 
+      "sciences", 
+      "properties", 
+      "versions", 
+      "implications", 
+      "refers", 
+      "languages", 
+      "puns", 
+      "situations", 
+      "communities", 
+      "speakers", 
+      "immigrants", 
+      "acts", 
+      "words", 
+      "genders", 
+      "nouns", 
+      "'to", 
+      "players", 
+      "studies", 
+      "civilizations", 
+      "males", 
+      "females", 
+      "countries", 
+      "wins", 
+      "losses", 
+      "athletics", 
+      "cosmonauts", 
+      "experiments", 
+      "minutes", 
+      "problems", 
+      "visits", 
+      "missions", 
+      "jets", 
+      "looks", 
+      "supplies", 
+      "ropes", 
+      "liters", 
+      "km", 
+      "weeks", 
+      "ships", 
+      "vessels", 
+      "yachts"
+    ], 
+    "NNP": [
+      "nigeria", 
+      "hiv", 
+      "youth", 
+      "civil", 
+      "government", 
+      "federal", 
+      "medical", 
+      "centres", 
+      "president", 
+      "malaria", 
+      "initiative", 
+      "national", 
+      "control", 
+      "program", 
+      "world", 
+      "day", 
+      "end", 
+      "good", 
+      "lagos", 
+      "osotimehin", 
+      "hiv/aids", 
+      "wharc", 
+      "sofla", 
+      "abdoliyeh-ye", 
+      "sharqi", 
+      "rural", 
+      "district", 
+      "central", 
+      "ramshir", 
+      "county", 
+      "khuzestan", 
+      "province", 
+      "iran", 
+      "ramhormoz", 
+      "moshrageh", 
+      "second", 
+      "s.p.a.", 
+      "alitalia", 
+      "linate", 
+      "airport", 
+      "air", 
+      "c.a.i", 
+      "volare", 
+      "volareweb.com", 
+      "alitalia-lai", 
+      "area", 
+      "tecnica", 
+      "sud", 
+      "terminal", 
+      "milan-malpensa", 
+      "international", 
+      "ferno", 
+      "varese", 
+      "italy", 
+      "january", 
+      "february", 
+      "s.r.l", 
+      "foggia", 
+      "gino", 
+      "lisa", 
+      "alidaunia", 
+      "march", 
+      "tremiti", 
+      "islands", 
+      "milan", 
+      "agusta", 
+      "a109", 
+      "sikorsky", 
+      "eurocopter", 
+      "bk", 
+      "c1", 
+      "agustawestland", 
+      "aw139", 
+      "robinson", 
+      "r22", 
+      "official", 
+      "italiana", 
+      "esercizio", 
+      "elicotteri", 
+      "november", 
+      "eli-linee", 
+      "italiane", 
+      "s.p.a", 
+      "iri", 
+      "a.b.204", 
+      "ab.102", 
+      "elivie.the", 
+      "elivie", 
+      "s-61", 
+      "aero", 
+      "trasporti", 
+      "italiani", 
+      "october", 
+      "agusta-bell", 
+      "ab.204", 
+      "zola", 
+      "jesus", 
+      "united", 
+      "kingdom", 
+      "september", 
+      "sacred", 
+      "bones", 
+      "records", 
+      "brian", 
+      "nudge", 
+      "foote", 
+      "stridulum", 
+      "ii", 
+      "hammer", 
+      "horror", 
+      "conatus", 
+      "consequence", 
+      "sound", 
+      "frank", 
+      "mojica", 
+      "danilova", 
+      "eps", 
+      "pitchfork", 
+      "tori", 
+      "amos", 
+      "new", 
+      "order", 
+      "patti", 
+      "smith", 
+      "stevie", 
+      "nicks", 
+      "throbbing", 
+      "gristle", 
+      "elizabeth", 
+      "fraser", 
+      "dead", 
+      "can", 
+      "dance", 
+      "siouxsie", 
+      "sioux", 
+      "popmatters", 
+      "matt", 
+      "james", 
+      "edgar", 
+      "allan", 
+      "poe", 
+      "munch", 
+      "bresson", 
+      "francesca", 
+      "woodman", 
+      "gorecki", 
+      "]", 
+      "nika", 
+      "roza", 
+      "heather", 
+      "phares", 
+      "sam", 
+      "shepherd", 
+      "howe", 
+      "'avalanche", 
+      "allmusic", 
+      "spinoza", 
+      "iiip3", 
+      "bidney", 
+      "likewise", 
+      "antonio", 
+      "damasio", 
+      "macarr\u00f4nico", 
+      "brazil", 
+      "esp\u00edrito", 
+      "santo", 
+      "portuguese", 
+      "s\u00e3o", 
+      "paulo", 
+      "german", 
+      "russian", 
+      "deutschrussisch", 
+      "nemrus", 
+      "quelia", 
+      "germany", 
+      "soviet", 
+      "union", 
+      "'-ung", 
+      "\u043a\u0430\u043a\u0430\u044f", 
+      "\u0445\u043e\u0440\u043e\u0448\u0430\u044f", 
+      "[", 
+      "\u00fcberraschung", 
+      "\u0438\u043c\u0435\u0442\u044c", 
+      "\u0431\u044b\u0442\u044c", 
+      "darnell", 
+      "white", 
+      "american", 
+      "football", 
+      "league", 
+      "york", 
+      "giants", 
+      "detroit", 
+      "lions", 
+      "cincinnati", 
+      "bengals", 
+      "ford", 
+      "field", 
+      "downtown", 
+      "tiger", 
+      "stadium", 
+      "pro-football-reference.com", 
+      "miami", 
+      "redhawks", 
+      "nfl", 
+      "draft", 
+      "carl", 
+      "bert", 
+      "kuczynski", 
+      "philadelphia", 
+      "athletics", 
+      "mlb", 
+      "eagles", 
+      "university", 
+      "pennsylvania", 
+      "catasauqua", 
+      "high", 
+      "school", 
+      "find", 
+      "grave", 
+      "kuchinsky", 
+      "kuchinski", 
+      "kuchinskiy", 
+      "slavic", 
+      "kuczy\u0144ska", 
+      "polish", 
+      "kuchinskaya", 
+      "kuchinskaia", 
+      "alex", 
+      "a", 
+      "johnny", 
+      "welaj", 
+      "tigers", 
+      "april", 
+      "dave", 
+      "odom", 
+      "pos", 
+      "runs", 
+      "g", 
+      "strikeouts", 
+      "note", 
+      "champions", 
+      "baseball", 
+      "reference", 
+      "t-6", 
+      "earth", 
+      "salyut", 
+      "frenchman", 
+      "jean-loup", 
+      "chr\u00e9tien", 
+      "june", 
+      "perigee", 
+      "apogee", 
+      "soyuz", 
+      "baikonur", 
+      "cosmodrome", 
+      "gmt", 
+      "t-5", 
+      "valentin", 
+      "lebedev", 
+      "soyuz-t", 
+      "progress", 
+      "t-7", 
+      "frenchmen", 
+      "s7", 
+      "may", 
+      "elbrus", 
+      "tsup", 
+      "\u201cwe", 
+      "august", 
+      "popov", 
+      "serebrov", 
+      "savitskaya", 
+      "dneiper", 
+      "december", 
+      "sergeyevich", 
+      "ivanchenkov", 
+      "cross", 
+      "grunwald", 
+      "business", 
+      "zone", 
+      "qiantan", 
+      "pudong", 
+      "shanghai", 
+      "china", 
+      "expo", 
+      "oriental", 
+      "sports", 
+      "center", 
+      "lujiazui", 
+      "arizonan", 
+      "navy", 
+      "uss", 
+      "arizona", 
+      "registry", 
+      "identification", 
+      "number", 
+      "u.s.", 
+      "war"
+    ], 
+    "VB": [
+      "achieve", 
+      "coordinate", 
+      "hamper", 
+      "provide", 
+      "play", 
+      "preserve", 
+      "close", 
+      "be", 
+      "operate", 
+      "miss", 
+      "hear", 
+      "gauzy", 
+      "create", 
+      "project", 
+      "persevere", 
+      "desire", 
+      "describe", 
+      "inquiry", 
+      "maintain", 
+      "form", 
+      "text", 
+      "have", 
+      "spanglish", 
+      "gender", 
+      "refer", 
+      "eject", 
+      "look", 
+      "overlap", 
+      "move", 
+      "pump", 
+      "sound", 
+      "receive", 
+      "return", 
+      "focus"
+    ], 
+    "WRB": [
+      "where", 
+      "when", 
+      "whereby", 
+      "why"
+    ], 
+    "CC": [
+      "and", 
+      "but", 
+      "or"
+    ], 
+    "RBS": [
+      "most"
+    ], 
+    "RBR": [
+      "more"
+    ], 
+    "CD": [
+      "2014", 
+      "15-49", 
+      "3.17", 
+      "28", 
+      "47", 
+      "1960", 
+      "three", 
+      "2012", 
+      "11", 
+      "1985", 
+      "1000", 
+      "5", 
+      "1930s", 
+      "2010", 
+      "100,000", 
+      "840", 
+      "608.3", 
+      "2008", 
+      "473.4", 
+      "1990", 
+      "1,000", 
+      "143", 
+      "1", 
+      "23", 
+      "2006", 
+      "57", 
+      "2005", 
+      "49,238", 
+      "9,296", 
+      "two", 
+      "one", 
+      "12", 
+      "2009", 
+      "2015", 
+      "1976", 
+      "1978", 
+      "1984", 
+      "1992", 
+      "1993", 
+      "4", 
+      "117", 
+      "2", 
+      "1956", 
+      "1959", 
+      "1967", 
+      "1969", 
+      "34,821", 
+      "1970", 
+      "26", 
+      "2011", 
+      "1950s", 
+      "1990s", 
+      "50", 
+      "'to", 
+      "1988\u20131993", 
+      "2002", 
+      "73rd", 
+      "1974", 
+      "27", 
+      "1943", 
+      "8th", 
+      "49", 
+      "105", 
+      "1942", 
+      "14", 
+      "7", 
+      "1982", 
+      "24", 
+      "6850", 
+      "189", 
+      "233", 
+      "51.7\u00b0", 
+      "88.7", 
+      "16:29", 
+      "13", 
+      "20", 
+      "25", 
+      "29", 
+      "300", 
+      "31", 
+      "six", 
+      "3rd", 
+      "1916"
+    ], 
+    "EX": [
+      "there"
+    ], 
+    "IN": [
+      "of", 
+      "in", 
+      "among", 
+      "with", 
+      "by", 
+      "while", 
+      "at", 
+      "than", 
+      "from", 
+      "for", 
+      "since", 
+      "during", 
+      "across", 
+      "into", 
+      "because", 
+      "as", 
+      "per", 
+      "under", 
+      "on", 
+      "after", 
+      "except", 
+      "before", 
+      "that", 
+      "through", 
+      "although", 
+      "so", 
+      "though", 
+      "if", 
+      "toward", 
+      "upon", 
+      "behind", 
+      "whether", 
+      "against", 
+      "without", 
+      "until", 
+      "along", 
+      "alongside", 
+      "aboard", 
+      "like", 
+      "apartment.\u201d"
+    ], 
+    "MD": [
+      "will", 
+      "may", 
+      "can", 
+      "could", 
+      "would"
+    ], 
+    "NNPS": [
+      "one", 
+      "states", 
+      "athletics"
+    ], 
+    "JJS": [
+      "most"
+    ], 
+    "JJR": [
+      "more", 
+      "higher", 
+      "broader", 
+      "earlier", 
+      "greater"
+    ]
+  }, 
+  "words": {
+    "limited": {
+      "TO": {
+        "to": 1
+      }, 
+      "IN": {
+        "because": 1, 
+        "in": 1
+      }
+    }, 
+    "all": {
+      "NNS": {
+        "levels": 1, 
+        "sectors": 1, 
+        "songs": 1
+      }, 
+      "JJ": {
+        "physical": 1
+      }, 
+      "IN": {
+        "of": 2
+      }
+    }, 
+    "concept": {
+      "MD": {
+        "may": 1
+      }, 
+      "NNS": {
+        "states": 1
+      }, 
+      "IN": {
+        "of": 3
+      }
+    }, 
+    "cincinnati": {
+      "NNP": {
+        "bengals": 1
+      }
+    }, 
+    "remarkable": {
+      "NN": {
+        "rawness": 1
+      }
+    }, 
+    "ambulance": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "dance": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "reviewers": {
+      "VBN": {
+        "compared": 1
+      }
+    }, 
+    "jingles": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "unregulated": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "yellow": {
+      "NN": {
+        "fever": 2
+      }
+    }, 
+    "existing": {
+      "NN": {
+        "staff": 1
+      }
+    }, 
+    "themes": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "ceased": {
+      "NNS": {
+        "operations": 1
+      }, 
+      "NN": {
+        "activity": 1
+      }
+    }, 
+    "manager": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "chr\u00e9tien": {
+      "IN": {
+        "as": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "legal": {
+      "CD": {
+        "one": 1
+      }
+    }, 
+    "broader": {
+      "NN": {
+        "sense": 1
+      }
+    }, 
+    "studies": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "francesca": {
+      "NNP": {
+        "woodman": 1
+      }
+    }, 
+    "religious": {
+      "NNS": {
+        "implications": 1
+      }
+    }, 
+    "issues": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "esp\u00edrito": {
+      "NNP": {
+        "santo": 1
+      }
+    }, 
+    "stabilization": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "kuchinskaya": {
+      "CC": {
+        "or": 1
+      }
+    }, 
+    "suicide": {
+      "NN": {
+        "plane": 1
+      }
+    }, 
+    "baseball": {
+      "NNP": {
+        "reference": 1
+      }
+    }, 
+    "zone": {
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "visiting": {
+      "NNP": {
+        "frenchmen": 1
+      }
+    }, 
+    "1942": {
+      ":": {
+        ":": 1
+      }, 
+      "NN": {
+        "rule": 1
+      }
+    }, 
+    "1943": {
+      ":": {
+        ":": 1
+      }, 
+      "NNP": {
+        "philadelphia": 3
+      }
+    }, 
+    "white": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "functions": {
+      "IN": {
+        "against": 1
+      }
+    }, 
+    "young": {
+      "NNS": {
+        "men": 1, 
+        "adults": 1, 
+        "women": 1
+      }
+    }, 
+    "champions": {
+      ":": {
+        ":": 1
+      }
+    }, 
+    "environment": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "to": {
+      "VB": {
+        "preserve": 1, 
+        "be": 2, 
+        "play": 1, 
+        "describe": 1, 
+        "eject": 1, 
+        "move": 1, 
+        "provide": 1, 
+        "text": 1, 
+        "create": 1, 
+        "persevere": 1, 
+        "project": 1, 
+        "receive": 1, 
+        "maintain": 1, 
+        "hear": 1, 
+        "spanglish": 1, 
+        "have": 1, 
+        "coordinate": 1, 
+        "inquiry": 1, 
+        "operate": 1, 
+        "achieve": 1
+      }, 
+      "VBG": {
+        "coordinating": 1
+      }, 
+      "NN": {
+        "speaker": 1
+      }, 
+      "CD": {
+        "300": 1
+      }, 
+      "VBP": {
+        "are": 1
+      }, 
+      "PRP": {
+        "it": 1
+      }, 
+      "JJ": {
+        "modern": 1
+      }, 
+      "DT": {
+        "a": 2, 
+        "the": 13, 
+        "an": 1
+      }, 
+      ":": {
+        ":": 1
+      }, 
+      "NNP": {
+        "lebedev": 1, 
+        "hiv": 1, 
+        "s7": 1, 
+        "aero": 1, 
+        "salyut": 2, 
+        "pitchfork": 1, 
+        "milan": 1, 
+        "lujiazui": 1, 
+        "consequence": 1, 
+        "earth": 3
+      }
+    }, 
+    "program": {
+      ",": {
+        ",": 1
+      }, 
+      "NN": {
+        "implementation": 1
+      }
+    }, 
+    "hiv/aids": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "masculine": {
+      ".": {
+        ".": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "under": {
+      "DT": {
+        "the": 1
+      }, 
+      "PRP$": {
+        "her": 1
+      }, 
+      "CD": {
+        "5": 2
+      }
+    }, 
+    "teaching": {
+      "NNS": {
+        "hospitals": 1
+      }
+    }, 
+    "noisy": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "shepherd": {
+      "VBD": {
+        "wrote": 1
+      }
+    }, 
+    "alongside": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "placed": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "persevere": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "case": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "woman": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "saying": {
+      "NNP": {
+        "salyut": 1
+      }
+    }, 
+    "risk": {
+      "NNS": {
+        "factors": 1
+      }, 
+      "IN": {
+        "of": 1, 
+        "than": 1
+      }
+    }, 
+    "far": {
+      "RBR": {
+        "more": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "horror": {
+      "NN": {
+        "movie": 1
+      }
+    }, 
+    "rise": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "results": {
+      "VBP": {
+        "are": 1
+      }
+    }, 
+    "stadium": {
+      "IN": {
+        "after": 1
+      }
+    }, 
+    "catasauqua": {
+      "NNP": {
+        "high": 1
+      }
+    }, 
+    "diary": {
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "stays": {
+      "RB": {
+        "there": 1
+      }
+    }, 
+    "alitalia-lai": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "enter": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "macaronic": {
+      "NNS": {
+        "refers": 1
+      }, 
+      "NN": {
+        "language": 1
+      }
+    }, 
+    "look": {
+      "JJ": {
+        "impressive": 1
+      }
+    }, 
+    "severely": {
+      "VBN": {
+        "limited": 1
+      }
+    }, 
+    "and": {
+      "MD": {
+        "will": 1
+      }, 
+      "PRP$": {
+        "their": 1, 
+        "its": 1
+      }, 
+      "VBG": {
+        "haunting": 1, 
+        "exciting": 1
+      }, 
+      "RB": {
+        "not": 2, 
+        "then": 1, 
+        "even": 1, 
+        "partly": 1
+      }, 
+      "NN": {
+        "spy": 1, 
+        "noise": 1, 
+        "grammar": 1, 
+        "ethereal\u2014and": 1, 
+        "lobbying": 1, 
+        "isolation": 1, 
+        "support": 1, 
+        "vulnerability": 1, 
+        "gravity": 1, 
+        "delivery": 1, 
+        "theurgy": 1, 
+        "conservation": 1, 
+        "neurology": 1, 
+        "contribution": 1
+      }, 
+      "VBD": {
+        "was": 1, 
+        "tied": 1
+      }, 
+      "JJS": {
+        "most": 1
+      }, 
+      "VBN": {
+        "driven": 1, 
+        "composed": 1, 
+        "coached": 1, 
+        "spoken": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "VBP": {
+        "are": 1
+      }, 
+      "PRP": {
+        "it": 1
+      }, 
+      "JJ": {
+        "antibiotic": 1, 
+        "homosexual": 2, 
+        "aerial": 1, 
+        "naval": 1, 
+        "irregular": 2, 
+        "photographic": 1, 
+        "political": 1, 
+        "young": 1, 
+        "raw": 1, 
+        "ancient": 1, 
+        "human": 1, 
+        "organic": 1, 
+        "self-maintaining": 1, 
+        "local": 1, 
+        "2agusta-bell": 1
+      }, 
+      "IN": {
+        "that": 1, 
+        "in": 2
+      }, 
+      "VBZ": {
+        "leaves": 1, 
+        "has": 1
+      }, 
+      "DT": {
+        "the": 6, 
+        "an": 1
+      }, 
+      "CD": {
+        "473.4": 1, 
+        "1993": 1, 
+        "one": 1, 
+        "105": 1
+      }, 
+      "NNS": {
+        "functions": 1, 
+        "females": 1, 
+        "yachts": 1, 
+        "varies": 1, 
+        "stays": 1, 
+        "metaphysics": 1
+      }, 
+      "JJR": {
+        "more": 1
+      }, 
+      "NNP": {
+        "elivie": 1, 
+        "nika": 1, 
+        "t-7": 1, 
+        "esp\u00edrito": 1, 
+        "alitalia": 1, 
+        "soyuz": 2, 
+        "savitskaya": 1, 
+        "\u0431\u044b\u0442\u044c": 1, 
+        "russian": 1, 
+        "moshrageh": 1, 
+        "siouxsie": 1, 
+        "gorecki": 1
+      }
+    }, 
+    "synths": {
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "impressive": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "apartment.\u201d": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "did": {
+      "RB": {
+        "n't": 1
+      }
+    }, 
+    "gender": {
+      "MD": {
+        "may": 1
+      }, 
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "developing": {
+      "JJ": {
+        "close": 1
+      }
+    }, 
+    "list": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "spacecraft": {
+      "MD": {
+        "could": 1
+      }, 
+      "VBD": {
+        "was": 1, 
+        "returned": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "VBN": {
+        "arrived": 1, 
+        "launched": 1
+      }, 
+      "IN": {
+        "in": 2
+      }
+    }, 
+    "20th": {
+      "NN": {
+        "century": 1
+      }
+    }, 
+    "large": {
+      "JJ": {
+        "private": 1
+      }
+    }, 
+    "form": {
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "danilova": {
+      "VBZ": {
+        "maps": 1, 
+        "is": 1, 
+        "has": 1
+      }, 
+      "POS": {
+        "'s": 4
+      }, 
+      "RB": {
+        "now": 1
+      }
+    }, 
+    "dealt": {
+      "VBP": {
+        "are": 1
+      }
+    }, 
+    "small": {
+      "NN": {
+        "trash": 1
+      }
+    }, 
+    "lisa": {
+      "NNP": {
+        "airport": 1
+      }
+    }, 
+    "throbbing": {
+      "NNP": {
+        "gristle": 1
+      }
+    }, 
+    "inclination": {
+      ":": {
+        ":": 1
+      }
+    }, 
+    "commented": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "kuczy\u0144ska": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "overstretched": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "\u201cit": {
+      "NNS": {
+        "looks": 1
+      }
+    }, 
+    "soyuz": {
+      "NNP": {
+        "t-5": 5, 
+        "t-6": 4, 
+        "t-7": 3
+      }
+    }, 
+    "force": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "strikeouts": {
+      "NNP": {
+        "note": 2, 
+        "league": 1
+      }
+    }, 
+    "dealing": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "obsolete": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "3.17": {
+      "NN": {
+        "percent": 1
+      }
+    }, 
+    "rate": {
+      "VBD": {
+        "was": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "among": 1, 
+        "per": 1
+      }
+    }, 
+    "cost": {
+      "NN": {
+        "subsidiary": 1
+      }
+    }, 
+    "49": {
+      "NNS": {
+        "wins": 1
+      }
+    }, 
+    "earth": {
+      "IN": {
+        "in": 1
+      }, 
+      "RB": {
+        "successfully": 1
+      }, 
+      "NN": {
+        "orbit": 2
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "writing": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "pitchfork": {
+      "VBD": {
+        "commented": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "hamper": {
+      "NN": {
+        "program": 1
+      }
+    }, 
+    "returned": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "register": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "even": {
+      "JJ": {
+        "social": 1
+      }
+    }, 
+    "will": {
+      "VB": {
+        "sound": 1, 
+        "be": 1, 
+        "hamper": 1, 
+        "focus": 1
+      }
+    }, 
+    "what": {
+      "PRP": {
+        "we": 1, 
+        "she": 1
+      }
+    }, 
+    "sud": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "developed": {
+      "RB": {
+        "specifically": 1
+      }
+    }, 
+    "darkness": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "popmatters": {
+      "POS": {
+        "'": 1
+      }
+    }, 
+    "section": {
+      "NN": {
+        "patrol": 1
+      }
+    }, 
+    "qiantan": {
+      ",": {
+        ",": 1
+      }, 
+      "NNP": {
+        "international": 1
+      }
+    }, 
+    "business": {
+      "NN": {
+        "district": 1
+      }, 
+      "NNP": {
+        "zone": 2
+      }
+    }, 
+    "capital": {
+      "IN": {
+        "of": 2
+      }
+    }, 
+    "international": {
+      "NN": {
+        "trafficking": 2
+      }, 
+      "NNP": {
+        "airport": 1, 
+        "business": 2
+      }
+    }, 
+    "a.b.204": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "football": {
+      "NNS": {
+        "players": 1
+      }, 
+      "JJ": {
+        "tight": 1
+      }, 
+      "NN": {
+        "cornerback": 1
+      }, 
+      "NNP": {
+        "league": 2
+      }
+    }, 
+    "ever": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "public": {
+      ",": {
+        ",": 1
+      }, 
+      "NN": {
+        "health": 1, 
+        "transport": 1
+      }
+    }, 
+    "apogee": {
+      ":": {
+        ":": 1
+      }
+    }, 
+    "democratized": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "subdivided": {
+      "IN": {
+        "into": 1
+      }
+    }, 
+    "iran": {
+      ".": {
+        ".": 2
+      }
+    }, 
+    "malaria": {
+      "IN": {
+        "for": 1
+      }, 
+      "NN": {
+        "prevalence": 1
+      }, 
+      "NNP": {
+        "control": 1, 
+        "initiative": 1, 
+        "day": 1
+      }
+    }, 
+    "arizona": {
+      "VBZ": {
+        "has": 1
+      }
+    }, 
+    "dneiper": {
+      "NN": {
+        "crew": 1
+      }
+    }, 
+    "men": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "salyut": {
+      "CD": {
+        "7": 12
+      }
+    }, 
+    "pidgin": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "here": {
+      "IN": {
+        "than": 1
+      }
+    }, 
+    "water": {
+      "NN": {
+        "aboard": 1
+      }
+    }, 
+    "73rd": {
+      "NN": {
+        "season": 1
+      }
+    }, 
+    "gravity-gradient": {
+      "NN": {
+        "stabilization": 1
+      }
+    }, 
+    "operating": {
+      "NNS": {
+        "flights": 1
+      }, 
+      "CD": {
+        "1": 1
+      }
+    }, 
+    "separate": {
+      "PRP": {
+        "it": 1
+      }
+    }, 
+    "congestion": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "active": {
+      "NN": {
+        "role": 1
+      }
+    }, 
+    "november": {
+      "CD": {
+        "2": 1
+      }, 
+      "IN": {
+        "under": 1
+      }
+    }, 
+    "principle": {
+      ":": {
+        ";": 1
+      }, 
+      "IN": {
+        "of": 2, 
+        "behind": 1
+      }
+    }, 
+    "appears": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "supplying": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "105": {
+      "NNS": {
+        "losses": 1
+      }
+    }, 
+    "passengers": {
+      "NN": {
+        "year": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "china": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "spite": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "14": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "credits": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "technical": {
+      "NNS": {
+        "areas": 1
+      }
+    }, 
+    "involved": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "leaves": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "vulnerability": {
+      "''": {
+        "''": 1
+      }
+    }, 
+    "shades": {
+      "IN": {
+        "of": 1, 
+        "into": 1
+      }
+    }, 
+    "half": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "through": {
+      "DT": {
+        "the": 1
+      }, 
+      "JJ": {
+        "various": 1
+      }
+    }, 
+    "later": {
+      "NNS": {
+        "missions": 1
+      }, 
+      "PRP": {
+        "he": 1
+      }
+    }, 
+    "airport": {
+      "IN": {
+        "as": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "resulting": {
+      "NN": {
+        "rise": 1
+      }
+    }, 
+    "im\u02b2et\u02b2": {
+      "NNP": {
+        "]": 1
+      }
+    }, 
+    "misery": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "usually": {
+      "VBP": {
+        "masculine": 1
+      }
+    }, 
+    "military": {
+      "NN": {
+        "era": 1, 
+        "rule": 1
+      }
+    }, 
+    "history": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "makes": {
+      "JJR": {
+        "greater": 1
+      }
+    }, 
+    "york": {
+      "NNP": {
+        "giants": 1
+      }
+    }, 
+    "composed": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "babatunde": {
+      "NNP": {
+        "osotimehin": 1
+      }
+    }, 
+    "shanghai": {
+      "POS": {
+        "'s": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "NNP": {
+        "oriental": 1
+      }
+    }, 
+    "retired": {
+      "PRP$": {
+        "their": 1
+      }
+    }, 
+    "italiane": {
+      "NNP": {
+        "s.p.a": 1
+      }
+    }, 
+    "grunwald": {
+      "CD": {
+        "3rd": 1
+      }
+    }, 
+    "spy": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "italiani": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "merely": {
+      "DT": {
+        "a": 1
+      }
+    }, 
+    "spinoza": {
+      "POS": {
+        "'s": 3
+      }
+    }, 
+    "private": {
+      "NNS": {
+        "providers": 1
+      }, 
+      "NN": {
+        "sector": 1
+      }
+    }, 
+    "gristle": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "county": {
+      "VBZ": {
+        "is": 3, 
+        "has": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "IN": {
+        "in": 2
+      }
+    }, 
+    "visible": {
+      "NN": {
+        "role": 1
+      }
+    }, 
+    "lagos": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "logically": {
+      "VB": {
+        "desire": 1
+      }
+    }, 
+    "privately": {
+      "VBN": {
+        "owned": 2
+      }
+    }, 
+    "phares": {
+      "VBD": {
+        "opined": 1
+      }
+    }, 
+    "singing": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "languages": {
+      "VBP": {
+        "are": 1
+      }, 
+      ",": {
+        ",": 2
+      }
+    }, 
+    "use": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "refers": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "from": {
+      "DT": {
+        "a": 1, 
+        "the": 7
+      }, 
+      "CD": {
+        "1988\u20131993": 1
+      }, 
+      "NN": {
+        "speaker": 1
+      }, 
+      "JJ": {
+        "german": 1, 
+        "multiple": 1
+      }, 
+      "NNP": {
+        "allmusic": 1, 
+        "foggia": 1, 
+        "linate": 1, 
+        "danilova": 1, 
+        "progress": 1, 
+        "ramhormoz": 1
+      }
+    }, 
+    "life-threatening": {
+      "NNS": {
+        "odds": 1
+      }
+    }, 
+    "would": {
+      "VB": {
+        "return": 1
+      }
+    }, 
+    "remains": {
+      "VBN": {
+        "fixed": 1
+      }, 
+      "JJ": {
+        "fresh": 1, 
+        "weak": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "positive": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "lying": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "played": {
+      "JJ": {
+        "little": 1
+      }, 
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "two": {
+      "NNS": {
+        "districts": 1, 
+        "people": 1
+      }, 
+      "JJ": {
+        "soviet": 1
+      }, 
+      "NNP": {
+        "eps": 1
+      }
+    }, 
+    "next": {
+      "TO": {
+        "to": 1
+      }, 
+      "RB": {
+        "otherworldly": 1
+      }
+    }, 
+    "resident": {
+      "NN": {
+        "crew": 3
+      }
+    }, 
+    "1930s": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "milan-malpensa": {
+      "NNP": {
+        "international": 1
+      }
+    }, 
+    "band.\u201d": {
+      "NNP": {
+        "progress": 1
+      }
+    }, 
+    "scope": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "branded": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "until": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "today": {
+      "VBG": {
+        "being": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "IN": {
+        "without": 1
+      }
+    }, 
+    "more": {
+      "NNS": {
+        "controlled": 1
+      }, 
+      "RB": {
+        "strongly": 1, 
+        "fully": 1, 
+        "importantly": 1
+      }, 
+      "JJ": {
+        "concentrated": 1, 
+        "isolated": 1, 
+        "characteristically": 1, 
+        "generalized": 1, 
+        "ambient": 1
+      }, 
+      "IN": {
+        "on": 1, 
+        "than": 1
+      }
+    }, 
+    "separated": {
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "``": {
+      "RB": {
+        "rather": 1, 
+        "as": 1
+      }, 
+      "NN": {
+        "section": 1
+      }, 
+      "VBN": {
+        "constructed": 1
+      }, 
+      "WDT": {
+        "whatever": 1
+      }, 
+      "PRP": {
+        "it": 1
+      }, 
+      "JJ": {
+        "[": 2, 
+        "second": 1, 
+        "remarkable": 1
+      }, 
+      "IN": {
+        "while": 1, 
+        "though": 1
+      }, 
+      "VBZ": {
+        "is": 1, 
+        "tends": 1
+      }, 
+      "NNP": {
+        "bert": 1, 
+        "nudge": 1, 
+        "dneiper": 1, 
+        "elbrus": 1, 
+        "danilova": 1, 
+        "end": 1
+      }
+    }, 
+    "we\u2019re": {
+      "VBG": {
+        "getting": 1
+      }
+    }, 
+    "females": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "sergeyevich": {
+      "NNP": {
+        "ivanchenkov": 1
+      }
+    }, 
+    "started": {
+      "VBN": {
+        "scheduled": 1
+      }
+    }, 
+    "self-maintaining": {
+      "NNS": {
+        "properties": 1
+      }
+    }, 
+    "company": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "'surprise": {
+      "''": {
+        "'": 1
+      }
+    }, 
+    "alitalia": {
+      "VBG": {
+        "operating": 1
+      }, 
+      "NN": {
+        "mainline": 1
+      }, 
+      "VBD": {
+        "stopped": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 1
+      }, 
+      "WRB": {
+        "when": 1
+      }, 
+      "NNS": {
+        "flights": 1
+      }
+    }, 
+    "confused": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "downtown": {
+      "NNP": {
+        "detroit": 1
+      }
+    }, 
+    "tested": {
+      "PRP$": {
+        "her": 1
+      }
+    }, 
+    "agusta-bell": {
+      "NNP": {
+        "ab.102": 1, 
+        "ab.204": 1
+      }
+    }, 
+    "intermediate": {
+      "NN": {
+        "compartment": 1
+      }
+    }, 
+    "baikonur": {
+      "NNP": {
+        "cosmodrome": 1
+      }
+    }, 
+    "expo": {
+      "CD": {
+        "2010": 1
+      }
+    }, 
+    "known": {
+      "IN": {
+        "as": 3
+      }
+    }, 
+    "rare": {
+      "NN": {
+        "sort": 1
+      }
+    }, 
+    "lowered": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "women": {
+      "CD": {
+        "1": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "IN": {
+        "at": 1
+      }
+    }, 
+    "town": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "1990": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "1993": {
+      "PRP": {
+        "it": 1
+      }
+    }, 
+    "1992": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "full-length": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "language": {
+      "VBZ": {
+        "makes": 1
+      }, 
+      "NN": {
+        "refer": 1
+      }, 
+      "IN": {
+        "of": 1, 
+        "because": 1
+      }
+    }, 
+    "thrumming": {
+      "RB": {
+        "along": 1
+      }
+    }, 
+    "this": {
+      "VBZ": {
+        "is": 5
+      }, 
+      "JJ": {
+        "derivative": 1
+      }, 
+      "NN": {
+        "album": 1, 
+        "concept": 1, 
+        "name": 2, 
+        "reason": 1, 
+        "problem": 1, 
+        "data": 1
+      }, 
+      "VBD": {
+        "placed": 1
+      }
+    }, 
+    "science": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "self-regulating": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "work": {
+      "IN": {
+        "of": 1
+      }, 
+      "NNS": {
+        "services": 1
+      }, 
+      "NN": {
+        "compartment": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "centrifugal": {
+      "NN": {
+        "force": 1
+      }
+    }, 
+    "advocacy": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "theories": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "districts": {
+      ":": {
+        ":": 1
+      }
+    }, 
+    "orbit": {
+      "TO": {
+        "to": 3
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "achieve": {
+      "NN": {
+        "health": 1
+      }
+    }, 
+    "theirs": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "following": {
+      "NN": {
+        "day": 1, 
+        "launch": 1
+      }
+    }, 
+    "akin": {
+      "TO": {
+        "to": 2
+      }
+    }, 
+    "male": {
+      "NN": {
+        "surname": 1
+      }
+    }, 
+    "dugaldo.it": {
+      "NN": {
+        "timetables.com": 1
+      }
+    }, 
+    "control": {
+      "IN": {
+        "of": 1
+      }, 
+      "NNS": {
+        "jets": 1
+      }, 
+      "NNP": {
+        "program": 1
+      }
+    }, 
+    "giants": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "ford": {
+      "NNP": {
+        "field": 1
+      }
+    }, 
+    "civilizations": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "patrol": {
+      "''": {
+        "''": 1
+      }, 
+      "NN": {
+        "service": 1
+      }
+    }, 
+    "wharc": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "providers": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "lobbying": {
+      "VBZ": {
+        "remains": 1
+      }
+    }, 
+    "b\u0268t\u02b2": {
+      "NNP": {
+        "]": 1
+      }
+    }, 
+    "ambient": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "unprofitable": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "mainline": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "now": {
+      "VBZ": {
+        "understands": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "high": {
+      "NNP": {
+        "school": 1
+      }, 
+      "NN": {
+        "prevalence": 1
+      }, 
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "mixture": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "discography": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "performed": {
+      "JJ": {
+        "joint": 1
+      }
+    }, 
+    "sense": {
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "bones": {
+      "NNP": {
+        "records": 1
+      }
+    }, 
+    "station": {
+      "POS": {
+        "'s": 3
+      }, 
+      "VBD": {
+        "was": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "IN": {
+        "in": 3
+      }
+    }, 
+    "made": {
+      "JJ": {
+        "obsolete": 1
+      }
+    }, 
+    "robinson": {
+      "NNP": {
+        "r22": 1
+      }
+    }, 
+    "r22": {
+      "NNP": {
+        "official": 1
+      }
+    }, 
+    "simple": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "gino": {
+      "NNP": {
+        "lisa": 1
+      }
+    }, 
+    "influenced": {
+      "DT": {
+        "the": 1
+      }, 
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "siren": {
+      "POS": {
+        "'s": 1
+      }
+    }, 
+    "united": {
+      "NNPS": {
+        "states": 4
+      }, 
+      "NNP": {
+        "kingdom": 1
+      }
+    }, 
+    "end": {
+      "IN": {
+        "of": 1, 
+        "in": 1
+      }, 
+      "NNP": {
+        "malaria": 1
+      }
+    }, 
+    "howe": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "provide": {
+      "JJ": {
+        "complete": 1
+      }
+    }, 
+    "reoriented": {
+      "NNP": {
+        "salyut": 1
+      }
+    }, 
+    "immigrants": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "s7": {
+      "IN": {
+        "at": 1
+      }
+    }, 
+    "inaugural": {
+      "NN": {
+        "season": 1
+      }
+    }, 
+    "mojica": {
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "1": {
+      "NNP": {
+        "a.b.204": 1, 
+        "robinson": 1, 
+        "eurocopter": 1, 
+        "sikorsky": 1
+      }, 
+      "NN": {
+        "time": 1
+      }, 
+      "IN": {
+        "of": 1, 
+        "in": 1
+      }
+    }, 
+    "located": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "varies": {
+      "RB": {
+        "widely": 1
+      }, 
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "numerous": {
+      "JJ": {
+        "life-threatening": 1
+      }
+    }, 
+    "sacred": {
+      "NNP": {
+        "bones": 1
+      }
+    }, 
+    "aft": {
+      "NN": {
+        "end": 1
+      }
+    }, 
+    "233": {
+      "NN": {
+        "km": 1
+      }
+    }, 
+    "offshore": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "ab.204": {
+      "NNP": {
+        "sikorsky": 1
+      }
+    }, 
+    "dialect": {
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "remarked": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "fever": {
+      "VBZ": {
+        "has": 1
+      }, 
+      "VBD": {
+        "devastated": 1
+      }
+    }, 
+    "maternal": {
+      "NN": {
+        "mortality": 1
+      }
+    }, 
+    "143": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "may": {
+      "VB": {
+        "be": 3, 
+        "miss": 1, 
+        "refer": 1
+      }, 
+      "RB": {
+        "thus": 1, 
+        "spontaneously": 1
+      }, 
+      "CD": {
+        "25": 1, 
+        "31": 1, 
+        "29": 1
+      }
+    }, 
+    "overall": {
+      "JJ": {
+        "urban": 1
+      }
+    }, 
+    "reconciled": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "after": {
+      "DT": {
+        "the": 2
+      }, 
+      "NNS": {
+        "problems": 1
+      }, 
+      "NN": {
+        "year": 1
+      }
+    }, 
+    "southern": {
+      "NNP": {
+        "brazil": 1
+      }
+    }, 
+    "tied": {
+      "PRP": {
+        "them": 1
+      }
+    }, 
+    "3rd": {
+      "NN": {
+        "class": 1
+      }
+    }, 
+    "unmanned": {
+      "NNP": {
+        "progress": 1
+      }
+    }, 
+    "plane": {
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "blood": {
+      "NN": {
+        "screening": 2
+      }
+    }, 
+    "islands": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "president": {
+      "POS": {
+        "'s": 1
+      }
+    }, 
+    "ethics": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "data": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "response": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "a": {
+      "VBG": {
+        "resulting": 1, 
+        "visiting": 1
+      }, 
+      "RB": {
+        "newly": 1
+      }, 
+      "NN": {
+        "village": 1, 
+        "period": 1, 
+        "county": 1, 
+        "result": 1, 
+        "year": 1, 
+        "living": 1, 
+        "siren": 1, 
+        "span": 1, 
+        "matter": 1, 
+        "percentage": 1, 
+        "mixture": 1, 
+        "conatus": 3, 
+        "pitcher": 1, 
+        "centro": 1, 
+        "part": 1, 
+        "registry": 1, 
+        "brass": 1, 
+        "town": 1, 
+        "license": 1, 
+        "list": 1, 
+        "sledgehammer.\u201d": 1, 
+        "record": 1, 
+        "faraway": 1, 
+        "principle": 1, 
+        "time": 1, 
+        "barrel": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "RBR": {
+        "more": 2
+      }, 
+      "VBN": {
+        "supposed": 1
+      }, 
+      "JJ": {
+        "manned": 2, 
+        "historical": 1, 
+        "visible": 1, 
+        "hard": 1, 
+        "macaronic": 1, 
+        "legal": 1, 
+        "metallic": 1, 
+        "concurrent": 1, 
+        "cultural": 1, 
+        "low": 1, 
+        "newfound": 1, 
+        "new": 1, 
+        "mixed": 1, 
+        "helicopter": 1, 
+        "unique": 1, 
+        "former": 1, 
+        "high-burden": 1, 
+        "naval": 1
+      }, 
+      "JJR": {
+        "broader": 1
+      }, 
+      "NNP": {
+        "slavic": 1, 
+        "hammer": 1, 
+        "frenchman": 1, 
+        "grave": 1
+      }
+    }, 
+    "realized": {
+      "NNP": {
+        "zola": 1
+      }
+    }, 
+    "noun": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "sioux": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "sectors": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "nemrus": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "merged": {
+      "IN": {
+        "into": 1, 
+        "with": 1
+      }
+    }, 
+    "'to": {
+      "VB": {
+        "be": 1
+      }, 
+      "VBP": {
+        "have": 1
+      }
+    }, 
+    "s.r.l": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "complexity": {
+      "IN": {
+        "into": 1
+      }
+    }, 
+    "maintain": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "so": {
+      "DT": {
+        "the": 2
+      }, 
+      "WRB": {
+        "when": 1
+      }, 
+      "JJ": {
+        "unique": 1
+      }, 
+      "RB": {
+        "far": 1
+      }, 
+      "IN": {
+        "as": 1, 
+        "that": 1
+      }
+    }, 
+    "alienation": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "healthcare": {
+      "VBP": {
+        "have": 1
+      }, 
+      "NN": {
+        "provision": 1
+      }
+    }, 
+    "eli-linee": {
+      "NNP": {
+        "italiane": 1
+      }
+    }, 
+    "1000": {
+      "NNS": {
+        "people": 1
+      }
+    }, 
+    "order": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "operations": {
+      "CC": {
+        "and": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "cosmodrome": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "acts": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "similarities": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "office": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "15-49": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "september": {
+      "CD": {
+        "26": 1
+      }
+    }, 
+    "essence": {
+      "RB": {
+        "rather": 1
+      }
+    }, 
+    "pointed": {
+      "IN": {
+        "toward": 1
+      }
+    }, 
+    "fraser": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "mission": {
+      "TO": {
+        "to": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "VBD": {
+        "included": 1, 
+        "transported": 1
+      }
+    }, 
+    "years": {
+      ".": {
+        ".": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "since": 1, 
+        "at": 1
+      }
+    }, 
+    "produced": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "attitude": {
+      "NN": {
+        "control": 1
+      }
+    }, 
+    "experiments": {
+      ",": {
+        ",": 2
+      }
+    }, 
+    "including": {
+      "JJ": {
+        "cardiovascular": 1
+      }, 
+      "NN": {
+        "echography": 1, 
+        "prostitution": 1
+      }
+    }, 
+    "looks": {
+      "IN": {
+        "like": 1
+      }
+    }, 
+    "argued": {
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "existence": {
+      "IN": {
+        "since": 1
+      }
+    }, 
+    "suffer": {
+      "NNS": {
+        "accidents": 1
+      }
+    }, 
+    "its": {
+      "VBG": {
+        "being": 1
+      }, 
+      "NNS": {
+        "flights": 1
+      }, 
+      "JJ": {
+        "main": 1
+      }, 
+      "NN": {
+        "near-extinction": 1, 
+        "head": 1, 
+        "role": 1, 
+        "parent": 1, 
+        "population": 1
+      }, 
+      "NNP": {
+        "slavic": 1
+      }
+    }, 
+    "before": {
+      "''": {
+        "''": 1
+      }, 
+      ",": {
+        ",": 2
+      }
+    }, 
+    "24": {
+      "NNP": {
+        "june": 2
+      }
+    }, 
+    "helicopters": {
+      "VBN": {
+        "exploded": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "26": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "27": {
+      "NNS": {
+        "years": 1
+      }
+    }, 
+    "20": {
+      "NNS": {
+        "years": 1
+      }
+    }, 
+    "23": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "28": {
+      ".": {
+        ".": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    ",": {
+      "WRB": {
+        "whereby": 1
+      }, 
+      "MD": {
+        "would": 1
+      }, 
+      "PRP$": {
+        "its": 1
+      }, 
+      "VBG": {
+        "meaning": 3, 
+        "adding": 1, 
+        "leading": 1, 
+        "leaving": 1, 
+        "flying": 1, 
+        "according": 2, 
+        "writing": 1, 
+        "thrumming": 1, 
+        "including": 3, 
+        "lying": 1, 
+        "receding": 1, 
+        "having": 1, 
+        "supplying": 1
+      }, 
+      "RB": {
+        "so": 1, 
+        "particularly": 1, 
+        "however": 2, 
+        "offshore": 1, 
+        "also": 1
+      }, 
+      "NN": {
+        "conatus": 2, 
+        "state": 1, 
+        "\u201d": 1, 
+        "aircraft": 1, 
+        "air": 2
+      }, 
+      "VBD": {
+        "became": 1, 
+        "described": 1
+      }, 
+      "CC": {
+        "and": 13, 
+        "or": 1, 
+        "but": 6
+      }, 
+      "JJS": {
+        "most": 1
+      }, 
+      "``": {
+        "``": 4
+      }, 
+      "RBR": {
+        "more": 1
+      }, 
+      "VBN": {
+        "released": 1, 
+        "based": 1, 
+        "quoted": 1
+      }, 
+      "TO": {
+        "to": 1
+      }, 
+      "WDT": {
+        "which": 3
+      }, 
+      "PRP": {
+        "it": 4
+      }, 
+      "JJ": {
+        "\u201cit": 1, 
+        "high-risk": 1, 
+        "clandestine": 2, 
+        "high": 1, 
+        "environmental": 1, 
+        "international": 2
+      }, 
+      "IN": {
+        "because": 1, 
+        "for": 1, 
+        "that": 1, 
+        "whether": 1, 
+        "into": 1, 
+        "alongside": 1, 
+        "except": 1, 
+        "per": 1, 
+        "while": 2, 
+        "in": 5, 
+        "with": 3, 
+        "as": 5, 
+        "before": 1
+      }, 
+      "VBZ": {
+        "is": 2, 
+        "has": 2, 
+        "does": 1
+      }, 
+      "DT": {
+        "the": 25, 
+        "some": 1, 
+        "all": 1, 
+        "an": 1
+      }, 
+      "CD": {
+        "1942": 1, 
+        "1943": 1, 
+        "2011": 1, 
+        "2010": 1
+      }, 
+      "NNP": {
+        "foggia": 1, 
+        "kuczynski": 1, 
+        "german": 1, 
+        "kuchinski": 1, 
+        "dead": 1, 
+        "bresson": 1, 
+        "khuzestan": 1, 
+        "francesca": 1, 
+        "kuchinsky": 1, 
+        "jean-loup": 2, 
+        "italy": 1, 
+        "popmatters": 1, 
+        "federal": 1, 
+        "shanghai": 1, 
+        "serebrov": 1, 
+        "iri": 1, 
+        "new": 1, 
+        "iran": 1, 
+        "elizabeth": 1, 
+        "conatus": 2, 
+        "munch": 1, 
+        "alitalia": 2, 
+        "varese": 1, 
+        "\u201cwe": 1, 
+        "china": 1, 
+        "lebedev": 1, 
+        "stevie": 1, 
+        "pudong": 1, 
+        "detroit": 1, 
+        "patti": 1, 
+        "zola": 1, 
+        "danilova": 2, 
+        "throbbing": 1
+      }
+    }, 
+    "crew": {
+      "NN": {
+        "hand": 1
+      }, 
+      "VBD": {
+        "afforded": 1, 
+        "monitored": 1, 
+        "reoriented": 1, 
+        "completed": 1, 
+        "performed": 1, 
+        "closed": 1, 
+        "included": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 1
+      }, 
+      "''": {
+        "''": 2
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "previously": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "production": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "savitskaya": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "choose": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "attended": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "neo-gothic": {
+      "NNS": {
+        "synths": 1
+      }
+    }, 
+    "policy": {
+      "NN": {
+        "environment": 1
+      }
+    }, 
+    "2014": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "quelia": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "main": {
+      "NN": {
+        "base": 1
+      }
+    }, 
+    "2011": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "2010": {
+      "NN": {
+        "site": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "JJ": {
+        "maternal": 1
+      }
+    }, 
+    "2012": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "then": {
+      "VBN": {
+        "used": 1
+      }, 
+      "JJ": {
+        "new": 1
+      }, 
+      "NNP": {
+        "volareweb.com": 1
+      }
+    }, 
+    "them": {
+      "RP": {
+        "down": 1
+      }
+    }, 
+    "good": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "cornerback": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "bilingual": {
+      "NNS": {
+        "puns": 1
+      }
+    }, 
+    "conatus": {
+      "MD": {
+        "may": 1
+      }, 
+      "NN": {
+        "recendendi": 1, 
+        "principle": 1, 
+        "dealt": 1
+      }, 
+      "VBD": {
+        "was": 2, 
+        "adapted": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "VBN": {
+        "built": 1
+      }, 
+      "VBP": {
+        "have": 1
+      }, 
+      "IN": {
+        "of": 2
+      }, 
+      "VBZ": {
+        "is": 4, 
+        "comes": 1
+      }, 
+      "DT": {
+        "a": 1
+      }, 
+      "NNS": {
+        "reviewers": 1
+      }
+    }, 
+    "devastated": {
+      "DT": {
+        "a": 1
+      }
+    }, 
+    "100,000": {
+      "NNS": {
+        "births": 1
+      }
+    }, 
+    "males": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "compartment": {
+      "IN": {
+        "into": 1, 
+        "so": 1
+      }
+    }, 
+    "school": {
+      "CC": {
+        "and": 2
+      }
+    }, 
+    "nation": {
+      "JJ": {
+        "pose": 1
+      }
+    }, 
+    "geopolitical": {
+      "NNS": {
+        "zones": 1
+      }
+    }, 
+    "records": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "1956": {
+      "NNP": {
+        "november": 1
+      }
+    }, 
+    "gmt": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "german": {
+      "CC": {
+        "and": 1, 
+        "or": 1
+      }, 
+      "NNS": {
+        "words": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "NN": {
+        "content": 1, 
+        "feminine": 1, 
+        "noun": 1, 
+        "author": 1
+      }
+    }, 
+    "focus": {
+      "RBR": {
+        "more": 1
+      }
+    }, 
+    "not": {
+      "TO": {
+        "to": 1
+      }, 
+      "NNP": {
+        "spinoza": 1
+      }, 
+      "VBN": {
+        "used": 1
+      }, 
+      "RB": {
+        "fully": 1
+      }, 
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "jesus": {
+      "TO": {
+        "to": 1
+      }, 
+      ".": {
+        ".": 2
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "NN": {
+        "style": 1, 
+        "production": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }
+    }, 
+    "provision": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "day": {
+      "DT": {
+        "the": 1
+      }, 
+      "NN": {
+        "theme": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "uncommon": {
+      "NNP": {
+        "russian": 1
+      }
+    }, 
+    "overlap": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "mystery": {
+      ".": {
+        ".": 2
+      }
+    }, 
+    "near-extinction": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "february": {
+      "CD": {
+        "2015": 1
+      }
+    }, 
+    "grammar": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "name": {
+      "NNP": {
+        "zola": 1
+      }, 
+      "VBD": {
+        "was": 1
+      }, 
+      "IN": {
+        "on": 1, 
+        "of": 1
+      }
+    }, 
+    "pregnant": {
+      "NNS": {
+        "women": 1
+      }
+    }, 
+    "fully": {
+      "VBN": {
+        "realized": 1, 
+        "democratized": 1
+      }
+    }, 
+    "university": {
+      "NN": {
+        "teaching": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "nfl": {
+      "NNP": {
+        "draft": 1
+      }
+    }, 
+    "advent": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "sledgehammer.\u201d": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "detroit": {
+      "CC": {
+        "and": 1
+      }, 
+      "NNP": {
+        "tigers": 1, 
+        "lions": 5
+      }
+    }, 
+    "sikorsky": {
+      "JJ": {
+        "s-76a": 1
+      }, 
+      "NNP": {
+        "s-61": 3
+      }
+    }, 
+    "iiip3": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "faraway": {
+      "NN": {
+        "horizon": 1
+      }
+    }, 
+    "bursts": {
+      "IN": {
+        "into": 1
+      }
+    }, 
+    "transmitted": {
+      "NNS": {
+        "infections": 1
+      }
+    }, 
+    "soyuz-t": {
+      "NN": {
+        "spacecraft": 1
+      }, 
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "die": {
+      "NNP": {
+        "\u00fcberraschung": 1
+      }
+    }, 
+    "identifies": {
+      "NNP": {
+        "nigeria": 1
+      }
+    }, 
+    "identifier": {
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "opined": {
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "spanglish": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "afforded": {
+      "PRP": {
+        "him": 1
+      }
+    }, 
+    "foggia": {
+      "TO": {
+        "to": 2
+      }, 
+      ".": {
+        ".": 2
+      }
+    }, 
+    "financial": {
+      "NN": {
+        "district": 1
+      }
+    }, 
+    "significantly": {
+      "VBD": {
+        "influenced": 1
+      }
+    }, 
+    "secondary": {
+      "NNP": {
+        "central": 1
+      }
+    }, 
+    "doing": {
+      "''": {
+        "''": 1
+      }
+    }, 
+    "hard": {
+      "NN": {
+        "consonant": 1
+      }
+    }, 
+    "jean-loup": {
+      "NNP": {
+        "chr\u00e9tien": 2
+      }
+    }, 
+    "allan": {
+      "NNP": {
+        "poe": 1
+      }
+    }, 
+    "related": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "challenges": {
+      "RB": {
+        "particularly": 1
+      }
+    }, 
+    "society": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "milan": {
+      ":": {
+        ":": 1
+      }
+    }, 
+    "neurology": {
+      "WRB": {
+        "where": 1
+      }
+    }, 
+    "variety": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "specifically": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "sexually": {
+      "VBN": {
+        "transmitted": 1
+      }
+    }, 
+    "navy": {
+      "VBD": {
+        "began": 1, 
+        "used": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "operation": {
+      "CC": {
+        "but": 1
+      }
+    }, 
+    "along": {
+      "IN": {
+        "with": 2
+      }
+    }, 
+    "sexual": {
+      "NNS": {
+        "partnerships": 1
+      }
+    }, 
+    "event": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "elizabeth": {
+      "NNP": {
+        "fraser": 1
+      }
+    }, 
+    "album": {
+      "VBZ": {
+        "is": 1
+      }, 
+      "VBD": {
+        "was": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "living": {
+      "NN": {
+        "organism": 1
+      }, 
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "matt": {
+      "NNP": {
+        "james": 1
+      }
+    }, 
+    "psychology": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "'": {
+      "CC": {
+        "and": 2
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 2
+      }, 
+      "''": {
+        "''": 1
+      }, 
+      "JJ": {
+        "inaugural": 1
+      }, 
+      "NNP": {
+        "matt": 1
+      }
+    }, 
+    "factors": {
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "clandestine": {
+      "JJ": {
+        "high-risk": 2
+      }
+    }, 
+    "since": {
+      "DT": {
+        "the": 2
+      }, 
+      "NN": {
+        "independence": 1
+      }
+    }, 
+    "manually": {
+      "IN": {
+        "after": 1
+      }
+    }, 
+    "alex": {
+      "NNP": {
+        "kuczynski": 1
+      }
+    }, 
+    "content": {
+      "NNS": {
+        "varies": 1
+      }
+    }, 
+    "bone-hard": {
+      "NN": {
+        "essence": 1
+      }
+    }, 
+    "definitely": {
+      "JJ": {
+        "narrower": 1
+      }
+    }, 
+    "health": {
+      "NNS": {
+        "issues": 1
+      }, 
+      "NN": {
+        "system": 1, 
+        "care": 2
+      }
+    }, 
+    "volare": {
+      "NNP": {
+        "s.p.a.": 1
+      }
+    }, 
+    "s\u00e3o": {
+      "NNP": {
+        "paulo": 1
+      }
+    }, 
+    "kg": {
+      "NNP": {
+        "perigee": 1
+      }
+    }, 
+    "newly": {
+      "VBN": {
+        "built": 1
+      }
+    }, 
+    "independence": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "counterpart": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "foreground": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "earlier": {
+      "NN": {
+        "variety": 1
+      }
+    }, 
+    "theory": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "written": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "frank": {
+      "NNP": {
+        "mojica": 2
+      }
+    }, 
+    "u.s.": {
+      "NNP": {
+        "navy": 2
+      }
+    }, 
+    "team": {
+      "NN": {
+        "page": 2
+      }, 
+      "VBD": {
+        "left": 1
+      }
+    }, 
+    "little": {
+      "JJ": {
+        "active": 1
+      }
+    }, 
+    "allmusic": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "reason": {
+      "NNP": {
+        "alitalia": 1
+      }
+    }, 
+    "base": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "corresponding": {
+      "NN": {
+        "verbs": 1
+      }
+    }, 
+    "characteristically": {
+      "JJ": {
+        "urban": 1
+      }
+    }, 
+    "carl": {
+      "``": {
+        "``": 1
+      }
+    }, 
+    "biological": {
+      "CC": {
+        "and": 1
+      }, 
+      "NNS": {
+        "systems": 1
+      }
+    }, 
+    "1982": {
+      "CC": {
+        "and": 1
+      }, 
+      "IN": {
+        "at": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 3
+      }
+    }, 
+    "moody": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "remainder": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "s.p.a.": {
+      "CC": {
+        "and": 1
+      }, 
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "care": {
+      "CC": {
+        "and": 1
+      }, 
+      "NN": {
+        "delivery": 1, 
+        "equity": 1
+      }
+    }, 
+    "definition": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "training": {
+      "CC": {
+        "and": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "organic": {
+      "NN": {
+        "darkness": 1
+      }
+    }, 
+    "service": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "miss": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "launch": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "biosphere": {
+      "PRP": {
+        "you": 1
+      }
+    }, 
+    "automatic": {
+      "VBG": {
+        "docking": 1
+      }
+    }, 
+    "could": {
+      "VB": {
+        "be": 1, 
+        "pump": 1, 
+        "overlap": 1
+      }
+    }, 
+    "7": {
+      "``": {
+        "``": 1
+      }, 
+      "VBG": {
+        "following": 1
+      }, 
+      "NN": {
+        "station": 1, 
+        "space": 2
+      }, 
+      "CC": {
+        "and": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "IN": {
+        "during": 1, 
+        "so": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "investment": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "trasporti": {
+      "NNP": {
+        "italiani": 1
+      }
+    }, 
+    "american": {
+      "VBG": {
+        "recording": 1
+      }, 
+      "NN": {
+        "football": 2, 
+        "pop": 1
+      }, 
+      "NNP": {
+        "league": 1
+      }
+    }, 
+    "puns": {
+      "CC": {
+        "or": 1
+      }
+    }, 
+    "aboard": {
+      "DT": {
+        "the": 1
+      }, 
+      "IN": {
+        "on": 1
+      }, 
+      "NNP": {
+        "salyut": 1
+      }
+    }, 
+    "consequence": {
+      "IN": {
+        "of": 2
+      }
+    }, 
+    "\u043a\u0430\u043a\u0430\u044f": {
+      "NNP": {
+        "\u0445\u043e\u0440\u043e\u0448\u0430\u044f": 1
+      }
+    }, 
+    "receding": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "south": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "partnerships": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "losses": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "serebrov": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "major": {
+      "NN": {
+        "health": 1
+      }
+    }, 
+    "flying": {
+      "NN": {
+        "school": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "speaker": {
+      "TO": {
+        "to": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "nouns": {
+      "VBG": {
+        "ending": 1
+      }
+    }, 
+    "russophone": {
+      "NNS": {
+        "immigrants": 1
+      }
+    }, 
+    "spoken": {
+      "IN": {
+        "by": 3
+      }
+    }, 
+    "subtlety": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "december": {
+      "CD": {
+        "1982": 1
+      }
+    }, 
+    "powerful": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "number": {
+      "VBZ": {
+        "is": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "owned": {
+      "CC": {
+        "and": 1
+      }, 
+      "NN": {
+        "pleasure": 1
+      }
+    }, 
+    "one": {
+      "CC": {
+        "and": 1
+      }, 
+      "IN": {
+        "of": 1
+      }, 
+      "JJ": {
+        "such": 1
+      }, 
+      "NN": {
+        "city": 1, 
+        "spacecraft": 1, 
+        "day": 1, 
+        "time": 1
+      }, 
+      "VBD": {
+        "did": 1
+      }
+    }, 
+    "spontaneously": {
+      "VB": {
+        "form": 1
+      }
+    }, 
+    "pop": {
+      "NN": {
+        "singer": 1
+      }
+    }, 
+    "dominating": {
+      "JJ": {
+        "other": 1
+      }
+    }, 
+    "embraced": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "directly": {
+      "IN": {
+        "upon": 1
+      }
+    }, 
+    "such": {
+      "NN": {
+        "artist": 1
+      }, 
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "carry": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "antibiotic": {
+      "NNS": {
+        "experiments": 1
+      }
+    }, 
+    "kuczy\u0144ski": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "electronic": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "redhawks": {
+      "NN": {
+        "football": 1
+      }
+    }, 
+    "size": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "pos": {
+      "NNP": {
+        "runs": 1
+      }
+    }, 
+    "city": {
+      ":": {
+        ":": 1
+      }, 
+      "IN": {
+        "since": 1
+      }
+    }, 
+    "given": {
+      "NN": {
+        "culture": 1
+      }
+    }, 
+    "ancient": {
+      "NNS": {
+        "civilizations": 1
+      }
+    }, 
+    "district": {
+      "CC": {
+        "and": 1
+      }, 
+      ".": {
+        ".": 2
+      }, 
+      "VBG": {
+        "developing": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "of": 2
+      }
+    }, 
+    "leading": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "they": {
+      "VBD": {
+        "sounded": 1
+      }
+    }, 
+    "system": {
+      "WRB": {
+        "where": 1
+      }
+    }, 
+    "their": {
+      "JJ": {
+        "first": 1
+      }, 
+      "NN": {
+        "gender": 1, 
+        "domination": 1, 
+        "investment": 1
+      }
+    }, 
+    "2": {
+      ",": {
+        ",": 1
+      }, 
+      "NNP": {
+        "agustawestland": 1, 
+        "progress": 1
+      }
+    }, 
+    "draft": {
+      ".": {
+        ".": 2
+      }
+    }, 
+    "s-76a": {
+      "CD": {
+        "1": 1
+      }
+    }, 
+    "608.3": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "countries": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "structures": {
+      "CC": {
+        "and": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "kuchinski": {
+      "CC": {
+        "or": 1
+      }
+    }, 
+    "gives": {
+      "NN": {
+        "nothing": 1
+      }
+    }, 
+    "taxi/charter": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "urban": {
+      "NN": {
+        "code-switching": 1, 
+        "functionality": 1
+      }
+    }, 
+    "ramshir": {
+      ".": {
+        ".": 2
+      }, 
+      "NNP": {
+        "county": 2
+      }
+    }, 
+    "sofla": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "mostly": {
+      "VBN": {
+        "limited": 1
+      }
+    }, 
+    "that": {
+      "``": {
+        "``": 4
+      }, 
+      "NN": {
+        "moment": 1, 
+        "time": 1
+      }, 
+      "VBD": {
+        "accounted": 1, 
+        "was": 1, 
+        "were": 1
+      }, 
+      "VBP": {
+        "carry": 1, 
+        "contribute": 1, 
+        "are": 2
+      }, 
+      "PRP": {
+        "she": 1, 
+        "they": 1, 
+        "it": 2
+      }, 
+      "RB": {
+        "logically": 1, 
+        "often": 1
+      }, 
+      "VBZ": {
+        "relies": 1, 
+        "shades": 1, 
+        "'s": 1, 
+        "appears": 1
+      }, 
+      "DT": {
+        "this": 1, 
+        "the": 2, 
+        "any": 1
+      }
+    }, 
+    "exploded": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "completed": {
+      "JJ": {
+        "joint": 1
+      }, 
+      "RB": {
+        "manually": 1
+      }
+    }, 
+    "exactly": {
+      "WP": {
+        "what": 1
+      }
+    }, 
+    "contribute": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "environmental": {
+      "NN": {
+        "pollution": 1
+      }
+    }, 
+    "part": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "'avalanche": {
+      "POS": {
+        "'": 1
+      }
+    }, 
+    "somewhat": {
+      "JJ": {
+        "akin": 1
+      }
+    }, 
+    "cultures": {
+      "CC": {
+        "or": 1
+      }
+    }, 
+    "consonant": {
+      "VBP": {
+        "are": 1
+      }
+    }, 
+    "licensed": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "photographic": {
+      "NN": {
+        "work": 1
+      }
+    }, 
+    "nigeria": {
+      "VBD": {
+        "was": 1
+      }, 
+      ",": {
+        ",": 3
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "VBP": {
+        "are": 1
+      }, 
+      "IN": {
+        "as": 1
+      }, 
+      "VBZ": {
+        "is": 3, 
+        "has": 1
+      }, 
+      "DT": {
+        "the": 1
+      }, 
+      ":": {
+        ":": 1
+      }
+    }, 
+    "filled": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "population": {
+      "CC": {
+        "and": 1
+      }, 
+      "VBD": {
+        "was": 2
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "11": {
+      "NNS": {
+        "families": 1
+      }, 
+      "NN": {
+        "percent": 1
+      }
+    }, 
+    "distance": {
+      "NNS": {
+        "lingers": 1
+      }
+    }, 
+    "13": {
+      "TO": {
+        "to": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "NN": {
+        "resupply": 1
+      }, 
+      "VBD": {
+        "lowered": 1, 
+        "pumped": 1
+      }
+    }, 
+    "grew": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "third": {
+      "NN": {
+        "studio": 1
+      }
+    }, 
+    "isolation": {
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "programs": {
+      "RB": {
+        "simultaneously": 1
+      }
+    }, 
+    "second": {
+      ".": {
+        ".": 1
+      }, 
+      "NN": {
+        "full-length": 1
+      }, 
+      "NNP": {
+        "lujiazui": 1, 
+        "s.p.a.": 1
+      }
+    }, 
+    "unmistakable": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "youth": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "matter": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "states": {
+      "VBD": {
+        "was": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      ".": {
+        ".": 1
+      }, 
+      "VBP": {
+        "have": 1
+      }, 
+      "IN": {
+        "on": 1, 
+        "that": 1
+      }, 
+      "NNP": {
+        "navy": 1
+      }
+    }, 
+    "vocals": {
+      "CC": {
+        "and": 1
+      }, 
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "supposed": {
+      "NN": {
+        "suicide": 1
+      }
+    }, 
+    "historical": {
+      "NN": {
+        "precursor": 1
+      }
+    }, 
+    "were": {
+      "VBN": {
+        "branded": 1
+      }, 
+      "JJ": {
+        "available": 1, 
+        "\u201cvery": 1
+      }
+    }, 
+    "cross": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "genders": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "toward": {
+      "DT": {
+        "the": 1
+      }, 
+      "NNP": {
+        "earth": 1
+      }
+    }, 
+    "greater": {
+      "NN": {
+        "use": 1
+      }
+    }, 
+    "cosmonauts": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "timetables.com": {
+      "NNP": {
+        "sikorsky": 1
+      }
+    }, 
+    "behaviors": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "189": {
+      "NN": {
+        "km": 1
+      }
+    }, 
+    "flights": {
+      "VBD": {
+        "were": 1
+      }, 
+      "IN": {
+        "from": 1, 
+        "for": 1
+      }
+    }, 
+    "surname": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "elicotteri": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "bert": {
+      "''": {
+        "''": 1
+      }, 
+      "NNP": {
+        "kuczynski": 1
+      }
+    }, 
+    "docked": {
+      "TO": {
+        "to": 2
+      }, 
+      "PRP": {
+        "it": 1
+      }
+    }, 
+    "roza": {
+      "NNP": {
+        "danilova": 1
+      }
+    }, 
+    "modern": {
+      "NNS": {
+        "versions": 1, 
+        "theories": 1
+      }, 
+      "NN": {
+        "biology": 1
+      }
+    }, 
+    "ages": {
+      "CD": {
+        "15-49": 1
+      }
+    }, 
+    "prostitution": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "spent": {
+      "VBG": {
+        "organizing": 1
+      }
+    }, 
+    "raw": {
+      "NN": {
+        "approach": 1
+      }
+    }, 
+    "have": {
+      "DT": {
+        "a": 1
+      }, 
+      "RB": {
+        "slowly": 1, 
+        "just": 1
+      }, 
+      "JJR": {
+        "more": 1
+      }, 
+      "JJ": {
+        "insufficient": 1
+      }, 
+      "VBN": {
+        "arisen": 1, 
+        "been": 1, 
+        "'": 1
+      }
+    }, 
+    "close": {
+      "TO": {
+        "to": 1
+      }, 
+      "NNP": {
+        "c.a.i": 1
+      }
+    }, 
+    "need": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "antonio": {
+      "NNP": {
+        "damasio": 1
+      }
+    }, 
+    "\u201d": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "metaphysics": {
+      "CC": {
+        "and": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "vulnerable": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "affairs": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "speakers": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "1969": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "once": {
+      "JJ": {
+        "aboard": 1
+      }
+    }, 
+    "partly": {
+      "IN": {
+        "because": 2
+      }
+    }, 
+    "1967": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "1960": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "gravity": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "heterosexual": {
+      "CC": {
+        "and": 2
+      }
+    }, 
+    "note": {
+      ":": {
+        ":": 5
+      }
+    }, 
+    "instance": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "without": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "generalized": {
+      "NNS": {
+        "epidemics": 1
+      }
+    }, 
+    "abdoliyeh-ye": {
+      "NNP": {
+        "sharqi": 1
+      }
+    }, 
+    "season": {
+      ".": {
+        ".": 1
+      }, 
+      "IN": {
+        "at": 1, 
+        "in": 1
+      }, 
+      "VBD": {
+        "involved": 1, 
+        "was": 1
+      }
+    }, 
+    "praised": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "responsibility": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "lujiazui": {
+      "''": {
+        "''": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "spinozistic": {
+      "NN": {
+        "conception": 1
+      }
+    }, 
+    "province": {
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "play": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "multiple": {
+      "NN": {
+        "simpler": 1
+      }, 
+      "JJ": {
+        "sexual": 1
+      }
+    }, 
+    "established": {
+      "IN": {
+        "in": 2
+      }
+    }, 
+    "incidence": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "centro": {
+      "VBD": {
+        "had": 1
+      }
+    }, 
+    "varese": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "most": {
+      "VBP": {
+        "have": 1
+      }, 
+      "NNS": {
+        "words": 1
+      }, 
+      "RB": {
+        "importantly": 1
+      }, 
+      "NNP": {
+        "hiv": 1
+      }
+    }, 
+    "said": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "importantly": {
+      "WRB": {
+        "when": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "\u0431\u044b\u0442\u044c": {
+      "NNP": {
+        "[": 1
+      }
+    }, 
+    "pleasure": {
+      "NN": {
+        "craft": 1
+      }
+    }, 
+    "services": {
+      "IN": {
+        "from": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 2
+      }
+    }, 
+    "bengals": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "]": {
+      ",": {
+        ",": 3
+      }, 
+      "NN": {
+        "ome": 1, 
+        "er": 1
+      }, 
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "had": {
+      "VBN": {
+        "been": 2
+      }
+    }, 
+    "echography": {
+      "CC": {
+        "and": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "philosophers": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "understands": {
+      "RB": {
+        "exactly": 1
+      }
+    }, 
+    "operate": {
+      "NNP": {
+        "alitalia": 1
+      }
+    }, 
+    "constructed": {
+      "RB": {
+        "so": 1
+      }
+    }, 
+    "refreshing": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "eject": {
+      "NNP": {
+        "salyut": 1
+      }
+    }, 
+    "released": {
+      "IN": {
+        "by": 1, 
+        "in": 1
+      }
+    }, 
+    "considered": {
+      "JJ": {
+        "modern": 1, 
+        "unprofitable": 1
+      }
+    }, 
+    "medical": {
+      "NNP": {
+        "centres": 1
+      }
+    }, 
+    "sometimes": {
+      "VBN": {
+        "known": 1
+      }
+    }, 
+    "infections": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "km": {
+      "TO": {
+        "to": 1
+      }, 
+      "NN": {
+        "inclination": 1
+      }, 
+      "NNP": {
+        "apogee": 1
+      }
+    }, 
+    "1,000": {
+      "NNS": {
+        "births": 1
+      }
+    }, 
+    "zola": {
+      "NNP": {
+        "jesus": 8
+      }
+    }, 
+    "code-switching": {
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "accounted": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "trafficking": {
+      "IN": {
+        "of": 2
+      }
+    }, 
+    "built": {
+      "RB": {
+        "directly": 1
+      }, 
+      "NNP": {
+        "international": 1
+      }
+    }, 
+    "barrel": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "physics": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "superseded": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "fact": {
+      "VBZ": {
+        "remains": 1
+      }
+    }, 
+    "sector": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "impression": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "emerging": {
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "lexicon": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "particularly": {
+      "JJ": {
+        "due": 1, 
+        "vulnerable": 1, 
+        "bilingual": 1
+      }
+    }, 
+    "phenomenon": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "germany": {
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "autopoiesis": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "text": {
+      "VBG": {
+        "using": 1
+      }
+    }, 
+    "league": {
+      "NNP": {
+        "champions": 1
+      }, 
+      "IN": {
+        "with": 1, 
+        "for": 2
+      }
+    }, 
+    "ending": {
+      "IN": {
+        "in": 2
+      }
+    }, 
+    "bidney": {
+      "NNS": {
+        "states": 1
+      }
+    }, 
+    "planning": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "radio": {
+      "NN": {
+        "satellite": 1
+      }
+    }, 
+    "sustained": {
+      "RB": {
+        "primarily": 1
+      }
+    }, 
+    "weekly": {
+      "NN": {
+        "bag": 1
+      }
+    }, 
+    "kakaja": {
+      "NN": {
+        "xoro\u0282aja": 1
+      }
+    }, 
+    "rough": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "precursor": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "find": {
+      "DT": {
+        "a": 1
+      }
+    }, 
+    "staff": {
+      "VBP": {
+        "are": 1
+      }
+    }, 
+    "seminal": {
+      "NN": {
+        "definition": 1
+      }
+    }, 
+    "unanimously": {
+      "VBN": {
+        "praised": 1
+      }
+    }, 
+    "based": {
+      "RB": {
+        "primarily": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "just": {
+      "VBN": {
+        "moved": 1
+      }
+    }, 
+    "northern": {
+      "JJ": {
+        "italian": 1
+      }
+    }, 
+    "itinerant": {
+      "NNS": {
+        "workers": 1
+      }
+    }, 
+    "implementation": {
+      "IN": {
+        "at": 1
+      }
+    }, 
+    "true": {
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "enough": {
+      "IN": {
+        "so": 1
+      }
+    }, 
+    "scientific": {
+      "NN": {
+        "method": 1
+      }
+    }, 
+    "than": {
+      "VB": {
+        "gauzy": 1
+      }, 
+      "CD": {
+        "one": 1
+      }, 
+      "RB": {
+        "radically": 1
+      }, 
+      "JJ": {
+        "young": 1
+      }, 
+      "PRP": {
+        "it": 1
+      }
+    }, 
+    "terminal": {
+      "CD": {
+        "1": 1
+      }
+    }, 
+    "bernard": {
+      "NNP": {
+        "carl": 1
+      }
+    }, 
+    "theme": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "screening": {
+      ".": {
+        ".": 2
+      }
+    }, 
+    "equity": {
+      "IN": {
+        "across": 1
+      }
+    }, 
+    "fuel": {
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "identification": {
+      "NNP": {
+        "number": 1
+      }
+    }, 
+    "kuchinskiy": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "1916": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "local": {
+      "NNS": {
+        "levels": 1
+      }
+    }, 
+    "mortality": {
+      "VBZ": {
+        "is": 1
+      }, 
+      "IN": {
+        "as": 1
+      }, 
+      "NN": {
+        "rate": 2
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "first": {
+      "NN": {
+        "half": 1, 
+        "woman": 1, 
+        "mission": 1, 
+        "crew": 1
+      }, 
+      "JJ": {
+        "french": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "aw139": {
+      "CD": {
+        "1": 1
+      }
+    }, 
+    "tecnica": {
+      "NNP": {
+        "sud": 1
+      }
+    }, 
+    "batted": {
+      "IN": {
+        "in": 2
+      }
+    }, 
+    "his": {
+      "NNS": {
+        "ethics": 1
+      }, 
+      "NN": {
+        "diary": 2
+      }
+    }, 
+    "perigee": {
+      ":": {
+        ":": 1
+      }
+    }, 
+    "closed": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "hiv": {
+      "NNS": {
+        "services": 1, 
+        "interventions": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "NN": {
+        "epidemic": 1, 
+        "prevalence": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "damasio": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "familiar": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "ships": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "scientists": {
+      "JJ": {
+        "such": 1
+      }
+    }, 
+    "german-russian": {
+      "NN": {
+        "pidgin": 1
+      }
+    }, 
+    "listener": {
+      "TO": {
+        "to": 1
+      }, 
+      "VBG": {
+        "awaiting": 1
+      }
+    }, 
+    "joint": {
+      "JJ": {
+        "soviet-french": 2
+      }
+    }, 
+    "12": {
+      "NNP": {
+        "january": 1
+      }
+    }, 
+    "words": {
+      "VBP": {
+        "are": 1, 
+        "inherit": 1
+      }, 
+      "VBG": {
+        "ending": 1
+      }
+    }, 
+    "coordinating": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "gezeli-ye": {
+      "NNP": {
+        "sofla": 1
+      }
+    }, 
+    "during": {
+      "DT": {
+        "the": 3
+      }, 
+      "NNP": {
+        "world": 1
+      }
+    }, 
+    "awaiting": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "munch": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    ";": {
+      "RB": {
+        "however": 1
+      }, 
+      "NNP": {
+        "cross": 1
+      }
+    }, 
+    "high-burden": {
+      "NN": {
+        "country": 1
+      }
+    }, 
+    "areas": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "runs": {
+      "VBD": {
+        "batted": 2
+      }, 
+      "IN": {
+        "through": 1
+      }
+    }, 
+    "tremiti": {
+      "NNP": {
+        "islands": 1
+      }
+    }, 
+    "resource": {
+      "NN": {
+        "development": 1
+      }
+    }, 
+    "\u0445\u043e\u0440\u043e\u0448\u0430\u044f": {
+      "NNP": {
+        "[": 1
+      }
+    }, 
+    "artist": {
+      ".": {
+        ".": 1
+      }, 
+      "NNP": {
+        "zola": 1
+      }
+    }, 
+    "rebranded": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "h": {
+      "NNP": {
+        "]": 1
+      }
+    }, 
+    "versions": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "method": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "bag": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "kuchinskaia": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "\u201chitting": {
+      "DT": {
+        "a": 1
+      }
+    }, 
+    "she": {
+      "VBZ": {
+        "bursts": 1, 
+        "'s": 1
+      }, 
+      "VBD": {
+        "became": 1
+      }
+    }, 
+    "activity": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "khuzestan": {
+      "NNP": {
+        "province": 2
+      }
+    }, 
+    "finishing": {
+      "CD": {
+        "8th": 1
+      }
+    }, 
+    "fixed": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "where": {
+      "RBS": {
+        "most": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "NN": {
+        "conatus": 1
+      }
+    }, 
+    "functionality": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "wrote": {
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "welaj": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "available": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "recendendi": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "ethereal\u2014and": {
+      "RB": {
+        "doubly": 1
+      }
+    }, 
+    "reference": {
+      "CD": {
+        "1943": 1
+      }
+    }, 
+    "drafted": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "acquired": {
+      "NNP": {
+        "sikorsky": 1
+      }
+    }, 
+    "national": {
+      "NNP": {
+        "football": 2, 
+        "malaria": 1
+      }
+    }, 
+    "inquiry": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "operates": {
+      "VBN": {
+        "scheduled": 1
+      }
+    }, 
+    "zones": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "culture": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "are": {
+      "JJ": {
+        "many": 1, 
+        "major": 1, 
+        "dramatic": 1, 
+        "akin": 1
+      }, 
+      "NNS": {
+        "matters": 1
+      }, 
+      "VBN": {
+        "sustained": 1, 
+        "overstretched": 1, 
+        "inserted": 1, 
+        "blessed": 1, 
+        "delivered": 1
+      }, 
+      "RB": {
+        "always": 2, 
+        "thus": 1, 
+        "particularly": 1, 
+        "otherwise": 1
+      }, 
+      "NNP": {
+        "tori": 1
+      }
+    }, 
+    "alidaunia": {
+      "VBD": {
+        "was": 1
+      }, 
+      "NNP": {
+        "s.r.l": 1
+      }
+    }, 
+    "operated": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "simultaneously": {
+      "IN": {
+        "at": 1
+      }
+    }, 
+    "kuchinsky": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "hammer": {
+      "NNP": {
+        "horror": 1
+      }
+    }, 
+    "subject": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "brazil": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "recording": {
+      "JJ": {
+        "artist": 1
+      }
+    }, 
+    "still": {
+      "VBZ": {
+        "demonstrates": 1
+      }
+    }, 
+    "ome": {
+      "NNS": {
+        "singers": 1
+      }
+    }, 
+    "record": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "federal": {
+      ",": {
+        ",": 1
+      }, 
+      "NN": {
+        "government": 1
+      }, 
+      "NNP": {
+        "medical": 1
+      }
+    }, 
+    "movie": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "away": {
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "leaving": {
+      "NNP": {
+        "salyut": 1
+      }
+    }, 
+    "undocked": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "unmistakably": {
+      "JJ": {
+        "theirs": 1
+      }
+    }, 
+    "1978": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "iri": {
+      "CC": {
+        "and": 1
+      }, 
+      "VBD": {
+        "retired": 1
+      }
+    }, 
+    "state": {
+      "CC": {
+        "and": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "verbs": {
+      "NNP": {
+        "\u0438\u043c\u0435\u0442\u044c": 1
+      }
+    }, 
+    "various": {
+      "NNS": {
+        "shades": 1
+      }
+    }, 
+    "recognisable": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "call": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "progress": {
+      "VBD": {
+        "pointed": 1
+      }, 
+      "CD": {
+        "13": 5
+      }
+    }, 
+    "8th": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "previous": {
+      "NNS": {
+        "releases": 1
+      }
+    }, 
+    "approach": {
+      ".": {
+        ".": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "across": {
+      "JJ": {
+        "geopolitical": 1
+      }, 
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "doubly": {
+      "RB": {
+        "eerie": 1
+      }
+    }, 
+    "preserve": {
+      "NNS": {
+        "slots": 1
+      }
+    }, 
+    "solo": {
+      "NNS": {
+        "operations": 1
+      }
+    }, 
+    "we": {
+      "VBP": {
+        "don\u2019t": 1, 
+        "separate": 1
+      }
+    }, 
+    "never": {
+      "JJ": {
+        "melodramatic": 1
+      }
+    }, 
+    "terms": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "august": {
+      "CD": {
+        "1982": 1
+      }
+    }, 
+    "parent": {
+      "NN": {
+        "company": 1
+      }
+    }, 
+    "era": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "s-61": {
+      "TO": {
+        "to": 1
+      }, 
+      "NN": {
+        "dugaldo.it": 1
+      }
+    }, 
+    "weak": {
+      ".": {
+        ".": 1
+      }, 
+      "IN": {
+        "during": 1
+      }
+    }, 
+    "style": {
+      "VBZ": {
+        "has": 1
+      }
+    }, 
+    "however": {
+      ",": {
+        ",": 4
+      }
+    }, 
+    "neonatal": {
+      "NN": {
+        "mortality": 1
+      }
+    }, 
+    "aircraft": {
+      "NN": {
+        "maintenance": 1
+      }
+    }, 
+    "theurgy": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "french": {
+      "NN": {
+        "astronaut": 1
+      }
+    }, 
+    "key": {
+      "JJ": {
+        "technical": 1
+      }
+    }, 
+    "singers": {
+      "VBP": {
+        "are": 1
+      }
+    }, 
+    "monitored": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "tsup": {
+      "MD": {
+        "could": 1
+      }
+    }, 
+    "inertia": {
+      "CC": {
+        "and": 1
+      }, 
+      ":": {
+        "...": 1
+      }
+    }, 
+    "concentrated": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "received": {
+      "DT": {
+        "a": 1
+      }, 
+      "NNS": {
+        "visits": 1
+      }, 
+      "JJ": {
+        "many": 1
+      }
+    }, 
+    "tiers": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "weeks": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "last": {
+      "CD": {
+        "two": 1
+      }
+    }, 
+    "missions": {
+      "MD": {
+        "could": 1
+      }
+    }, 
+    "irregular": {
+      "NN": {
+        "blood": 2
+      }
+    }, 
+    "always": {
+      "VBN": {
+        "feminine": 1
+      }, 
+      "JJ": {
+        "masculine": 1
+      }
+    }, 
+    "epidemics": {
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "many": {
+      "NNS": {
+        "philosophers": 1, 
+        "passengers": 1
+      }, 
+      "NN": {
+        "risk": 1
+      }
+    }, 
+    "region": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "liters": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "second-largest": {
+      "NN": {
+        "number": 1
+      }
+    }, 
+    "edgar": {
+      "NNP": {
+        "allan": 1
+      }
+    }, 
+    "a109": {
+      "CD": {
+        "1": 1
+      }
+    }, 
+    "players": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "connection": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "became": {
+      "DT": {
+        "the": 1
+      }, 
+      "RB": {
+        "'completely": 1
+      }
+    }, 
+    "aura": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "newfound": {
+      "NN": {
+        "sense": 1
+      }
+    }, 
+    "nicks": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "studio": {
+      "NN": {
+        "album": 1
+      }
+    }, 
+    "contribution": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "adapted": {
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "comes": {
+      "TO": {
+        "to": 1
+      }, 
+      "RP": {
+        "across": 1
+      }
+    }, 
+    "otherwise": {
+      "VBN": {
+        "used": 1
+      }
+    }, 
+    "among": {
+      "NNS": {
+        "adults": 1
+      }, 
+      "JJ": {
+        "other": 1, 
+        "itinerant": 1
+      }
+    }, 
+    "16:29": {
+      "NNP": {
+        "gmt": 1
+      }
+    }, 
+    "rawness": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "author": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "space": {
+      "CD": {
+        "six": 1
+      }, 
+      "IN": {
+        "through": 1, 
+        "in": 1
+      }, 
+      "NN": {
+        "station": 2
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "can": {
+      "VB": {
+        "be": 1
+      }, 
+      "NNP": {
+        "dance": 1
+      }
+    }, 
+    "him": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "tori": {
+      "NNP": {
+        "amos": 1
+      }
+    }, 
+    "s.p.a": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "narrower": {
+      "NN": {
+        "today": 1
+      }
+    }, 
+    "period": {
+      ":": {
+        ":": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "epidemic": {
+      "VBZ": {
+        "is": 1
+      }, 
+      "VBD": {
+        "grew": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "29": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "concepts": {
+      "WDT": {
+        "which": 1
+      }
+    }, 
+    "franchise": {
+      "NN": {
+        "history": 1
+      }
+    }, 
+    "agusta": {
+      "NNP": {
+        "a109": 1
+      }
+    }, 
+    "initiative": {
+      "WDT": {
+        "which": 1
+      }
+    }, 
+    "supplies": {
+      "VBN": {
+        "delivered": 1
+      }
+    }, 
+    "village": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "majestic": {
+      "NN": {
+        "voice": 1
+      }
+    }, 
+    "self-imprisonment": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "slots": {
+      "IN": {
+        "at": 1
+      }
+    }, 
+    "poe": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "[": {
+      ":": {
+        "...": 1
+      }, 
+      "NN": {
+        "h": 1, 
+        "s": 1, 
+        "b\u0268t\u02b2": 1, 
+        "im\u02b2et\u02b2": 1, 
+        "kakaja": 1
+      }
+    }, 
+    "simpler": {
+      "NNS": {
+        "structures": 1
+      }
+    }, 
+    "april": {
+      "CD": {
+        "14": 1
+      }
+    }, 
+    "described": {
+      "DT": {
+        "a": 1
+      }
+    }, 
+    "sam": {
+      "NNP": {
+        "shepherd": 1
+      }
+    }, 
+    "why": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "union": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "create": {
+      "DT": {
+        "an": 1
+      }
+    }, 
+    "political": {
+      "NNS": {
+        "challenges": 1
+      }, 
+      "NN": {
+        "determination": 1
+      }
+    }, 
+    "three": {
+      "NNS": {
+        "tiers": 1, 
+        "ships": 1
+      }
+    }, 
+    "been": {
+      "DT": {
+        "the": 1
+      }, 
+      "VBN": {
+        "refined": 1, 
+        "made": 1
+      }, 
+      "RB": {
+        "previously": 1, 
+        "unanimously": 1
+      }, 
+      "IN": {
+        "in": 2
+      }
+    }, 
+    ".": {
+      "PRP$": {
+        "its": 3, 
+        "her": 1
+      }, 
+      "WRB": {
+        "when": 2
+      }, 
+      "JJ": {
+        "russian": 1, 
+        "traffic": 1, 
+        "private": 1
+      }, 
+      "NN": {
+        "note": 1, 
+        "training": 1, 
+        "mass": 1, 
+        "today": 1, 
+        "care": 1
+      }, 
+      "VBG": {
+        "docking": 1
+      }, 
+      "``": {
+        "``": 1
+      }, 
+      "PRP": {
+        "it": 11, 
+        "he": 3
+      }, 
+      "CD": {
+        "2002": 1
+      }, 
+      "''": {
+        "''": 8
+      }, 
+      "VB": {
+        "gender": 1
+      }, 
+      "EX": {
+        "there": 2
+      }, 
+      "RB": {
+        "later": 1, 
+        "consequently": 1, 
+        "however": 1, 
+        "once": 1
+      }, 
+      "IN": {
+        "among": 1, 
+        "after": 1, 
+        "for": 2, 
+        "on": 2, 
+        "under": 1, 
+        "while": 2, 
+        "as": 3, 
+        "at": 5, 
+        "although": 1, 
+        "in": 11, 
+        "during": 2, 
+        "along": 1, 
+        "with": 1
+      }, 
+      "VBZ": {
+        "is": 1
+      }, 
+      "DT": {
+        "a": 3, 
+        "this": 6, 
+        "the": 34, 
+        "some": 1
+      }, 
+      "NNS": {
+        "credits": 1
+      }, 
+      "NNP": {
+        "bert": 1, 
+        "lebedev": 1, 
+        "sam": 1, 
+        "wharc": 1, 
+        "april": 1, 
+        "civil": 1, 
+        "frank": 1, 
+        "agusta-bell": 1, 
+        "valentin": 1, 
+        "youth": 1, 
+        "conatus": 1, 
+        "second": 2, 
+        "uss": 1, 
+        "may": 1, 
+        "alidaunia": 1, 
+        "nigeria": 3, 
+        "november": 1
+      }
+    }, 
+    "center": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "volareweb.com": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "slowly": {
+      "VBN": {
+        "been": 1
+      }
+    }, 
+    "resupply": {
+      "NN": {
+        "spacecraft": 1, 
+        "ship": 2
+      }
+    }, 
+    "maintenance": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "cardiovascular": {
+      "NN": {
+        "echography": 1
+      }
+    }, 
+    "helicopter": {
+      "NN": {
+        "airline": 1
+      }
+    }, 
+    "waste": {
+      "IN": {
+        "into": 1
+      }
+    }, 
+    "topics": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "systems": {
+      "MD": {
+        "may": 2
+      }, 
+      "NN": {
+        "theory": 1
+      }, 
+      ".": {
+        ".": 2
+      }
+    }, 
+    "homosexual": {
+      "NNS": {
+        "practices": 2
+      }
+    }, 
+    "families": {
+      ".": {
+        ".": 2
+      }
+    }, 
+    "1950s": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "both": {
+      "JJ": {
+        "electronic": 1
+      }, 
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "aero": {
+      "NNP": {
+        "trasporti": 1
+      }
+    }, 
+    "new": {
+      "IN": {
+        "apartment.\u201d": 1
+      }, 
+      "JJ": {
+        "financial": 1
+      }, 
+      "NNP": {
+        "ford": 1, 
+        "salyut": 1, 
+        "order": 1, 
+        "york": 1
+      }
+    }, 
+    "sort": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "2015": {
+      ".": {
+        ".": 2
+      }
+    }, 
+    "whatever": {
+      "RB": {
+        "biosphere": 1
+      }
+    }, 
+    "dramatic": {
+      "CC": {
+        "but": 1
+      }
+    }, 
+    "determination": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "elevating": {
+      "RB": {
+        "as": 1
+      }
+    }, 
+    "derivative": {
+      "NN": {
+        "concept": 1
+      }
+    }, 
+    "receive": {
+      "NNP": {
+        "soyuz": 1
+      }
+    }, 
+    "ivanchenkov": {
+      ":": {
+        ";": 1
+      }
+    }, 
+    "c1": {
+      "CD": {
+        "2": 1
+      }
+    }, 
+    "general": {
+      ",": {
+        ",": 1
+      }, 
+      "NN": {
+        "manager": 1, 
+        "population": 1
+      }
+    }, 
+    "former": {
+      "NNP": {
+        "expo": 1, 
+        "american": 1, 
+        "soviet": 1
+      }
+    }, 
+    "arisen": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "naval": {
+      "NNS": {
+        "vessels": 1
+      }, 
+      "NNP": {
+        "registry": 1
+      }
+    }, 
+    "sound": {
+      ",": {
+        ",": 1
+      }, 
+      "VBD": {
+        "argued": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "IN": {
+        "from": 1, 
+        "like": 1
+      }
+    }, 
+    "athletics": {
+      ".": {
+        ".": 1
+      }, 
+      "NN": {
+        "season": 1, 
+        "team": 2
+      }, 
+      "IN": {
+        "of": 1, 
+        "from": 1
+      }
+    }, 
+    "wins": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "conception": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "license": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "auxiliary": {
+      "NN": {
+        "verbs": 1
+      }
+    }, 
+    "reliable": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "conserved": {
+      "JJ": {
+        "talian": 1
+      }
+    }, 
+    "air": {
+      "NNPS": {
+        "one": 1
+      }, 
+      "NN": {
+        "taxi/charter": 1, 
+        "ambulance": 1
+      }
+    }, 
+    "n't": {
+      "VB": {
+        "close": 1, 
+        "look": 1
+      }
+    }, 
+    "stevie": {
+      "NNP": {
+        "nicks": 1
+      }
+    }, 
+    "while": {
+      "DT": {
+        "the": 2
+      }, 
+      "NN": {
+        "macarr\u00f4nico": 1
+      }, 
+      "JJ": {
+        "other": 1
+      }, 
+      "IN": {
+        "aboard": 1
+      }
+    }, 
+    "country": {
+      ".": {
+        ".": 2
+      }
+    }, 
+    "situation": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "voice": {
+      "''": {
+        "''": 1
+      }, 
+      "VBZ": {
+        "remains": 1, 
+        "is": 1
+      }, 
+      "WDT": {
+        "that": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "philosophies": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "ramhormoz": {
+      "NNP": {
+        "county": 1
+      }
+    }, 
+    "vessels": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "macarr\u00f4nico": {
+      "VBZ": {
+        "is": 1
+      }, 
+      "RB": {
+        "well": 1
+      }
+    }, 
+    "kingdom": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "hatch": {
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "'-ung": {
+      "POS": {
+        "'": 1
+      }
+    }, 
+    "kuczynski": {
+      "IN": {
+        "at": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "prevalence": {
+      "NN": {
+        "rate": 2
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "almost": {
+      "CD": {
+        "28": 1
+      }
+    }, 
+    "is": {
+      "``": {
+        "``": 1
+      }, 
+      "VBG": {
+        "emerging": 1, 
+        "elevating": 1
+      }, 
+      "JJ": {
+        "simple": 1, 
+        "reliable": 1, 
+        "complex": 1, 
+        "true": 1
+      }, 
+      "NN": {
+        "today": 1
+      }, 
+      "RBR": {
+        "more": 1
+      }, 
+      "VBN": {
+        "limited": 1, 
+        "compared": 1, 
+        "subdivided": 1, 
+        "spoken": 1, 
+        "explained": 1, 
+        "used": 1, 
+        "known": 1
+      }, 
+      "RB": {
+        "severely": 1, 
+        "partly": 1, 
+        "often": 1, 
+        "mostly": 1, 
+        "largely": 1, 
+        "far": 1, 
+        "merely": 1, 
+        "sometimes": 1, 
+        "definitely": 1, 
+        "so": 1, 
+        "undeniably": 1, 
+        "somewhat": 1, 
+        "not": 3, 
+        "instantly": 1
+      }, 
+      "IN": {
+        "from": 1
+      }, 
+      "WRB": {
+        "why": 1
+      }, 
+      "DT": {
+        "a": 10, 
+        "the": 2, 
+        "an": 1
+      }, 
+      "CD": {
+        "28": 1, 
+        "143": 1, 
+        "one": 1
+      }, 
+      "NNP": {
+        "ramshir": 1, 
+        "gino": 1, 
+        "kuczy\u0144ska": 1
+      }
+    }, 
+    "ferno": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "thus": {
+      "VB": {
+        "be": 1
+      }, 
+      "JJ": {
+        "subject": 1
+      }
+    }, 
+    "it": {
+      "MD": {
+        "may": 1, 
+        "will": 2
+      }, 
+      "VBD": {
+        "received": 2, 
+        "used": 1, 
+        "started": 1, 
+        "ceased": 1, 
+        "operated": 1, 
+        "was": 5
+      }, 
+      ".": {
+        ".": 1
+      }, 
+      "RB": {
+        "significantly": 1
+      }, 
+      "IN": {
+        "as": 1
+      }, 
+      "VBZ": {
+        "runs": 1, 
+        "'s": 1, 
+        "remains": 1, 
+        "jingles": 1, 
+        "is": 6, 
+        "operates": 1, 
+        "[": 1, 
+        "comes": 1
+      }
+    }, 
+    "according": {
+      "TO": {
+        "to": 4
+      }
+    }, 
+    "ii": {
+      ",": {
+        ",": 1
+      }, 
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "releases": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "against": {
+      "PRP$": {
+        "their": 1
+      }, 
+      "JJ": {
+        "numerous": 1
+      }
+    }, 
+    "in": {
+      "PRP$": {
+        "his": 2, 
+        "its": 1
+      }, 
+      "NN": {
+        "spite": 1, 
+        "space": 2, 
+        "orbit": 1, 
+        "advocacy": 1, 
+        "note": 2, 
+        "health": 1, 
+        "existence": 1, 
+        "mortality": 1
+      }, 
+      "CD": {
+        "11": 1, 
+        "1990": 1, 
+        "1984": 1, 
+        "1985": 2, 
+        "1982": 2, 
+        "23": 1, 
+        "9,296": 1, 
+        "1960": 1, 
+        "1978": 1, 
+        "1970": 1, 
+        "1967": 1, 
+        "1956": 1, 
+        "1992": 1, 
+        "2005": 1, 
+        "2015": 1, 
+        "20": 1, 
+        "2008": 1, 
+        "1959": 1, 
+        "1916": 1
+      }, 
+      "WDT": {
+        "which": 1
+      }, 
+      "PRP": {
+        "it": 1
+      }, 
+      "JJ": {
+        "german": 1, 
+        "southern": 1, 
+        "general": 1, 
+        "early": 1, 
+        "other": 1, 
+        "key": 1, 
+        "franchise": 1, 
+        "biological": 1, 
+        "gravity-gradient": 1, 
+        "public": 1
+      }, 
+      "DT": {
+        "a": 3, 
+        "the": 21, 
+        "some": 1, 
+        "all": 1, 
+        "that": 1
+      }, 
+      "NNS": {
+        "terms": 1, 
+        "systems": 1
+      }, 
+      "NNP": {
+        "december": 1, 
+        "foggia": 1, 
+        "iran": 1, 
+        "august": 1, 
+        "area": 1, 
+        "conatus": 1, 
+        "'-ung": 1, 
+        "ferno": 1, 
+        "downtown": 1, 
+        "iiip3": 1, 
+        "lagos": 1, 
+        "khuzestan": 1, 
+        "qiantan": 1, 
+        "abdoliyeh-ye": 1, 
+        "polish": 1, 
+        "russian": 2, 
+        "march": 1, 
+        "nigeria": 8, 
+        "germany": 1, 
+        "german": 1
+      }
+    }, 
+    "ready": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "return": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "patti": {
+      "NNP": {
+        "smith": 1
+      }
+    }, 
+    "if": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "result": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "soviet-french": {
+      "NNS": {
+        "experiments": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "nika": {
+      "NNP": {
+        "roza": 1
+      }
+    }, 
+    "italy": {
+      ",": {
+        ",": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "syntactic": {
+      "NN": {
+        "structure": 1
+      }
+    }, 
+    "james": {
+      "VBD": {
+        "noticed": 1
+      }
+    }, 
+    "began": {
+      "DT": {
+        "a": 1
+      }
+    }, 
+    "problems": {
+      "VBP": {
+        "arose": 1
+      }
+    }, 
+    "s": {
+      "NNP": {
+        "]": 1
+      }
+    }, 
+    "same": {
+      "NN": {
+        "subtlety": 1, 
+        "context": 1, 
+        "time": 1
+      }
+    }, 
+    "any": {
+      "VBN": {
+        "given": 1
+      }
+    }, 
+    "paulo": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "another": {
+      "JJ": {
+        "new": 1
+      }
+    }, 
+    "complex": {
+      "CC": {
+        "and": 1
+      }, 
+      "NNS": {
+        "systems": 1
+      }
+    }, 
+    "upon": {
+      "NNP": {
+        "spinoza": 1
+      }
+    }, 
+    "portugu\u00eas": {
+      "NNP": {
+        "macarr\u00f4nico": 1
+      }
+    }, 
+    "widely": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "struggling": {
+      "IN": {
+        "against": 1
+      }
+    }, 
+    "physical": {
+      "NNS": {
+        "bodies": 1
+      }
+    }, 
+    "jets": {
+      "VBD": {
+        "were": 1
+      }
+    }, 
+    "feminine": {
+      "NNP": {
+        "\u043a\u0430\u043a\u0430\u044f": 1
+      }, 
+      "NN": {
+        "counterpart": 1, 
+        "die": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "higher": {
+      "NN": {
+        "risk": 1
+      }
+    }, 
+    "development": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "satellite": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "used": {
+      "TO": {
+        "to": 2
+      }, 
+      "DT": {
+        "both": 1
+      }, 
+      "WRB": {
+        "where": 1
+      }, 
+      "IN": {
+        "by": 1, 
+        "for": 1, 
+        "in": 2
+      }
+    }, 
+    "context": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "coached": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "frenchmen": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "social": {
+      "NNS": {
+        "studies": 1, 
+        "systems": 1
+      }
+    }, 
+    "births": {
+      "VBZ": {
+        "is": 1
+      }, 
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "radically": {
+      "VBG": {
+        "reinventing": 1
+      }
+    }, 
+    "arose": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "hand": {
+      "VBD": {
+        "launched": 1
+      }
+    }, 
+    "driven": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "moment": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "levels": {
+      "NNS": {
+        "introduces": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "arrived": {
+      "IN": {
+        "at": 1
+      }
+    }, 
+    "purpose": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "necessity": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "haunting": {
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "%": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "opera-trained": {
+      "NNP": {
+        "danilova": 1
+      }
+    }, 
+    "\u201cwe": {
+      "VBD": {
+        "filled": 1
+      }
+    }, 
+    "opportunity": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "six": {
+      "NNS": {
+        "weeks": 1
+      }
+    }, 
+    "airlock": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "gorecki": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "relies": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "whereby": {
+      "JJ": {
+        "complex": 1
+      }
+    }, 
+    "largely": {
+      "VBN": {
+        "superseded": 1
+      }, 
+      "JJ": {
+        "unregulated": 1
+      }
+    }, 
+    "pennsylvania": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "1976": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "eerie": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "well": {
+      "IN": {
+        "as": 1, 
+        "until": 1
+      }
+    }, 
+    "eps": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "inherit": {
+      "PRP$": {
+        "their": 1
+      }
+    }, 
+    "1970": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "siouxsie": {
+      "NNP": {
+        "sioux": 1
+      }
+    }, 
+    "mlb": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "melodramatic": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "practices": {
+      ",": {
+        ",": 2
+      }, 
+      "IN": {
+        "among": 1
+      }
+    }, 
+    "31": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "launched": {
+      "DT": {
+        "an": 1
+      }, 
+      "IN": {
+        "with": 1, 
+        "from": 1
+      }
+    }, 
+    "aleksandr": {
+      "NNP": {
+        "sergeyevich": 1
+      }
+    }, 
+    "centres": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "coordinate": {
+      "NNS": {
+        "programs": 1
+      }
+    }, 
+    "the": {
+      "``": {
+        "``": 1
+      }, 
+      "NNPS": {
+        "athletics": 1
+      }, 
+      "VBG": {
+        "shifting": 1
+      }, 
+      "RB": {
+        "then": 1
+      }, 
+      "NN": {
+        "control": 1, 
+        "impression": 1, 
+        "concept": 2, 
+        "phenomenon": 1, 
+        "attitude": 1, 
+        "resident": 1, 
+        "station": 6, 
+        "speaker": 1, 
+        "idea": 1, 
+        "epidemic": 1, 
+        "county": 4, 
+        "spacecraft": 3, 
+        "discography": 1, 
+        "hatch": 1, 
+        "lifetime": 1, 
+        "rough": 1, 
+        "singing": 1, 
+        "operation": 1, 
+        "size": 1, 
+        "album": 2, 
+        "city": 1, 
+        "death": 1, 
+        "district": 1, 
+        "paulistano": 1, 
+        "crew": 5, 
+        "case": 1, 
+        "state": 1, 
+        "spread": 1, 
+        "music": 1, 
+        "resupply": 2, 
+        "capital": 1, 
+        "policy": 1, 
+        "scope": 1, 
+        "team": 1, 
+        "conflict": 1, 
+        "principle": 2, 
+        "foreground": 1, 
+        "vocabulary": 1, 
+        "conatus": 2, 
+        "mission": 1, 
+        "coherence": 1, 
+        "nation": 1, 
+        "listener": 2, 
+        "feminine": 1, 
+        "journey": 1, 
+        "authority": 1, 
+        "necessity": 1, 
+        "remainder": 1, 
+        "vaccine": 1, 
+        "population": 1, 
+        "sound": 1, 
+        "name": 1, 
+        "country": 1, 
+        "university": 1, 
+        "work": 2, 
+        "advent": 1, 
+        "centrifugal": 1, 
+        "south": 1, 
+        "later": 1, 
+        "airline": 7, 
+        "misery": 1, 
+        "situation": 1, 
+        "problem": 1, 
+        "opportunity": 1, 
+        "event": 1, 
+        "fact": 1, 
+        "unpacking": 1
+      }, 
+      "RBR": {
+        "more": 1
+      }, 
+      "JJR": {
+        "earlier": 1
+      }, 
+      "CD": {
+        "73rd": 1, 
+        "1950s": 1, 
+        "1942": 1, 
+        "47": 1, 
+        "1974": 1, 
+        "three": 1, 
+        "2002": 1, 
+        "1930s": 1, 
+        "2006": 2, 
+        "1943": 1, 
+        "2010": 1
+      }, 
+      "JJ": {
+        "manned": 1, 
+        "old": 1, 
+        "german": 2, 
+        "epidemic": 1, 
+        "general": 1, 
+        "nigerian": 1, 
+        "interim": 1, 
+        "religious": 1, 
+        "syntactic": 1, 
+        "federal": 2, 
+        "initial": 1, 
+        "political": 1, 
+        "same": 3, 
+        "next": 1, 
+        "intermediate": 1, 
+        "station\u2019s": 1, 
+        "aft": 1, 
+        "linguistic": 1, 
+        "public": 1, 
+        "spinozistic": 1, 
+        "corresponding": 1, 
+        "scientific": 1, 
+        "german-russian": 1, 
+        "uncommon": 1, 
+        "neonatal": 1, 
+        "unmanned": 1, 
+        "archaic": 1, 
+        "new": 1, 
+        "opera-trained": 1, 
+        "former": 2, 
+        "secondary": 1, 
+        "early": 1, 
+        "rare": 1, 
+        "third": 1, 
+        "following": 1, 
+        "self-regulating": 1, 
+        "second-largest": 1, 
+        "large": 1, 
+        "soyuz-t": 1, 
+        "mixed": 2, 
+        "military": 1, 
+        "20th": 1, 
+        "first": 5
+      }, 
+      "IN": {
+        "under": 1
+      }, 
+      "NNS": {
+        "affairs": 1, 
+        "dimensions": 1, 
+        "malaria": 1, 
+        "helicopters": 1, 
+        "topics": 1, 
+        "people": 1, 
+        "results": 1, 
+        "languages": 1, 
+        "sciences": 1, 
+        "supplies": 1, 
+        "athletics": 1
+      }, 
+      "NNP": {
+        "portuguese": 1, 
+        "foggia": 1, 
+        "cincinnati": 1, 
+        "national": 3, 
+        "baikonur": 1, 
+        "president": 1, 
+        "elivie": 1, 
+        "united": 5, 
+        "t-6": 2, 
+        "zola": 1, 
+        "shanghai": 1, 
+        "philadelphia": 2, 
+        "lions": 1, 
+        "new": 1, 
+        "soyuz-t": 1, 
+        "a": 1, 
+        "hiv": 2, 
+        "u.s.": 2, 
+        "salyut": 2, 
+        "soyuz": 3, 
+        "progress": 1, 
+        "world": 1, 
+        "tsup": 1, 
+        "mlb": 1, 
+        "tremiti": 1, 
+        "central": 2, 
+        "university": 1, 
+        "nfl": 1, 
+        "detroit": 3, 
+        "elbrus": 2, 
+        "american": 1, 
+        "eli-linee": 1, 
+        "soviet": 1
+      }
+    }, 
+    "chemistry": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "soviet": {
+      "NNS": {
+        "cosmonauts": 1
+      }, 
+      "NNP": {
+        "union": 2
+      }
+    }, 
+    "bodies": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "left": {
+      "NNP": {
+        "tiger": 1
+      }
+    }, 
+    "ropes": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "lebedev": {
+      ",": {
+        ",": 2
+      }, 
+      "VBD": {
+        "said": 1, 
+        "remarked": 1
+      }
+    }, 
+    "abilities": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "drawn": {
+      "IN": {
+        "into": 1
+      }
+    }, 
+    "high-risk": {
+      "NNS": {
+        "behaviors": 1, 
+        "practices": 1
+      }, 
+      "JJ": {
+        "heterosexual": 2
+      }
+    }, 
+    "quoted": {
+      "NNP": {
+        "chr\u00e9tien": 1
+      }
+    }, 
+    "italiana": {
+      "NNP": {
+        "esercizio": 1
+      }
+    }, 
+    "being": {
+      ",": {
+        ",": 1
+      }, 
+      "VBN": {
+        "reconciled": 1
+      }
+    }, 
+    "percent": {
+      ".": {
+        ".": 2
+      }
+    }, 
+    "slavic": {
+      "NN": {
+        "feminine": 1, 
+        "male": 1
+      }
+    }, 
+    "docking": {
+      "NNS": {
+        "systems": 1
+      }, 
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "isolated": {
+      "NNS": {
+        "communities": 1
+      }
+    }, 
+    "eagles": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "communities": {
+      "RB": {
+        "primarily": 1
+      }
+    }, 
+    "interim": {
+      "JJ": {
+        "general": 1
+      }
+    }, 
+    "properties": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "human": {
+      "NN": {
+        "resource": 1
+      }
+    }, 
+    "behind": {
+      "DT": {
+        "this": 1
+      }
+    }, 
+    "polish": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "elivie-societ\u00e1": {
+      "NNP": {
+        "italiana": 1
+      }
+    }, 
+    "stridulum": {
+      "NNP": {
+        "ii": 2
+      }
+    }, 
+    "trimmings": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "move": {
+      "CC": {
+        "or": 1
+      }
+    }, 
+    "adding": {
+      "IN": {
+        "that": 1
+      }
+    }, 
+    "death": {
+      "IN": {
+        "of": 1, 
+        "for": 1
+      }
+    }, 
+    "nudge": {
+      "''": {
+        "''": 1
+      }
+    }, 
+    "dave": {
+      "NNP": {
+        "odom": 1
+      }
+    }, 
+    "sheldon": {
+      "NNP": {
+        "darnell": 1
+      }
+    }, 
+    "sciences": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "1959": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "workers": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "century": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "smith": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "except": {
+      "CD": {
+        "1": 1
+      }
+    }, 
+    "conflict": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "instrument": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "spread": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "4": {
+      "IN": {
+        "by": 1
+      }, 
+      "NNP": {
+        "agusta": 1
+      }
+    }, 
+    "critics": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "usage": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "role": {
+      "TO": {
+        "to": 1
+      }, 
+      "VBZ": {
+        "is": 1
+      }, 
+      "IN": {
+        "in": 2
+      }
+    }, 
+    "has": {
+      "DT": {
+        "the": 1, 
+        "no": 1
+      }, 
+      "VBN": {
+        "paired": 1, 
+        "been": 3, 
+        "embraced": 1, 
+        "recognized": 1
+      }, 
+      "CD": {
+        "one": 1
+      }
+    }, 
+    "34,821": {
+      "NNS": {
+        "passengers": 1
+      }
+    }, 
+    "momentum": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "impassable": {
+      "NN": {
+        "distance": 1
+      }
+    }, 
+    "scheduled": {
+      "NNS": {
+        "services": 1
+      }, 
+      "NN": {
+        "passenger": 1
+      }
+    }, 
+    "...": {
+      "DT": {
+        "the": 1
+      }, 
+      "NN": {
+        "]": 1
+      }
+    }, 
+    "1988\u20131993": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "explained": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "march": {
+      "CD": {
+        "1976": 1
+      }
+    }, 
+    "which": {
+      "VBZ": {
+        "identifies": 1, 
+        "is": 2
+      }, 
+      "DT": {
+        "the": 1
+      }, 
+      "VBP": {
+        "are": 1, 
+        "have": 1
+      }, 
+      "JJ": {
+        "german": 1
+      }, 
+      "NN": {
+        "conatus": 1
+      }
+    }, 
+    "government": {
+      "TO": {
+        "to": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "NN": {
+        "support": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "astronaut": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "implications": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "linate": {
+      "NNP": {
+        "airport": 2
+      }
+    }, 
+    "early": {
+      "NNS": {
+        "philosophies": 1
+      }, 
+      "CD": {
+        "1990s": 1
+      }
+    }, 
+    "matters": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "cultural": {
+      "NN": {
+        "conatus": 1
+      }
+    }, 
+    "otherworldly": {
+      "NN": {
+        "journey": 1
+      }
+    }, 
+    "traffic": {
+      "NN": {
+        "congestion": 1
+      }
+    }, 
+    "osotimehin": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "world": {
+      "NNP": {
+        "war": 1, 
+        "malaria": 1
+      }
+    }, 
+    "emergence": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "unique": {
+      "CC": {
+        "and": 1
+      }, 
+      "NN": {
+        "identifier": 1
+      }
+    }, 
+    "paulistano": {
+      "NN": {
+        "dialect": 1
+      }
+    }, 
+    "formal": {
+      "NN": {
+        "connection": 1
+      }
+    }, 
+    "desire": {
+      "CC": {
+        "or": 1
+      }
+    }, 
+    "frenchman": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "trash": {
+      "NN": {
+        "airlock": 1
+      }
+    }, 
+    "like": {
+      "DT": {
+        "a": 1
+      }, 
+      "VBG": {
+        "\u201chitting": 1
+      }, 
+      "NN": {
+        "we\u2019re": 1
+      }
+    }, 
+    "lost": {
+      "''": {
+        "'": 1
+      }
+    }, 
+    "onboard": {
+      "JJ": {
+        "automatic": 1
+      }
+    }, 
+    "miami": {
+      "NNP": {
+        "redhawks": 1
+      }
+    }, 
+    "88.7": {
+      "NNS": {
+        "minutes": 1
+      }
+    }, 
+    "57": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "popov": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "50": {
+      "NN": {
+        "%": 1
+      }
+    }, 
+    "bresson": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "foote": {
+      "NNS": {
+        "themes": 1
+      }
+    }, 
+    "unpacking": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "january": {
+      "CD": {
+        "2009": 1
+      }
+    }, 
+    "sharqi": {
+      "NNP": {
+        "rural": 1
+      }
+    }, 
+    "served": {
+      "IN": {
+        "as": 1
+      }
+    }, 
+    "manned": {
+      "NN": {
+        "spaceflight": 2
+      }, 
+      "NNP": {
+        "soyuz": 1
+      }
+    }, 
+    "page": {
+      "IN": {
+        "at": 2
+      }
+    }, 
+    "italian": {
+      "NNS": {
+        "languages": 1
+      }, 
+      "NN": {
+        "airline": 2
+      }
+    }, 
+    "portuguese": {
+      "VBN": {
+        "spoken": 1
+      }
+    }, 
+    "ab.102": {
+      "NNS": {
+        "helicopters": 1
+      }, 
+      "NNP": {
+        "agusta-bell": 1
+      }
+    }, 
+    "because": {
+      "DT": {
+        "the": 1
+      }, 
+      "VBG": {
+        "existing": 1
+      }, 
+      "PRP": {
+        "he": 1
+      }, 
+      "JJ": {
+        "russian": 1
+      }, 
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "old": {
+      "NNP": {
+        "alitalia-lai": 1
+      }
+    }, 
+    "often": {
+      "VBZ": {
+        "fades": 1
+      }, 
+      "VBN": {
+        "delivered": 1, 
+        "used": 1
+      }, 
+      "JJ": {
+        "sinister": 1
+      }
+    }, 
+    "xoro\u0282aja": {
+      "NN": {
+        "]": 1
+      }
+    }, 
+    "people": {
+      "VBD": {
+        "was": 1
+      }, 
+      "VBG": {
+        "living": 1
+      }, 
+      "IN": {
+        "in": 1
+      }, 
+      ".": {
+        ".": 2
+      }
+    }, 
+    "successfully": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "some": {
+      "MD": {
+        "may": 1
+      }, 
+      "NNS": {
+        "states": 1, 
+        "speakers": 1, 
+        "words": 1
+      }, 
+      "NN": {
+        "russophone": 1
+      }
+    }, 
+    "dead": {
+      "NNP": {
+        "can": 1
+      }
+    }, 
+    "pudong": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "brian": {
+      "``": {
+        "``": 1
+      }, 
+      "NNP": {
+        "howe": 1
+      }
+    }, 
+    "117": {
+      "NNP": {
+        "c1": 1
+      }
+    }, 
+    "lingers": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "organizing": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "transport": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "delivered": {
+      "IN": {
+        "with": 1
+      }, 
+      ".": {
+        ".": 2
+      }
+    }, 
+    "yachts": {
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "dimensions": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "for": {
+      "PRP$": {
+        "its": 1
+      }, 
+      "RB": {
+        "almost": 1, 
+        "privately": 1
+      }, 
+      "NN": {
+        "instance": 1, 
+        "patrol": 1, 
+        "film": 1
+      }, 
+      "CD": {
+        "27": 1
+      }, 
+      "JJ": {
+        "public": 1, 
+        "yellow": 1, 
+        "pregnant": 1
+      }, 
+      "DT": {
+        "this": 1, 
+        "the": 6
+      }, 
+      "NNS": {
+        "males": 1
+      }, 
+      "NNP": {
+        "conatus": 1, 
+        "nigeria": 1, 
+        "good": 1, 
+        "october": 1
+      }
+    }, 
+    "demonstrates": {
+      "``": {
+        "``": 1
+      }
+    }, 
+    "maps": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "though": {
+      "DT": {
+        "some": 1
+      }
+    }, 
+    "per": {
+      "CD": {
+        "1,000": 1, 
+        "100,000": 1
+      }
+    }, 
+    "throatily": {
+      "JJ": {
+        "majestic": 1
+      }
+    }, 
+    "25": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "talian": {
+      "NN": {
+        "dialect": 1
+      }
+    }, 
+    "station\u2019s": {
+      "NN": {
+        "orbit": 1
+      }
+    }, 
+    "tends": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "stopped": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "refer": {
+      "TO": {
+        "to": 2
+      }
+    }, 
+    "be": {
+      "POS": {
+        "'": 1
+      }, 
+      "DT": {
+        "a": 1
+      }, 
+      "``": {
+        "``": 1
+      }, 
+      "RB": {
+        "as": 1
+      }, 
+      "VBN": {
+        "influenced": 1, 
+        "considered": 1, 
+        "developed": 1, 
+        "docked": 1, 
+        "confused": 1, 
+        "related": 1
+      }
+    }, 
+    "biology": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "noise": {
+      "NN": {
+        "pollution": 1
+      }
+    }, 
+    "resolve": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "power": {
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "darnell": {
+      "NNP": {
+        "white": 1
+      }
+    }, 
+    "300": {
+      "NNS": {
+        "km": 1, 
+        "liters": 1
+      }
+    }, 
+    "june": {
+      "CD": {
+        "2": 1, 
+        "1982": 2
+      }
+    }, 
+    "pose": {
+      "JJ": {
+        "logistical": 1
+      }
+    }, 
+    "bk": {
+      "CD": {
+        "117": 1
+      }
+    }, 
+    "substratum": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "amos": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "shifting": {
+      "JJ": {
+        "emotional": 1
+      }
+    }, 
+    "odom": {
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "although": {
+      "JJ": {
+        "familiar": 1
+      }
+    }, 
+    "santo": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "51.7\u00b0": {
+      "NN": {
+        "period": 1
+      }
+    }, 
+    "exciting": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "by": {
+      "VBG": {
+        "struggling": 1, 
+        "dominating": 1
+      }, 
+      "JJ": {
+        "russian": 1, 
+        "many": 1, 
+        "american": 1, 
+        "multiple": 1, 
+        "high-risk": 1
+      }, 
+      "NN": {
+        "region": 1
+      }, 
+      "RBR": {
+        "more": 1
+      }, 
+      "RB": {
+        "now": 1
+      }, 
+      "DT": {
+        "a": 1, 
+        "the": 4, 
+        "some": 1
+      }, 
+      "NNS": {
+        "critics": 1, 
+        "people": 1, 
+        "scientists": 1
+      }, 
+      "NNP": {
+        "zola": 1, 
+        "brian": 1, 
+        "february": 1, 
+        "sacred": 1
+      }
+    }, 
+    "vaccine": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "stage": {
+      "NN": {
+        "name": 1
+      }
+    }, 
+    "on": {
+      "DT": {
+        "a": 1, 
+        "the": 1
+      }, 
+      "NNP": {
+        "elivie": 1, 
+        "october": 1, 
+        "september": 1, 
+        "june": 1, 
+        "may": 2, 
+        "'avalanche": 1
+      }, 
+      "PRP": {
+        "it": 1
+      }, 
+      "JJ": {
+        "bone-hard": 1, 
+        "overall": 1
+      }, 
+      "CD": {
+        "24": 2, 
+        "12": 1
+      }
+    }, 
+    "census": {
+      ",": {
+        ",": 2
+      }
+    }, 
+    "central": {
+      "NN": {
+        "business": 1
+      }, 
+      "NNP": {
+        "district": 2
+      }
+    }, 
+    "carried": {
+      "CD": {
+        "34,821": 1
+      }
+    }, 
+    "840": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "of": {
+      "``": {
+        "``": 1
+      }, 
+      "RB": {
+        "privately": 1, 
+        "sexually": 1
+      }, 
+      "NN": {
+        "mystery": 2, 
+        "solo": 1, 
+        "death": 1, 
+        "psychology": 1, 
+        "government": 1, 
+        "conatus": 1, 
+        "science": 1, 
+        "water": 1, 
+        "autopoiesis": 1, 
+        "today": 1, 
+        "purpose": 1, 
+        "alienation": 1, 
+        "healthcare": 1, 
+        "waste": 1, 
+        "emergence": 1, 
+        "voice": 1, 
+        "inertia": 2, 
+        "momentum": 1, 
+        "chemistry": 1
+      }, 
+      "JJS": {
+        "most": 1
+      }, 
+      "PRP$": {
+        "his": 1, 
+        "its": 2, 
+        "her": 3
+      }, 
+      "CD": {
+        "49": 1, 
+        "three": 1, 
+        "5": 1, 
+        "2014": 1, 
+        "2012": 1, 
+        "1000": 1
+      }, 
+      "JJ": {
+        "newtonian": 1, 
+        "yellow": 1, 
+        "american": 1, 
+        "other": 1, 
+        "military": 1, 
+        "mixed": 1, 
+        "biological": 1, 
+        "impassable": 1
+      }, 
+      "IN": {
+        "under": 1
+      }, 
+      "DT": {
+        "this": 1, 
+        "both": 1, 
+        "the": 23, 
+        "a": 4, 
+        "all": 1
+      }, 
+      "NNS": {
+        "languages": 1, 
+        "women": 2, 
+        "metaphysics": 1, 
+        "people": 1
+      }, 
+      "NNP": {
+        "s\u00e3o": 1, 
+        "grunwald": 1, 
+        "spinoza": 1, 
+        "milan-malpensa": 1, 
+        "stridulum": 1, 
+        "italy": 1, 
+        "shanghai": 1, 
+        "terminal": 1, 
+        "iri": 1, 
+        "hiv/aids": 1, 
+        "progress": 1, 
+        "ramshir": 1, 
+        "hiv": 1, 
+        "salyut": 1, 
+        "soyuz": 1, 
+        "sound": 2, 
+        "pennsylvania": 1, 
+        "edgar": 1, 
+        "pitchfork": 1, 
+        "miami": 1, 
+        "danilova": 1, 
+        "consequence": 1
+      }
+    }, 
+    "craft": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "sinister": {
+      "NN": {
+        "land": 1
+      }
+    }, 
+    "introduces": {
+      "NN": {
+        "complexity": 1
+      }
+    }, 
+    "recognized": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "airline": {
+      "IN": {
+        "of": 1
+      }, 
+      "VBG": {
+        "operating": 1
+      }, 
+      "VBN": {
+        "ceased": 1, 
+        "based": 1
+      }, 
+      "VBD": {
+        "acquired": 1, 
+        "was": 3, 
+        "carried": 1
+      }
+    }, 
+    "horizon": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "logistical": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "mixed": {
+      "NN": {
+        "language": 3
+      }, 
+      "NNP": {
+        "german": 1
+      }
+    }, 
+    "insufficient": {
+      "NN": {
+        "training": 1
+      }
+    }, 
+    "consequently": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "or": {
+      "DT": {
+        "the": 1
+      }, 
+      "NNP": {
+        "kuchinskiy": 1, 
+        "kuchinskaia": 1, 
+        "nemrus": 1, 
+        "kuchinskaya": 1
+      }, 
+      "NNS": {
+        "situations": 1
+      }, 
+      "VB": {
+        "have": 1
+      }, 
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "pollution": {
+      "CC": {
+        "and": 1
+      }, 
+      "VBP": {
+        "are": 1
+      }
+    }, 
+    "\u201cvery": {
+      "NN": {
+        "noisy": 1
+      }
+    }, 
+    "civil": {
+      "NN": {
+        "society": 1
+      }
+    }, 
+    "tight": {
+      "NN": {
+        "end": 1
+      }
+    }, 
+    "into": {
+      "DT": {
+        "the": 3
+      }, 
+      "NNP": {
+        "earth": 1, 
+        "alitalia": 1
+      }, 
+      "WDT": {
+        "which": 1
+      }, 
+      "NN": {
+        "ambivalence": 1, 
+        "planning": 1, 
+        "space": 2
+      }, 
+      "CD": {
+        "two": 1
+      }
+    }, 
+    "year": {
+      "CC": {
+        "and": 1
+      }, 
+      "IN": {
+        "after": 1, 
+        "before": 1
+      }
+    }, 
+    "blessed": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "due": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "down": {
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "nothing": {
+      "RB": {
+        "away": 1
+      }
+    }, 
+    "elmira": {
+      "CD": {
+        "1943": 1
+      }
+    }, 
+    "elivie.the": {
+      "NN": {
+        "response": 1
+      }
+    }, 
+    "primarily": {
+      "IN": {
+        "with": 1, 
+        "by": 1, 
+        "in": 1
+      }
+    }, 
+    "artists": {
+      "NNP": {
+        "conatus": 1
+      }
+    }, 
+    "1990s": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "refined": {
+      "RB": {
+        "enough": 1
+      }
+    }, 
+    "sports": {
+      "NNP": {
+        "center": 1
+      }
+    }, 
+    "mass": {
+      ":": {
+        ":": 1
+      }
+    }, 
+    "gauzy": {
+      "NNS": {
+        "trimmings": 1
+      }
+    }, 
+    "class": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "g": {
+      "NNP": {
+        "runs": 1, 
+        "strikeouts": 3
+      }
+    }, 
+    "1984": {
+      "PRP": {
+        "it": 1
+      }
+    }, 
+    "1985": {
+      ",": {
+        ",": 1
+      }, 
+      "PRP": {
+        "it": 1
+      }
+    }, 
+    "span": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "i": {
+      "VBP": {
+        "enter": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "her": {
+      "NNS": {
+        "abilities": 1
+      }, 
+      "NN": {
+        "instrument": 1, 
+        "stage": 1
+      }, 
+      "JJ": {
+        "self-imprisonment": 1, 
+        "last": 1, 
+        "previous": 1
+      }
+    }, 
+    "area": {
+      "NNP": {
+        "tecnica": 1
+      }
+    }, 
+    "inserted": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "support": {
+      "VBZ": {
+        "is": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "there": {
+      "VBZ": {
+        "'s": 1
+      }, 
+      "VBP": {
+        "are": 1
+      }, 
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "philadelphia": {
+      "NNP": {
+        "eagles": 1, 
+        "athletics": 4
+      }
+    }, 
+    "subsidiary": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "noticed": {
+      "NNS": {
+        "similarities": 1
+      }
+    }, 
+    "does": {
+      "RB": {
+        "n't": 1
+      }
+    }, 
+    "conservation": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "lions": {
+      "CC": {
+        "and": 1
+      }, 
+      "POS": {
+        "'": 1
+      }, 
+      ",": {
+        ",": 1
+      }, 
+      "NN": {
+        "season": 1
+      }, 
+      "IN": {
+        "at": 1, 
+        "in": 1
+      }
+    }, 
+    "low": {
+      "NN": {
+        "cost": 1
+      }
+    }, 
+    "49,238": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "music": {
+      "VBZ": {
+        "gives": 1
+      }, 
+      "WDT": {
+        "that": 1
+      }
+    }, 
+    "c.a.i": {
+      ".": {
+        ".": 3
+      }
+    }, 
+    ":": {
+      "DT": {
+        "the": 2
+      }, 
+      "CD": {
+        "51.7\u00b0": 1, 
+        "6850": 1, 
+        "88.7": 1, 
+        "4": 1, 
+        "189": 1, 
+        "233": 1
+      }, 
+      "NN": {
+        "elmira": 1
+      }, 
+      "NNP": {
+        "ramshir": 1, 
+        "alex": 1, 
+        "johnny": 1, 
+        "g": 4, 
+        "pos": 1, 
+        "dave": 1
+      }
+    }, 
+    "was": {
+      "VBG": {
+        "flying": 1
+      }, 
+      "JJ": {
+        "positive": 1, 
+        "suffer": 1, 
+        "weak": 1
+      }, 
+      "VBN": {
+        "separated": 1, 
+        "established": 2, 
+        "used": 1, 
+        "released": 1, 
+        "received": 1, 
+        "rebranded": 1, 
+        "drafted": 1, 
+        "docked": 1, 
+        "spent": 1, 
+        "licensed": 1, 
+        "produced": 1, 
+        "located": 1, 
+        "drawn": 1, 
+        "completed": 1, 
+        "merged": 1, 
+        "undocked": 1
+      }, 
+      "CD": {
+        "11": 1, 
+        "49,238": 1, 
+        "57": 1, 
+        "840": 1, 
+        "3.17": 1
+      }, 
+      "RB": {
+        "then": 1, 
+        "only": 1, 
+        "often": 1, 
+        "largely": 1
+      }, 
+      "IN": {
+        "before": 1
+      }, 
+      "DT": {
+        "a": 6, 
+        "the": 3, 
+        "an": 1
+      }
+    }, 
+    "war": {
+      "PRP": {
+        "i": 1
+      }
+    }, 
+    "don\u2019t": {
+      "DT": {
+        "need": 1
+      }
+    }, 
+    "project": {
+      "IN": {
+        "on": 1
+      }
+    }, 
+    "head": {
+      "NN": {
+        "office": 1
+      }
+    }, 
+    "only": {
+      "DT": {
+        "a": 1
+      }
+    }, 
+    "amateur": {
+      "NN": {
+        "radio": 1
+      }
+    }, 
+    "complete": {
+      "NNP": {
+        "hiv": 1
+      }
+    }, 
+    "newtonian": {
+      "NNS": {
+        "physics": 1
+      }
+    }, 
+    "tigers": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "pitcher": {
+      "IN": {
+        "for": 1
+      }
+    }, 
+    "singer": {
+      "NNP": {
+        "zola": 1
+      }
+    }, 
+    "but": {
+      "MD": {
+        "will": 1, 
+        "can": 1
+      }, 
+      "VBD": {
+        "played": 1
+      }, 
+      "JJR": {
+        "more": 1
+      }, 
+      "RB": {
+        "usually": 1, 
+        "still": 1, 
+        "never": 1
+      }, 
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "idea": {
+      "VBZ": {
+        "is": 1
+      }
+    }, 
+    "delivery": {
+      "IN": {
+        "in": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "agustawestland": {
+      "NNP": {
+        "aw139": 1
+      }
+    }, 
+    "archaic": {
+      "NN": {
+        "concept": 1
+      }
+    }, 
+    "land": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "hear": {
+      "NN": {
+        "music": 1
+      }
+    }, 
+    "authority": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "reinventing": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "linguistic": {
+      "NN": {
+        "substratum": 1
+      }
+    }, 
+    "esercizio": {
+      "NNP": {
+        "elicotteri": 1
+      }
+    }, 
+    "473.4": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "metallic": {
+      "NN": {
+        "sound": 1
+      }
+    }, 
+    "with": {
+      "NN": {
+        "time": 1, 
+        "capital": 1, 
+        "resolve": 1, 
+        "power": 1, 
+        "government": 1
+      }, 
+      "CD": {
+        "608.3": 1, 
+        "two": 2
+      }, 
+      "WDT": {
+        "which": 1
+      }, 
+      "JJ": {
+        "venetian": 1, 
+        "modern": 1, 
+        "young": 1, 
+        "neo-gothic": 1
+      }, 
+      "WP": {
+        "what": 1
+      }, 
+      "DT": {
+        "this": 2, 
+        "a": 4, 
+        "the": 7, 
+        "all": 1
+      }, 
+      "NNS": {
+        "ropes": 1
+      }, 
+      "NNP": {
+        "popov": 1, 
+        "soyuz": 1, 
+        "hiv": 1, 
+        "air": 1
+      }
+    }, 
+    "he": {
+      "RB": {
+        "also": 1
+      }, 
+      "VBD": {
+        "considered": 1, 
+        "attended": 1, 
+        "taught": 1, 
+        "played": 1
+      }
+    }, 
+    "fades": {
+      "RB": {
+        "away": 1
+      }
+    }, 
+    "also": {
+      "VBD": {
+        "served": 1, 
+        "called": 1
+      }
+    }, 
+    "spaceflight": {
+      "TO": {
+        "to": 1
+      }, 
+      "IN": {
+        "into": 1
+      }
+    }, 
+    "october": {
+      "CD": {
+        "1969": 1, 
+        "4": 1
+      }
+    }, 
+    "1974": {
+      "NN": {
+        "season": 1
+      }
+    }, 
+    "nigerian": {
+      "NNP": {
+        "government": 1
+      }
+    }, 
+    "whether": {
+      "IN": {
+        "by": 1
+      }
+    }, 
+    "official": {
+      "NN": {
+        "website": 1
+      }
+    }, 
+    "venetian": {
+      "NN": {
+        "lexicon": 1
+      }
+    }, 
+    "paired": {
+      "NNS": {
+        "vocals": 1
+      }
+    }, 
+    "taught": {
+      "JJ": {
+        "social": 1
+      }
+    }, 
+    "pumped": {
+      "CD": {
+        "300": 1
+      }
+    }, 
+    "site": {
+      "JJ": {
+        "next": 1
+      }
+    }, 
+    "emotional": {
+      "NN": {
+        "register": 1
+      }
+    }, 
+    "problem": {
+      "CC": {
+        "and": 1
+      }, 
+      ",": {
+        ",": 1
+      }
+    }, 
+    "moshrageh": {
+      "NNP": {
+        "district": 1
+      }
+    }, 
+    "minutes": {
+      "NNP": {
+        "soyuz": 1
+      }
+    }, 
+    "called": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "russian": {
+      "NNS": {
+        "genders": 1, 
+        "acts": 1, 
+        "nouns": 1
+      }, 
+      "WDT": {
+        "that": 1
+      }, 
+      "NN": {
+        "auxiliary": 1
+      }, 
+      ".": {
+        ".": 2
+      }
+    }, 
+    "strongly": {
+      "VBN": {
+        "conserved": 1
+      }
+    }, 
+    "passenger": {
+      "NNS": {
+        "services": 1
+      }
+    }, 
+    "ambivalence": {
+      "IN": {
+        "toward": 1
+      }
+    }, 
+    "aerial": {
+      "NN": {
+        "work": 1
+      }
+    }, 
+    "adults": {
+      "NNS": {
+        "ages": 1
+      }, 
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "johnny": {
+      "NNP": {
+        "welaj": 1
+      }
+    }, 
+    "interventions": {
+      "VBP": {
+        "are": 1
+      }
+    }, 
+    "likewise": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "9,296": {
+      "NNS": {
+        "families": 1
+      }
+    }, 
+    "moved": {
+      "TO": {
+        "to": 1
+      }
+    }, 
+    "\u0438\u043c\u0435\u0442\u044c": {
+      "NNP": {
+        "[": 1
+      }
+    }, 
+    "an": {
+      "RB": {
+        "often": 1
+      }, 
+      "JJ": {
+        "american": 1, 
+        "italian": 2
+      }, 
+      "NN": {
+        "incidence": 1, 
+        "amateur": 1, 
+        "aura": 1
+      }
+    }, 
+    "''": {
+      "``": {
+        "``": 1
+      }, 
+      "VBG": {
+        "according": 1
+      }, 
+      ",": {
+        ",": 4
+      }, 
+      ".": {
+        ".": 4
+      }, 
+      "IN": {
+        "as": 1, 
+        "in": 1
+      }, 
+      "VBZ": {
+        "is": 1
+      }, 
+      "DT": {
+        "all": 1
+      }, 
+      "NNP": {
+        "likewise": 1, 
+        "heather": 1, 
+        "kuczynski": 1, 
+        "foote": 1, 
+        "brian": 1
+      }
+    }, 
+    "as": {
+      "VBG": {
+        "saying": 1
+      }, 
+      "JJ": {
+        "high": 1, 
+        "unmistakable": 1
+      }, 
+      "NN": {
+        "moody": 1
+      }, 
+      "CD": {
+        "50": 1
+      }, 
+      "TO": {
+        "to": 1
+      }, 
+      "PRP": {
+        "you": 1, 
+        "it": 1
+      }, 
+      "RB": {
+        "ever": 1, 
+        "well": 1
+      }, 
+      "IN": {
+        "of": 2, 
+        "in": 2, 
+        "with": 1, 
+        "if": 1
+      }, 
+      "DT": {
+        "a": 5, 
+        "the": 3, 
+        "another": 1
+      }, 
+      "NNP": {
+        "quelia": 1, 
+        "shanghai": 1, 
+        "alitalia": 1, 
+        "antonio": 1, 
+        "bidney": 1, 
+        "elivie.the": 1, 
+        "danilova": 1, 
+        "c.a.i": 1, 
+        "deutschrussisch": 1, 
+        "volare": 1
+      }
+    }, 
+    "initial": {
+      "``": {
+        "``": 1
+      }
+    }, 
+    "at": {
+      "DT": {
+        "a": 1, 
+        "the": 5, 
+        "all": 1, 
+        "that": 1
+      }, 
+      "CD": {
+        "16:29": 1, 
+        "one": 1
+      }, 
+      "JJR": {
+        "higher": 1
+      }, 
+      "NN": {
+        "www.baseball-almanac.com": 1
+      }, 
+      "NNP": {
+        "catasauqua": 1, 
+        "pro-football-reference.com": 1, 
+        "salyut": 1, 
+        "linate": 1, 
+        "baseball": 1, 
+        "find": 1
+      }
+    }, 
+    "valentin": {
+      "NNP": {
+        "lebedev": 1
+      }
+    }, 
+    "lifetime": {
+      "NN": {
+        "risk": 1
+      }
+    }, 
+    "ship": {
+      ",": {
+        ",": 1
+      }, 
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "hospitals": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "film": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "2agusta-bell": {
+      "NNP": {
+        "ab.102": 1
+      }
+    }, 
+    "elivie": {
+      ".": {
+        ".": 1
+      }, 
+      "NNS": {
+        "operations": 1
+      }, 
+      "VBD": {
+        "was": 1
+      }
+    }, 
+    "compared": {
+      "NNP": {
+        "zola": 1
+      }, 
+      "IN": {
+        "with": 1
+      }
+    }, 
+    "heather": {
+      "NNP": {
+        "phares": 1
+      }
+    }, 
+    "t-5": {
+      "VBD": {
+        "had": 1, 
+        "was": 1
+      }, 
+      "NN": {
+        "spacecraft": 1
+      }, 
+      ".": {
+        ".": 2
+      }
+    }, 
+    "t-6": {
+      "CC": {
+        "and": 1
+      }, 
+      ".": {
+        ".": 1
+      }, 
+      "NN": {
+        "mission": 2
+      }, 
+      "VBD": {
+        "was": 1, 
+        "launched": 1
+      }
+    }, 
+    "no": {
+      "JJ": {
+        "formal": 1
+      }
+    }, 
+    "47": {
+      "NNS": {
+        "years": 1
+      }
+    }, 
+    "when": {
+      "PRP": {
+        "i": 1, 
+        "we": 1, 
+        "she": 1, 
+        "it": 1
+      }, 
+      "VBN": {
+        "merged": 1
+      }, 
+      "CD": {
+        "one": 1
+      }
+    }, 
+    "deutschrussisch": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "field": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "other": {
+      "NNS": {
+        "states": 1, 
+        "cultures": 1, 
+        "countries": 1, 
+        "concepts": 1, 
+        "artists": 1
+      }, 
+      "JJ": {
+        "northern": 1
+      }
+    }, 
+    "5": {
+      "NNS": {
+        "years": 1
+      }, 
+      "POS": {
+        "'s": 1
+      }, 
+      "NN": {
+        "draft": 1, 
+        "mortality": 1
+      }
+    }, 
+    "branch": {
+      "VBG": {
+        "dealing": 1
+      }
+    }, 
+    "'completely": {
+      "VBN": {
+        "lost": 1
+      }
+    }, 
+    "instantly": {
+      "JJ": {
+        "recognisable": 1
+      }
+    }, 
+    "you": {
+      "VBP": {
+        "approach": 1, 
+        "choose": 1
+      }
+    }, 
+    "er": {
+      "NN": {
+        "voice": 1
+      }
+    }, 
+    "t-7": {
+      "VBD": {
+        "included": 1
+      }, 
+      "NN": {
+        "spacecraft": 2
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "undeniably": {
+      "JJ": {
+        "powerful": 1
+      }
+    }, 
+    "woodman": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "coherence": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "'s": {
+      "``": {
+        "``": 1
+      }, 
+      "VBG": {
+        "doing": 1, 
+        "finishing": 1
+      }, 
+      "RB": {
+        "unmistakably": 1
+      }, 
+      "NN": {
+        "conatus": 1, 
+        "resident": 2, 
+        "call": 1, 
+        "branch": 1, 
+        "time": 1, 
+        "usage": 1, 
+        "role": 1, 
+        "voice": 2, 
+        "mortality": 1, 
+        "population": 1
+      }, 
+      "JJ": {
+        "seminal": 1, 
+        "refreshing": 1, 
+        "throatily": 1, 
+        "second": 1, 
+        "small": 1, 
+        "onboard": 1, 
+        "weekly": 1
+      }, 
+      "DT": {
+        "a": 1
+      }, 
+      "NNS": {
+        "structures": 1, 
+        "vocals": 1
+      }, 
+      "NNP": {
+        "frank": 1, 
+        "stridulum": 1, 
+        "malaria": 1
+      }
+    }, 
+    "vocabulary": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "getting": {
+      "JJ": {
+        "ready": 1
+      }
+    }, 
+    "6850": {
+      "NN": {
+        "kg": 1
+      }
+    }, 
+    "2005": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "describe": {
+      "JJ": {
+        "other": 1
+      }
+    }, 
+    "visits": {
+      "IN": {
+        "from": 1
+      }
+    }, 
+    "transported": {
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "concurrent": {
+      "NN": {
+        "responsibility": 1
+      }
+    }, 
+    "meaning": {
+      "NNS": {
+        "'to": 1
+      }, 
+      "NN": {
+        "'surprise": 1
+      }, 
+      "CD": {
+        "'to": 1
+      }
+    }, 
+    "journey": {
+      "RB": {
+        "so": 1
+      }, 
+      ".": {
+        ".": 1
+      }
+    }, 
+    "\u00fcberraschung": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "fresh": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "included": {
+      "DT": {
+        "a": 2, 
+        "the": 1
+      }
+    }, 
+    "brass": {
+      "NN": {
+        "band.\u201d": 1
+      }
+    }, 
+    "uss": {
+      "NNP": {
+        "arizonan": 1, 
+        "arizona": 1
+      }
+    }, 
+    "structure": {
+      "IN": {
+        "into": 1
+      }
+    }, 
+    "registry": {
+      "IN": {
+        "of": 1
+      }, 
+      "NNP": {
+        "identification": 1
+      }
+    }, 
+    "tiger": {
+      "NNP": {
+        "stadium": 1
+      }
+    }, 
+    "accidents": {
+      ",": {
+        ",": 1
+      }
+    }, 
+    "eurocopter": {
+      "NNP": {
+        "bk": 1
+      }
+    }, 
+    "using": {
+      "DT": {
+        "a": 1
+      }
+    }, 
+    "controlled": {
+      "RB": {
+        "here": 1
+      }
+    }, 
+    "organism": {
+      "POS": {
+        "'s": 1
+      }
+    }, 
+    "odds": {
+      "''": {
+        "''": 1
+      }
+    }, 
+    "percentage": {
+      "IN": {
+        "of": 1
+      }
+    }, 
+    "rather": {
+      "IN": {
+        "than": 2
+      }
+    }, 
+    "domination": {
+      "''": {
+        "''": 1
+      }
+    }, 
+    "rule": {
+      "WDT": {
+        "that": 1
+      }, 
+      "CD": {
+        "5": 1
+      }
+    }, 
+    "sounded": {
+      "IN": {
+        "like": 1
+      }
+    }, 
+    "2002": {
+      "NNP": {
+        "detroit": 2
+      }
+    }, 
+    "elbrus": {
+      "NN": {
+        "crew": 3
+      }
+    }, 
+    "oriental": {
+      "NNP": {
+        "sports": 1
+      }
+    }, 
+    "2006": {
+      "NN": {
+        "census": 2
+      }
+    }, 
+    "situations": {
+      "IN": {
+        "in": 1
+      }
+    }, 
+    "time": {
+      "VBG": {
+        "according": 1
+      }, 
+      "VBD": {
+        "docked": 1
+      }, 
+      "VBN": {
+        "known": 1
+      }, 
+      ",": {
+        ",": 2
+      }, 
+      "WRB": {
+        "when": 1
+      }, 
+      "DT": {
+        "the": 1
+      }
+    }, 
+    "pump": {
+      "NN": {
+        "fuel": 1
+      }
+    }, 
+    "rural": {
+      "NNP": {
+        "district": 1
+      }
+    }, 
+    "2008": {
+      "CC": {
+        "and": 1
+      }
+    }, 
+    "2009": {
+      ".": {
+        ".": 1
+      }
+    }, 
+    "having": {
+      "VBN": {
+        "tested": 1
+      }
+    }, 
+    "songs": {
+      "VBN": {
+        "written": 1
+      }
+    }
+  }
+}
