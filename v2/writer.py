@@ -28,6 +28,7 @@ flags = {
     '-e': {'configVar': 'entropy', 'type': 'num'},
     '-d': {'configVar': 'dictionaryFile', 'type': 'string'},
     '-n': {'configVar': 'numSentences', 'type': 'num'},
+    '-training': {'configVar': 'training', 'type': 'unary'}
 }
 
 def isnum(input): return input.isdigit()
@@ -37,7 +38,8 @@ types = {'num': isnum, 'string': isString}
 config = {
     'entropy': 1,
     'numSentences': 5,
-    'dictionaryFile': 'default'
+    'dictionaryFile': 'default',
+    'training': False
 }
 
 startingPosOptions = ['NN', 'NNS', 'NNP', 'EX', 'CD', 'DT', 'JJ', 'PRP',
@@ -155,15 +157,18 @@ def chooseReplacementPos(previousWord):
 
 
 def getNextWord(previousWord, pos):
-    if pos in words[previousWord]:
-        nextWord = weightedChoice(words[previousWord][pos])
-        return (nextWord, pos)
-    else:
-        if pos not in punctuations:
-            replacement = chooseReplacementPos(previousWord)
-            return (weightedChoice(words[previousWord][replacement]), replacement)
+    if previousWord in words.keys():
+        if pos in words[previousWord]:
+            nextWord = weightedChoice(words[previousWord][pos])
+            return (nextWord, pos)
         else:
-            return (pos, pos)
+            if pos not in punctuations:
+                replacement = chooseReplacementPos(previousWord)
+                return (weightedChoice(words[previousWord][replacement]), replacement)
+            else:
+                return (pos, pos)
+    else:
+        return getNextWord(random.choice(lookup[pos]), pos)
 
 
 def cleanSentence(sentence):
@@ -236,6 +241,39 @@ def makeSentence():
     else:
         return makeSentence()
 
+def makeTrainingSentence():
+    posOrder = []
+    currentPos = getStartingPos()
+    posOrder.append(currentPos)
+
+    sentenceWords = []
+
+    prevWord = chooseRandomWordWithPos(currentPos)
+    sentenceWords.append(prevWord)
+
+    while currentPos not in endPunctuations:
+        currentPos = getNextPos(currentPos)
+
+        (nextWord, nextPos) = getNextWord(prevWord, currentPos)
+        if nextWord in words.keys():
+            sentenceWords.append(nextWord)
+            posOrder.append(nextPos)
+            prevWord = nextWord
+            currentPos = nextPos
+
+    sentence = ' '.join(sentenceWords)
+
+    sentence = cleanSentence(sentence)
+
+    if isAcceptable(sentence):
+        for pos in posOrder:
+            print pos + " ",
+        print
+        print sentence
+        return (sentenceWords, posOrder)
+    else:
+        return makeTrainingSentence()
+
 
 def generateSentences():
     for i in range(0, config['numSentences']):
@@ -258,9 +296,50 @@ def loadDictionary(name):
     return (dictionary['words'], dictionary['partsOfSpeech'], dictionary['lookup'], dictionary['meta'])
 
 
+def trainOnSentence((wordList, posOrder)):
+    for i in range(0, (len(wordList) - 2)):
+        words[wordList[i]][posOrder[i+1]][wordList[i+1]] += 1
+        partsOfSpeech[posOrder[i]][posOrder[i+1]] += 1
+    saveDictionary(words, partsOfSpeech, config['dictionaryFile'])
 
 
 
+
+def train():
+    print ".\n.\n.\n.\n.\n.\n."
+    trainingArray = []
+    for i in range(0, 5):
+        print str(i+1) + ")\t",
+        trainingArray.append(makeTrainingSentence())
+        print
+    print "[Enter -1 to quit]"
+    response = raw_input("Enter sentences which made sense: ")
+
+    if len(response) > 0:
+        for i in response:
+            if 'q' in i:
+                return response
+            else:
+                i = int(i)
+                if i > 0:
+                    trainOnSentence(trainingArray[i-1])
+
+    return response
+
+
+
+
+
+def training():
+    command = ''
+    while 'q' not in command:
+        command = train()
+
+
+def saveDictionary(words, partsOfSpeech, name):
+    content = {'meta': meta, 'words': words, 'partsOfSpeech': partsOfSpeech, 'lookup': lookup}
+    with open('dictionaries/' + name,'w+') as contents:
+        contents.write(json.dumps(content, indent=2))
 
 
 
@@ -275,5 +354,7 @@ parseArguments(sys.argv)
 
 (words, partsOfSpeech, lookup, meta) = loadDictionary(config['dictionaryFile'])
 
-
-generateSentences()
+if config['training']:
+    training()
+else:
+    generateSentences()
