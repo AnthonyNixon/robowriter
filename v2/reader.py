@@ -50,6 +50,8 @@ config = {
     'syncMaster': False
 }
 
+restrictedWords = ['[', ']', '(', ')', '{', '}', "''"]
+
 
 
 ################################################################################
@@ -68,7 +70,7 @@ def addWord(firstWord, secondPos, secondWord):
     firstWord = firstWord.lower().replace("\n", '')
     secondWord = secondWord.lower().replace("\n", '')
 
-    if firstWord != "" and secondWord != "":
+    if firstWord != "" and secondWord not in restrictedWords:
         if firstWord in words:
             if secondPos in words[firstWord]:
                 if secondWord in words[firstWord][secondPos]:
@@ -156,7 +158,7 @@ def learnAbout(topics):
             print('POS:' + str(len(partsOfSpeech)))
 
 def readRandom():
-    randomArticles = wikipedia.random(pages=10)
+    randomArticles = wikipedia.random(pages=3)
     try:
         for topic in randomArticles: # string case
             crawlAndLearn(topic)
@@ -179,7 +181,7 @@ def loadFileContents(name):
 
 
 def loadDictionary(name):
-    dictionary = loadFileContents(name)
+    dictionary = loadFileContents('dictionaries/' + name)
     return (dictionary['words'], dictionary['partsOfSpeech'], dictionary['lookup'], dictionary['meta'])
 
 
@@ -209,6 +211,10 @@ def parseArguments(argv):
 
 def saveDictionary(words, partsOfSpeech, lookup, meta, name):
     content = {'meta': meta, 'words': words, 'partsOfSpeech': partsOfSpeech, 'lookup': lookup}
+    print "Saving..."
+    print "Words: " + str(len(words))
+    print "Parts of Speech: " + str(len(partsOfSpeech))
+    print "Lookup: " + str(len(lookup))
     with open('dictionaries/' + name,'w+') as contents:
         contents.write(json.dumps(content, indent=2))
 
@@ -236,6 +242,7 @@ def configDiffersFromMeta(config, meta):
 parseArguments(sys.argv)
 
 if (config['deleteDictionary']):
+    print "deleting"
     deleteDictionary(config['dictionaryFile'])
 
 (words, partsOfSpeech, lookup, meta) = loadDictionary(config['dictionaryFile'])

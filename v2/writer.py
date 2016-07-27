@@ -40,6 +40,10 @@ config = {
     'dictionaryFile': 'default'
 }
 
+startingPosOptions = ['NN', 'NNS', 'NNP', 'EX', 'CD', 'DT', 'JJ', 'PRP',
+    'WDT', 'WP', 'WP$', 'WRB']
+ignorePos = ["``", ";", ":", "'", '"', "[", "]"]
+
 
 
 ################################################################################
@@ -74,8 +78,8 @@ def parseArguments(argv):
             i += 1
 
 
-def getRandomPos():
-    return random.choice(partsOfSpeech.keys())
+def getStartingPos():
+    return random.choice(startingPosOptions)
 
 
 def getNextPosSuggestions(currentPos):
@@ -83,7 +87,7 @@ def getNextPosSuggestions(currentPos):
     if currentPos in partsOfSpeech:
         suggestions = partsOfSpeech[currentPos]
     else:
-        suggestions = ["."]
+        suggestions = {".": 1}
     return suggestions
 
 def getNextPos(currentPos):
@@ -102,25 +106,96 @@ def getNextPos(currentPos):
 
 def generatePosOrder():
     posOrder = []
-    currentPos = getRandomPos()
+    currentPos = getStartingPos()
     while currentPos not in [".", "?", "!"]:
-        posOrder.append(currentPos)
+        if currentPos not in ignorePos:
+            posOrder.append(currentPos)
         currentPos = getNextPos(currentPos)
 
     posOrder.append(currentPos)
     return posOrder
 
 
-def chooseRandomStartingWord(pos):
+def chooseRandomWordWithPos(pos):
     return random.choice(lookup[pos])
 
 
+def weightedChoice(choices):
+    totalWeight = 0
+    currentWeight = 0
+    weightedArray = []
+
+    for choice in choices:
+        totalWeight += int(choices[choice])
+        for i in range(0, choices[choice]):
+            weightedArray.append(choice)
+    return random.choice(weightedArray)
+
+
+def getNextWord(previousWord, pos):
+    if pos in words[previousWord]:
+        return weightedChoice(words[previousWord][pos])
+    else:
+        return chooseRandomWordWithPos(pos)
+
+
+def cleanSentence(sentence):
+    # Move possesives such as 's to the word without a space.
+    #EX: [Anthony 's] => [Anthony's]
+    sentence = sentence.replace(" '", "'")
+
+    # Move punctuations to follow the word without a space.
+    #EX: [word .] => [word.]
+    sentence = sentence.replace(" .", ".")
+    sentence = sentence.replace(" !", "!")
+    sentence = sentence.replace(" ?", "?")
+    sentence = sentence.replace(" ,", ",")
+
+
+    #Capitalize the first Letter of the first word
+    #EX: [the quick brown fox.] => [The quick brown fox.]
+    sentence = sentence.capitalize()
+
+    #Capitalize single i's
+    #EX: [I think i can] => [I think I can]
+    sentence = sentence.replace(' i ', ' I ')
+
+    return sentence
+
+
+def isAcceptable(sentence):
+    wordList = sentence.split(' ');
+
+    # Accept only sentences longer than 4 words
+    if len(wordList) < 5:
+        return False
+
+    # Accept only sentences with non-repeating words
+    for i in range(len(wordList)-1):
+        if word[i] in word[i+1] or word[i+1] in word[i]:
+            return False
+
+    return True
+
 def makeSentence():
     posOrder = generatePosOrder()
-    print posOrder
 
     sentenceWords = []
-    sentenceWords.append(chooseRandomStartingWord(posOrder[0]))
+
+    prevWord = chooseRandomWordWithPos(posOrder[0])
+    sentenceWords.append(prevWord)
+
+    for i in range(1, len(posOrder)):
+        sentenceWords.append(getNextWord(prevWord, posOrder[i]))
+
+    sentence = ' '.join(sentenceWords)
+
+    sentence = cleanSentence(sentence)
+
+    if isAcceptable(sentence):
+        return sentence
+    else:
+        return makeSentence()
 
 
 def generateSentences():
